@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    margin: 0;
+    padding: 0 20px;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+.country-section {
+    margin-bottom: 40px;
+}
+.country-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #333;
+}
+.glass-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.glass-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    width: 220px;
+    padding: 15px;
+    text-align: center;
+}
+.glass-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+.glass-name {
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+}
+.brewery {
+    color: #666;
+    font-size: 0.95em;
+}
+.description {
+    font-size: 0.9em;
+    color: #444;
+}
+.country-btn {
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.2em;
+    margin: 10px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.country-btn:hover {
+    background: #f0f0f0;
+}
+.flag {
+    font-size: 1.5em;
+    margin-right: 10px;
+}
+.back-btn {
+    margin-bottom: 20px;
+    padding: 8px 16px;
+    font-size: 1em;
+    border: none;
+    border-radius: 6px;
+    background: #eee;
+    cursor: pointer;
+}
+.brewery-section {
+    margin-bottom: 30px;
+}
+.brewery-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.brewery-photo {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 12px;
+    border: 2px solid #ddd;
+}
+.brewery-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #222;
+}
+.brewery-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-top: 20px;
+}
+.brewery-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    width: 180px;
+    padding: 16px;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.brewery-card:hover {
+    background: #f0f0f0;
+}
+.brewery-photo {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: 2px solid #ddd;
+}
+.brewery-name {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #222;
+}
+.intro {
+    max-width: 600px;
+    margin: 20px auto 30px auto;
+    font-size: 1.1em;
+    color: #555;
+    text-align: center;
+}
+.continent-title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 30px 0 10px 0;
+    color: #444;
+}
+.continent-section {
+    margin-bottom: 20px;
+}
+.modal {
+    position: fixed;
+    z-index: 1000;
+    left: 0; top: 0; width: 100vw; height: 100vh;
+    background: rgba(0,0,0,0.5);
+    display: flex; align-items: center; justify-content: center;
+}
+.modal-content {
+    background: #fff; padding: 24px; border-radius: 8px; max-width: 400px; width: 90%; text-align: center; position: relative;
+}
+.close-btn {
+    position: absolute; top: 12px; right: 16px; font-size: 2em; cursor: pointer;
+}
+.modal-content img {
+    width: 100%; max-width: 220px; border-radius: 8px; margin-bottom: 16px;
+}
