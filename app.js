@@ -1,39 +1,38 @@
 const beerGlasses = [
-    {
-        country: "Germany",
-        name: "Weizen Glass",
-        brewery: "Paulaner",
-        image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
-        description: "Classic tall wheat beer glass from Paulaner."
-    },
-    {
-        country: "Belgium",
-        name: "Goblet",
-        brewery: "Chimay",
-        image: "https://images.unsplash.com/photo-1514361892635-cebbf7d4b6b3?auto=format&fit=crop&w=400&q=80",
-        description: "Wide-mouthed goblet for Belgian ales."
-    },
-    {
-        country: "USA",
-        name: "Pint Glass",
-        brewery: "Sierra Nevada",
-        image: "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
-        description: "Standard American pint glass."
-    },
-    {
-        country: "Germany",
-        name: "Stein",
-        brewery: "Hofbräuhaus",
-        image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
-        description: "Traditional German beer stein."
-    }
+    ...glassesBelgium,
+    ...glassesBulgaria,
+    ...glassesFrance,
+    ...germany,
+    ...glassesIreland,
+    ...glassesPortugal,
+    ...glassesSpain,
+    ...glassesSweden,
 ];
 
 // Map country to flag emoji
 const countryFlags = {
-    Germany: "🇩🇪",
-    Belgium: "🇧🇪",
-    USA: "🇺🇸"
+    'Austria': '🇦🇹',
+    'Bayern': '🇩🇪',
+    'Belgium': '🇧🇪',
+    'Bulgaria': '🇧🇬',
+    'Czechia': '🇨🇿',
+    'Denmark': '🇩🇰',
+    'Estonia': '🇪🇪',
+    'France': '🇫🇷',
+    'Germany': '🇩🇪',
+    'Greece': '🇬🇷',
+    'Hungary': '🇭🇺',
+    'Ireland': '🇮🇪',
+    'Italy': '🇮🇹',
+    'Netherlands': '🇳🇱',
+    'Poland': '🇵🇱',
+    'Portugal': '🇵🇹',
+    'Romania': '🇷🇴',
+    'Russia': '🇷🇺',
+    'Spain': '🇪🇸',
+    'Sweden': '🇸🇪',
+    'Ukraine': '🇺🇦',
+    'United Kingdom': '🇬🇧',
 };
 
 // Group by country
@@ -42,17 +41,24 @@ const grouped = beerGlasses.reduce((acc, glass) => {
     acc[glass.country].push(glass);
     return acc;
 }, {});
-
 const collectionDiv = document.getElementById('collection');
 
 const countryContinents = {
-    Germany: "Europe",
-    Belgium: "Europe",
-    USA: "North America"
-    // Add more as needed
+    "Bulgaria": "Europe",
+    "Belgium": "Europe",
+    "France": "Europe",
+    "Germany": "Europe",
+    "Ireland": "Europe",
+    "Portugal": "Europe",
+    "Spain": "Europe",
+    "Sweden": "Europe",
 };
 
 const continentOrder = ["Europe", "North America", "Asia", "South America", "Africa", "Oceania"];
+
+function getBreweryImage(breweryName) {
+    return breweries[breweryName] || 'breweries/img/default.png';
+}
 
 function renderCountries() {
     document.querySelector('.intro').style.display = 'block';
@@ -108,7 +114,7 @@ function renderGlasses(country) {
     Object.keys(breweryGroups).forEach(brewery => {
         const breweryCard = document.createElement('div');
         breweryCard.className = 'brewery-card';
-        const breweryImage = breweryGroups[brewery][0].image;
+        const breweryImage = getBreweryImage(brewery);
         breweryCard.innerHTML = `
             <img class="brewery-photo" src="${breweryImage}" alt="${brewery}" />
             <div class="brewery-name">${brewery}</div>
@@ -167,8 +173,12 @@ function showGlassModal(glass) {
     modal.style.display = 'flex';
 }
 
-closeBtn.onclick = () => { modal.style.display = 'none'; };
-modal.onclick = (e) => { if (e.target === modal) modal.style.display = 'none'; };
+closeBtn.onclick = () => {
+    modal.style.display = 'none';
+};
+modal.onclick = (e) => {
+    if (e.target === modal) modal.style.display = 'none';
+};
 
 
 renderCountries();
