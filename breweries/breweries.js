@@ -24,5 +24,6 @@ const breweries = {
     "Victoria Malaga": "breweries/img/Spain/Victoria.png",
     "Dorada": "breweries/img/Spain/Dorada.png",
     "Euro Pils": "breweries/img/Spain/EuroPils.png",
+    "Arriaca": "breweries/img/Spain/Arriaca.png",
     "Spendrup's": "breweries/img/Sweden/Spendrups.png",
 };

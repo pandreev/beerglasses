@@ -79,7 +79,8 @@ function renderCountries() {
         continentGroups[continent].forEach(country => {
             const btn = document.createElement('button');
             btn.className = 'country-btn';
-            btn.innerHTML = `<span class="flag">${countryFlags[country] || ''}</span> <span class="country-name">${country}</span>`;
+            const countryName = country + " (" + grouped[country].length + ")";
+            btn.innerHTML = `<span class="flag">${countryFlags[country] || ''}</span> <span class="country-name">${countryName}</span>`;
             btn.onclick = () => renderGlasses(country);
             section.appendChild(btn);
         });
@@ -115,9 +116,10 @@ function renderGlasses(country) {
         const breweryCard = document.createElement('div');
         breweryCard.className = 'brewery-card';
         const breweryImage = getBreweryImage(brewery);
+        const breweryName = brewery + " (" + breweryGroups[brewery].length + ")";
         breweryCard.innerHTML = `
             <img class="brewery-photo" src="${breweryImage}" alt="${brewery}" />
-            <div class="brewery-name">${brewery}</div>
+            <div class="brewery-name">${breweryName}</div>
         `;
         breweryCard.onclick = () => renderBreweryGlasses(country, brewery);
         breweryList.appendChild(breweryCard);

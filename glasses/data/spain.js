@@ -76,4 +76,11 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/EuroPils_330ml.png'
     },
+    {
+        name: 'Arriaca',
+        description: 'Vaso 330ml',
+        brewery: 'Arriaca',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Arriaca_330ml.png'
+    },
 ];
