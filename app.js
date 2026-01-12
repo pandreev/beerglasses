@@ -4,6 +4,7 @@ const beerGlasses = [
     ...glassesFrance,
     ...germany,
     ...glassesIreland,
+    ...glassesNetherlands,
     ...glassesPortugal,
     ...glassesSpain,
     ...glassesSweden,
@@ -50,6 +51,7 @@ const countryContinents = {
     "Germany": "Europe",
     "Ireland": "Europe",
     "Portugal": "Europe",
+    "Netherlands": "Europe",
     "Spain": "Europe",
     "Sweden": "Europe",
 };

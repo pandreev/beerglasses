@@ -21,6 +21,20 @@ const glassesSpain = [
         image: 'glasses/img/Spain/1906_Pelirroja_330ml.png'
     },
     {
+        name: '1906 Reserva Especial',
+        description: 'Copa 330ml',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/1906_Reserva_330ml.png'
+    },
+    {
+        name: '1906 Reserva Especial Retro',
+        description: 'Copa 330ml',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/1906_Retro_330ml.png'
+    },
+    {
         name: 'Estrella Galicia',
         description: 'Caña',
         brewery: 'Estrella Galicia',
@@ -40,6 +54,13 @@ const glassesSpain = [
         brewery: 'Cruzcampo',
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo_Gran_Reserva_330ml.png'
+    },
+    {
+        name: 'Cruzcampo Especial',
+        description: 'Copa',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Especial.png'
     },
     {
         name: 'El Aguila',
@@ -82,5 +103,12 @@ const glassesSpain = [
         brewery: 'Arriaca',
         country: 'Spain',
         image: 'glasses/img/Spain/Arriaca_330ml.png'
+    },
+    {
+        name: 'Amstel Cerveza',
+        description: 'Vaso 330ml',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Amstel_Cerveza.png'
     },
 ];

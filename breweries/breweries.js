@@ -16,6 +16,7 @@ const breweries = {
     "Alpirsbacher": "breweries/img/Germany/Alpirsbacher.png",
     "Dom Kölsch": "breweries/img/Germany/Dom_Kolsch.png",
     "Kilkenny": "breweries/img/Ireland/Kilkenny.png",
+    "Heineken": "breweries/img/Netherlands/Heineken.png",
     "Super Bock": "breweries/img/Portugal/SuperBock.png",
     "Alhambra": "breweries/img/Spain/Alhambra.png",
     "Estrella Galicia": "breweries/img/Spain/Estrella_Galicia.png",
@@ -25,5 +26,6 @@ const breweries = {
     "Dorada": "breweries/img/Spain/Dorada.png",
     "Euro Pils": "breweries/img/Spain/EuroPils.png",
     "Arriaca": "breweries/img/Spain/Arriaca.png",
+    "Amstel Cerveza": "breweries/img/Spain/Amstel_Cerveza.png",
     "Spendrup's": "breweries/img/Sweden/Spendrups.png",
 };
