@@ -79,7 +79,7 @@ function renderCountries() {
         const section = document.createElement('div');
         section.className = 'continent-section';
         section.innerHTML = `<div class="continent-title">${continent}</div>`;
-        continentGroups[continent].forEach(country => {
+        continentGroups[continent].sort().forEach(country => {
             const btn = document.createElement('button');
             btn.className = 'country-btn';
             const countryName = country + " (" + grouped[country].length + ")";
@@ -119,7 +119,7 @@ function renderGlasses(country) {
 
     const breweryList = document.createElement('div');
     breweryList.className = 'brewery-list';
-    Object.keys(breweryGroups).forEach(brewery => {
+    Object.keys(breweryGroups).sort().forEach(brewery => {
         const breweryCard = document.createElement('div');
         breweryCard.className = 'brewery-card';
         const breweryImage = getBreweryImage(brewery);
