@@ -1,9 +1,11 @@
 const glassesBulgaria = [
     {
         name: 'Gaida Premium',
-        description: '500ml',
+        type: '500ml',
+        description: '',
         brewery: 'Gaida',
         country: 'Bulgaria',
-        image: 'glasses/img/Bulgaria/Gaida_500ml.png'
+        image: 'glasses/img/Bulgaria/Gaida_500ml.png',
+        price: '2.00'
     },
 ];

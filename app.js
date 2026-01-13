@@ -163,7 +163,7 @@ function renderBreweryGlasses(country, brewery) {
         card.innerHTML = `
         <img src="${glass.image}" alt="${glass.name}">
         <div class="glass-name">${glass.name}</div>
-        <div class="description">${glass.description}</div>
+        <div class="description">${glass.type}</div>
     `;
         card.onclick = () => showGlassModal(glass);
         list.appendChild(card);
@@ -175,16 +175,18 @@ function renderBreweryGlasses(country, brewery) {
 // Modal logic
 const modal = document.getElementById('glass-modal');
 const modalImage = document.getElementById('modal-image');
+const modalImageBack = document.getElementById('modal-image-back');
 const modalName = document.getElementById('modal-name');
-const modalBrewery = document.getElementById('modal-brewery');
+const modalType = document.getElementById('modal-type');
 const modalDescription = document.getElementById('modal-description');
 const closeBtn = document.querySelector('.close-btn');
 
 function showGlassModal(glass) {
     modalImage.src = glass.image;
     modalImage.alt = glass.name;
+    modalImageBack.src = glass.backImage;
     modalName.textContent = glass.name;
-    modalBrewery.textContent = glass.brewery;
+    modalType.textContent = glass.type;
     modalDescription.textContent = glass.description;
     modal.style.display = 'flex';
 }

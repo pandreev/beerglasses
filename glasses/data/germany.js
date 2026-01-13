@@ -1,93 +1,179 @@
 const germany = [
     {
         name: 'Paulaner Helles',
-        description: 'Maßkrug 1l',
+        type: 'Maßkrug 1l',
+        description: '',
         brewery: 'Paulaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_1l.png'
+        image: 'glasses/img/Germany/Paulaner_1l.png',
+        price: '0.00'
     },
     {
         name: 'Paulaner Helles',
-        description: 'Goblet 400ml',
+        type: 'Goblet 400ml',
+        description: '',
         brewery: 'Paulaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_400ml.png'
+        image: 'glasses/img/Germany/Paulaner_400ml.png',
+        price: '0.00'
     },
     {
         name: 'Paulaner Weißbier',
-        description: 'Glas 300ml',
+        type: 'Glas 300ml',
+        description: '',
         brewery: 'Paulaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Weiss_300ml.png'
+        image: 'glasses/img/Germany/Paulaner_Weiss_300ml.png',
+        price: '0.00'
     },
     {
         name: 'Franziskaner Weißbier',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Franziskaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Franziskaner_500ml.png'
+        image: 'glasses/img/Germany/Franziskaner_500ml.png',
+        price: '0.00'
     },
     {
         name: 'Franziskaner Weißbier',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Franziskaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Franziskaner_500ml_2.png'
+        image: 'glasses/img/Germany/Franziskaner_500ml_2.png',
+        price: '1.00'
     },
     {
         name: 'Hofbräuhaus',
-        description: 'Maßkrug 1l',
+        type: 'Maßkrug 1l',
+        description: '',
         brewery: 'Hofbräuhaus',
         country: 'Germany',
-        image: 'glasses/img/Germany/HB_1l.png'
+        image: 'glasses/img/Germany/HB_1l.png',
+        price: '0.00'
     },
     {
         name: 'Camba Sensorik',
-        description: 'Glas 330ml',
+        type: 'Glas 330ml',
+        description: '',
         brewery: 'Camba',
         country: 'Germany',
-        image: 'glasses/img/Germany/Camba_330ml.png'
+        image: 'glasses/img/Germany/Camba_330ml.png',
+        price: '0.00'
     },
     {
         name: 'Erdinger Urweisse',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Erdinger',
         country: 'Germany',
-        image: 'glasses/img/Germany/Erdinger_Urweisse_500ml.png'
+        image: 'glasses/img/Germany/Erdinger_Urweisse_500ml.png',
+        price: '2.00'
     },
     {
         name: 'Kaltenberg Weißbier',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Kaltenberg',
         country: 'Germany',
-        image: 'glasses/img/Germany/Kaltenberg_500ml.png'
+        image: 'glasses/img/Germany/Kaltenberg_500ml.png',
+        price: '1.00'
     },
     {
         name: 'Bischofshof',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Bischofshof',
         country: 'Germany',
-        image: 'glasses/img/Germany/Bischofshof_500ml.png'
+        image: 'glasses/img/Germany/Bischofshof_500ml.png',
+        price: '3.00'
     },
     {
         name: 'Veltins Pils',
-        description: 'Glas 400ml',
+        type: 'Glas 400ml',
+        description: '',
         brewery: 'Veltins',
         country: 'Germany',
-        image: 'glasses/img/Germany/Veltins_400ml.png'
+        image: 'glasses/img/Germany/Veltins_400ml.png',
+        price: '1.00'
     },
     {
         name: 'Alpirsbacher Klosterbräu',
-        description: 'Glas 500ml',
+        type: 'Glas 500ml',
+        description: '',
         brewery: 'Alpirsbacher',
         country: 'Germany',
-        image: 'glasses/img/Germany/Alpirsbacher_500ml.png'
+        image: 'glasses/img/Germany/Alpirsbacher_500ml.png',
+        price: '1.00'
     },
     {
         name: 'Dom Kölsch',
-        description: 'Glas 200ml',
+        type: 'Glas 200ml',
+        description: '',
         brewery: 'Dom Kölsch',
         country: 'Germany',
-        image: 'glasses/img/Germany/Dom_Koelsch_200ml.png'
+        image: 'glasses/img/Germany/Dom_Koelsch_200ml.png',
+        price: '1.00'
+    },
+    {
+        name: 'Garde Kölsch',
+        type: 'Glas 200ml',
+        description: '75 Jahre Liebfrauenschule Köln',
+        brewery: 'Garde Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Garde_Koelsch_200ml.png',
+        backImage: 'glasses/img/Germany/Garde_Koelsch_200ml_back.png',
+        price: '0.50'
+    },
+    {
+        name: 'Reissdorf Kölsch',
+        type: 'Glas 200ml',
+        description: '500 Jahre Deutsches Reinheitsgebot',
+        brewery: 'Reissdorf Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Reissdorf_Koelsch_200ml.png',
+        backImage: 'glasses/img/Germany/Reissdorf_Koelsch_200ml_back.png',
+        price: '0.50'
+    },
+    {
+        name: 'Gereons Kölsch',
+        type: 'Glas 300ml',
+        description: '125 Jahre Hubertus Brauerei',
+        brewery: 'Gereons Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Gereons_Koelsch_200ml.png',
+        backImage: 'glasses/img/Germany/Gereons_Koelsch_200ml_back.png',
+        price: '0.50'
+    },
+    {
+        name: 'Haake Beck Pils',
+        type: 'Goblet 300ml',
+        description: 'Wissen, was gut ist',
+        brewery: 'Haake Beck',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Haake_Beck_Pils_300ml.png',
+        backImage: 'glasses/img/Germany/Haake_Beck_Pils_300ml_back.png',
+        price: '0.50'
+    },
+    {
+        name: 'Feldschlösschen Original',
+        type: 'Glas 200ml',
+        description: '',
+        brewery: 'Feldschlösschen',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Feldschloesschen_Original.png',
+        backImage: 'glasses/img/Germany/Feldschloesschen_Original_back.png',
+        price: '0.50'
+    },
+    {
+        name: "Brinkhoff's",
+        type: 'Glas 250ml',
+        description: 'BVB 09 UEFA Champions League Sieger 1997',
+        brewery: "Brinkhoff's",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Brinkhoffs_BVB.png',
+        backImage: 'glasses/img/Germany/Brinkhoffs_BVB_back.png',
+        price: '0.50'
     },
 ];
