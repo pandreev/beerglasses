@@ -172,16 +172,16 @@ function renderBreweryGlasses(country, brewery) {
     collectionDiv.appendChild(section);
 }
 
-// Modal logic
-const modal = document.getElementById('glass-modal');
-const modalImage = document.getElementById('modal-image');
-const modalImageBack = document.getElementById('modal-image-back');
-const modalName = document.getElementById('modal-name');
-const modalType = document.getElementById('modal-type');
-const modalDescription = document.getElementById('modal-description');
-const closeBtn = document.querySelector('.close-btn');
-
 function showGlassModal(glass) {
+// Modal logic
+    const modal = document.getElementById('glass-modal');
+    const modalImage = document.getElementById('modal-image');
+    const modalImageBack = document.getElementById('modal-image-back');
+    const modalName = document.getElementById('modal-name');
+    const modalType = document.getElementById('modal-type');
+    const modalDescription = document.getElementById('modal-description');
+    const closeBtn = document.querySelector('.close-btn');
+
     modalImage.src = glass.image;
     modalImage.alt = glass.name;
     modalImageBack.src = glass.backImage;
@@ -189,14 +189,14 @@ function showGlassModal(glass) {
     modalType.textContent = glass.type;
     modalDescription.textContent = glass.description;
     modal.style.display = 'flex';
-}
 
-closeBtn.onclick = () => {
-    modal.style.display = 'none';
-};
-modal.onclick = (e) => {
-    if (e.target === modal) modal.style.display = 'none';
-};
+    closeBtn.onclick = () => {
+        modal.style.display = 'none';
+    };
+    modal.onclick = (e) => {
+        if (e.target === modal) modal.style.display = 'none';
+    };
+}
 
 // Add URL routing functions
 function updateURL(country, brewery = null) {
@@ -246,9 +246,6 @@ window.addEventListener('hashchange', handleURLChange);
 window.addEventListener('load', handleURLChange);
 window.addEventListener('DOMContentLoaded', () => {
     updateIntroText();
-    // ... rest of your initialization code
 });
 
-// Initialize based on current URL
 handleURLChange();
-// renderCountries();
