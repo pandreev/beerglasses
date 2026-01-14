@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f8f8f8;
+    background: #e9e3de;
     margin: 0;
     padding: 0 20px;
 }
@@ -22,7 +22,7 @@ h1 {
     gap: 20px;
 }
 .glass-card {
-    background: #fff;
+    background: #d9dadf;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     width: 220px;
@@ -55,7 +55,7 @@ h1 {
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
-    background: #fff;
+    background: #e9e6e7;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     cursor: pointer;
     transition: background 0.2s;
@@ -104,7 +104,7 @@ h1 {
     margin-top: 20px;
 }
 .brewery-card {
-    background: #fff;
+    background: #ccbeb1;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     width: 180px;
@@ -147,7 +147,7 @@ h1 {
 .modal {
     position: fixed;
     z-index: 1000;
-    background: #fff;
+    background: #f2f0ef;
     left: 0; top: 0;
     width: 90%; height: 90%;
     max-width: 1000px; max-height: 1000px;
@@ -176,7 +176,6 @@ h1 {
 }
 
 .modal-content {
-    background: #fff;
     padding: 24px;
     border-radius: 8px;
     max-width: 1000px;
