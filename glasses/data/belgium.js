@@ -6,6 +6,7 @@ const glassesBelgium = [
         brewery: 'Gulden Draak',
         country: 'Belgium',
         image: 'glasses/img/Belgium/Gulden_Draak_500ml.png',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Gulden_Draak_500ml.png',
         price: '4.00'
     },
     {
@@ -15,6 +16,7 @@ const glassesBelgium = [
         brewery: "Brasserie d'Achouffe",
         country: 'Belgium',
         image: 'glasses/img/Belgium/Achouffe_330ml.png',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml.png',
         price: '3.00'
     },
     {
@@ -24,6 +26,7 @@ const glassesBelgium = [
         brewery: "Abbaye d'Aulne",
         country: 'Belgium',
         image: 'glasses/img/Belgium/Abbaye_dAulne_330ml.png',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Abbaye_dAulne_330ml.png',
         price: '3.00'
     },
 ];

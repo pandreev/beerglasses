@@ -6,6 +6,7 @@ const glassesNetherlands = [
         brewery: 'Heineken',
         country: 'Netherlands',
         image: 'glasses/img/Netherlands/Heineken.png',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken.png',
         price: '1.00'
     },
     {
@@ -15,7 +16,7 @@ const glassesNetherlands = [
         brewery: "La Trappe",
         country: 'Netherlands',
         image: 'glasses/img/Netherlands/La_Trappe_Trappist.png',
-        backImage: 'glasses/img/Netherlands/La_Trappe_Trappist_back.png',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe_Trappist.png',
         price: '0.50'
     },
 ];

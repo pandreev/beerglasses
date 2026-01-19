@@ -6,6 +6,7 @@ const glassesPortugal = [
         brewery: 'Super Bock',
         country: 'Portugal',
         image: 'glasses/img/Portugal/Super_Bock_330ml.png',
+        thumbnail: 'glasses/img/Portugal/thumbnail/Super_Bock_330ml.png',
         price: '0.00'
     },
 ];

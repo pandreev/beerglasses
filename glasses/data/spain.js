@@ -6,6 +6,7 @@ const glassesSpain = [
         brewery: 'Alhambra',
         country: 'Spain',
         image: 'glasses/img/Spain/Alhambra_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_330ml.png',
         price: '1.00'
     },
     {
@@ -15,6 +16,7 @@ const glassesSpain = [
         brewery: 'Alhambra',
         country: 'Spain',
         image: 'glasses/img/Spain/Alhambra_300ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_300ml.png',
         price: '1.00'
     },
     {
@@ -24,6 +26,7 @@ const glassesSpain = [
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/1906_Pelirroja_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Pelirroja_330ml.png',
         price: '2.00'
     },
     {
@@ -33,6 +36,7 @@ const glassesSpain = [
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/1906_Reserva_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_330ml.png',
         price: '2.00'
     },
     {
@@ -42,6 +46,7 @@ const glassesSpain = [
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/1906_Retro_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Retro_330ml.png',
         price: '1.00'
     },
     {
@@ -51,6 +56,7 @@ const glassesSpain = [
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_330ml.png',
         price: '0.00'
     },
     {
@@ -60,6 +66,7 @@ const glassesSpain = [
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia_2_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_2_330ml.png',
         price: '0.00'
     },
     {
@@ -69,6 +76,7 @@ const glassesSpain = [
         brewery: 'Cruzcampo',
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo_Gran_Reserva_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Gran_Reserva_330ml.png',
         price: '0.00'
     },
     {
@@ -78,6 +86,7 @@ const glassesSpain = [
         brewery: 'Cruzcampo',
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo_Especial.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Especial.png',
         price: '1.00'
     },
     {
@@ -87,6 +96,7 @@ const glassesSpain = [
         brewery: 'El Aguila',
         country: 'Spain',
         image: 'glasses/img/Spain/El_Aguila_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/El_Aguila_330ml.png',
         price: '0.00'
     },
     {
@@ -96,6 +106,7 @@ const glassesSpain = [
         brewery: 'Victoria Malaga',
         country: 'Spain',
         image: 'glasses/img/Spain/Victoria_Malaga_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_330ml.png',
         price: '2.00'
     },
     {
@@ -105,6 +116,7 @@ const glassesSpain = [
         brewery: 'Victoria Malaga',
         country: 'Spain',
         image: 'glasses/img/Spain/Victoria_Malaga_200ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_200ml.png',
         price: '1.00'
     },
     {
@@ -114,6 +126,7 @@ const glassesSpain = [
         brewery: 'Dorada',
         country: 'Spain',
         image: 'glasses/img/Spain/Dorada_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Dorada_330ml.png',
         price: '0.00'
     },
     {
@@ -123,6 +136,7 @@ const glassesSpain = [
         brewery: 'Euro Pils',
         country: 'Spain',
         image: 'glasses/img/Spain/EuroPils_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/EuroPils_330ml.png',
         price: '1.00'
     },
     {
@@ -132,6 +146,7 @@ const glassesSpain = [
         brewery: 'Arriaca',
         country: 'Spain',
         image: 'glasses/img/Spain/Arriaca_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_330ml.png',
         price: '0.00'
     },
     {
@@ -141,6 +156,7 @@ const glassesSpain = [
         brewery: 'Amstel Cerveza',
         country: 'Spain',
         image: 'glasses/img/Spain/Amstel_Cerveza.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza.png',
         price: '2.00'
     },
     {
@@ -150,7 +166,7 @@ const glassesSpain = [
         brewery: 'San Miguel',
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_50_anos.png',
-        backImage: 'glasses/img/Spain/San_Miguel_50_anos_back.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_50_anos.png',
         price: '0.50'
     },
     {
@@ -160,7 +176,7 @@ const glassesSpain = [
         brewery: 'San Miguel',
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_Premium.png',
-        backImage: 'glasses/img/Spain/San_Miguel_Premium_back.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Premium.png',
         price: '0.50'
     },
 ];

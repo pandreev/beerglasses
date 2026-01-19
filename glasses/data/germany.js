@@ -6,6 +6,7 @@ const germany = [
         brewery: 'Paulaner',
         country: 'Germany',
         image: 'glasses/img/Germany/Paulaner_1l.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_1l.png',
         price: '0.00'
     },
     {
@@ -15,6 +16,7 @@ const germany = [
         brewery: 'Paulaner',
         country: 'Germany',
         image: 'glasses/img/Germany/Paulaner_400ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_400ml.png',
         price: '0.00'
     },
     {
@@ -24,6 +26,7 @@ const germany = [
         brewery: 'Paulaner',
         country: 'Germany',
         image: 'glasses/img/Germany/Paulaner_Weiss_300ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Weiss_300ml.png',
         price: '0.00'
     },
     {
@@ -33,6 +36,7 @@ const germany = [
         brewery: 'Franziskaner',
         country: 'Germany',
         image: 'glasses/img/Germany/Franziskaner_500ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml.png',
         price: '0.00'
     },
     {
@@ -42,6 +46,7 @@ const germany = [
         brewery: 'Franziskaner',
         country: 'Germany',
         image: 'glasses/img/Germany/Franziskaner_500ml_2.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml_2.png',
         price: '1.00'
     },
     {
@@ -51,6 +56,7 @@ const germany = [
         brewery: 'Hofbräuhaus',
         country: 'Germany',
         image: 'glasses/img/Germany/HB_1l.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/HB_1l.png',
         price: '0.00'
     },
     {
@@ -60,6 +66,7 @@ const germany = [
         brewery: 'Camba',
         country: 'Germany',
         image: 'glasses/img/Germany/Camba_330ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Camba_330ml.png',
         price: '0.00'
     },
     {
@@ -69,6 +76,7 @@ const germany = [
         brewery: 'Erdinger',
         country: 'Germany',
         image: 'glasses/img/Germany/Erdinger_Urweisse_500ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Urweisse_500ml.png',
         price: '2.00'
     },
     {
@@ -78,6 +86,7 @@ const germany = [
         brewery: 'Kaltenberg',
         country: 'Germany',
         image: 'glasses/img/Germany/Kaltenberg_500ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Kaltenberg_500ml.png',
         price: '1.00'
     },
     {
@@ -87,6 +96,7 @@ const germany = [
         brewery: 'Bischofshof',
         country: 'Germany',
         image: 'glasses/img/Germany/Bischofshof_500ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Bischofshof_500ml.png',
         price: '3.00'
     },
     {
@@ -96,6 +106,7 @@ const germany = [
         brewery: 'Veltins',
         country: 'Germany',
         image: 'glasses/img/Germany/Veltins_400ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Veltins_400ml.png',
         price: '1.00'
     },
     {
@@ -105,6 +116,7 @@ const germany = [
         brewery: 'Alpirsbacher',
         country: 'Germany',
         image: 'glasses/img/Germany/Alpirsbacher_500ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Alpirsbacher_500ml.png',
         price: '1.00'
     },
     {
@@ -114,6 +126,7 @@ const germany = [
         brewery: 'Dom Kölsch',
         country: 'Germany',
         image: 'glasses/img/Germany/Dom_Koelsch_200ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Dom_Koelsch_200ml.png',
         price: '1.00'
     },
     {
@@ -123,7 +136,7 @@ const germany = [
         brewery: 'Garde Kölsch',
         country: 'Germany',
         image: 'glasses/img/Germany/Garde_Koelsch_200ml.png',
-        backImage: 'glasses/img/Germany/Garde_Koelsch_200ml_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Garde_Koelsch_200ml.png',
         price: '0.50'
     },
     {
@@ -133,7 +146,7 @@ const germany = [
         brewery: 'Reissdorf Kölsch',
         country: 'Germany',
         image: 'glasses/img/Germany/Reissdorf_Koelsch_200ml.png',
-        backImage: 'glasses/img/Germany/Reissdorf_Koelsch_200ml_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Reissdorf_Koelsch_200ml.png',
         price: '0.50'
     },
     {
@@ -143,7 +156,7 @@ const germany = [
         brewery: 'Gereons Kölsch',
         country: 'Germany',
         image: 'glasses/img/Germany/Gereons_Koelsch_200ml.png',
-        backImage: 'glasses/img/Germany/Gereons_Koelsch_200ml_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Gereons_Koelsch_200ml.png',
         price: '0.50'
     },
     {
@@ -153,7 +166,7 @@ const germany = [
         brewery: 'Haake Beck',
         country: 'Germany',
         image: 'glasses/img/Germany/Haake_Beck_Pils_300ml.png',
-        backImage: 'glasses/img/Germany/Haake_Beck_Pils_300ml_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Haake_Beck_Pils_300ml.png',
         price: '0.50'
     },
     {
@@ -163,7 +176,7 @@ const germany = [
         brewery: 'Feldschlösschen',
         country: 'Germany',
         image: 'glasses/img/Germany/Feldschloesschen_Original.png',
-        backImage: 'glasses/img/Germany/Feldschloesschen_Original_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Feldschloesschen_Original.png',
         price: '0.50'
     },
     {
@@ -173,7 +186,7 @@ const germany = [
         brewery: "Brinkhoff's",
         country: 'Germany',
         image: 'glasses/img/Germany/Brinkhoffs_BVB.png',
-        backImage: 'glasses/img/Germany/Brinkhoffs_BVB_back.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Brinkhoffs_BVB.png',
         price: '0.50'
     },
 ];

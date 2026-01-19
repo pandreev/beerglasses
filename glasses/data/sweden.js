@@ -6,6 +6,7 @@ const glassesSweden = [
         brewery: "Spendrup's",
         country: 'Sweden',
         image: 'glasses/img/Sweden/Spendrup_300ml.png',
+        thumbnail: 'glasses/img/Sweden/thumbnail/Spendrup_300ml.png',
         price: '1.00'
     },
 ];
