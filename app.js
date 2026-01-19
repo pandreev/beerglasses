@@ -1,6 +1,7 @@
 const beerGlasses = [
     ...glassesBelgium,
     ...glassesBulgaria,
+    ...glassesDenmark,
     ...glassesFrance,
     ...germany,
     ...glassesIreland,
@@ -47,6 +48,7 @@ const collectionDiv = document.getElementById('collection');
 const countryContinents = {
     "Bulgaria": "Europe",
     "Belgium": "Europe",
+    "Denmark": "Europe",
     "France": "Europe",
     "Germany": "Europe",
     "Ireland": "Europe",

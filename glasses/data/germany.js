@@ -189,4 +189,14 @@ const germany = [
         thumbnail: 'glasses/img/Germany/thumbnail/Brinkhoffs_BVB.png',
         price: '0.50'
     },
+    {
+        name: "Henninger",
+        type: 'Glas 200ml',
+        description: 'Christian Henninger Pilsener Klassisch herb',
+        brewery: "Henninger",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Henninger.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Henninger.png',
+        price: '0.50'
+    },
 ];
