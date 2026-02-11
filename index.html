@@ -24,7 +24,16 @@
     <meta name="twitter:image" content="preview.png">
 </head>
 <body>
-<h1>Pesho's Beer Glass Collection</h1>
+<div id="language-selector" style="position:absolute;top:10px;right:10px;">
+    <select id="lang-select">
+        <option value="en">English</option>
+        <option value="es">Español</option>
+        <option value="de">Deutsch</option>
+        <option value="fr">Français</option>
+        <option value="bg">Български</option>
+    </select>
+</div>
+<h1 id="main-title">Pesho's Beer Glass Collection</h1>
 <p class="intro"></p>
 <div id="collection"></div>
 <div id="glass-modal" class="modal" style="display:none;">
@@ -51,6 +60,7 @@
 <script src="glasses/data/sweden.js"></script>
 <!-- glasses-->
 <script src="breweries/breweries.js"></script>
+<script src="translations.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

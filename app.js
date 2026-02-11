@@ -14,7 +14,6 @@ const beerGlasses = [
 // Map country to flag emoji
 const countryFlags = {
     'Austria': '🇦🇹',
-    'Bayern': '🇩🇪',
     'Belgium': '🇧🇪',
     'Bulgaria': '🇧🇬',
     'Czechia': '🇨🇿',
@@ -80,11 +79,11 @@ function renderCountries() {
         if (!continentGroups[continent]) return;
         const section = document.createElement('div');
         section.className = 'continent-section';
-        section.innerHTML = `<div class="continent-title">${continent}</div>`;
+        section.innerHTML = `<div class="continent-title">${translations[currentLang].continents[continent] || continent}</div>`;
         continentGroups[continent].sort().forEach(country => {
             const btn = document.createElement('button');
             btn.className = 'country-btn';
-            const countryName = country + " (" + grouped[country].length + ")";
+            const countryName = translations[currentLang].countries[country] + " (" + grouped[country].length + ")";
             btn.innerHTML = `<span class="flag">${countryFlags[country] || ''}</span> <span class="country-name">${countryName}</span>`;
             btn.onclick = () => renderGlasses(country);
             section.appendChild(btn);
@@ -98,7 +97,7 @@ function renderGlasses(country) {
     document.querySelector('.intro').style.display = 'none';
     collectionDiv.innerHTML = '';
     const backBtn = document.createElement('button');
-    backBtn.textContent = '← Back to countries';
+    backBtn.textContent = translations[currentLang].backToCountries;
     backBtn.className = 'back-btn';
     backBtn.onclick = () => {
         updateURL();
@@ -108,7 +107,7 @@ function renderGlasses(country) {
 
     const section = document.createElement('div');
     section.className = 'country-section';
-    section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${country}</div>`;
+    section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${translations[currentLang].countries[country] || country}</div>`;
 
     // Group glasses by brewery
     const breweryGroups = {};
@@ -145,7 +144,7 @@ function renderBreweryGlasses(country, brewery) {
     document.querySelector('.intro').style.display = 'none';
     collectionDiv.innerHTML = '';
     const backBtn = document.createElement('button');
-    backBtn.textContent = '← Back to breweries';
+    backBtn.textContent = translations[currentLang].backToBreweries;
     backBtn.className = 'back-btn';
     backBtn.onclick = () => {
         updateURL(country);
@@ -155,7 +154,7 @@ function renderBreweryGlasses(country, brewery) {
 
     const section = document.createElement('div');
     section.className = 'country-section';
-    section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${country} - <span class="brewery-name">${brewery}</span></div>`;
+    section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${translations[currentLang].countries[country] || country} - <span class="brewery-name">${brewery}</span></div>`;
 
     const list = document.createElement('div');
     list.className = 'glass-list';
@@ -198,6 +197,49 @@ function showGlassModal(glass) {
     };
 }
 
+// --- MULTI-LANGUAGE SUPPORT ---
+let currentLang = localStorage.getItem('lang') || 'en';
+
+function setLanguage(lang) {
+    currentLang = lang;
+    localStorage.setItem('lang', lang);
+    updateTranslations();
+}
+
+function updateTranslations() {
+    // Title
+    document.getElementById('main-title').textContent = translations[currentLang].title;
+    // Intro
+    updateIntroText();
+    // Buttons (back, close, etc.)
+    document.querySelectorAll('.back-btn').forEach(btn => {
+        if (btn.closest('.country-section')) {
+            btn.textContent = translations[currentLang].backToBreweries;
+        } else {
+            btn.textContent = translations[currentLang].backToCountries;
+        }
+    });
+}
+
+document.getElementById('lang-select').value = currentLang;
+document.getElementById('lang-select').addEventListener('change', (e) => {
+    setLanguage(e.target.value);
+    handleURLChange();
+});
+
+// --- UPDATE INTRO TEXT FOR TRANSLATIONS ---
+function updateIntroText() {
+    const introP = document.querySelector('.intro');
+    if (!introP) return;
+    introP.innerHTML = translations[currentLang].introText
+        .replace('{glasses}', beerGlasses.length)
+        .replace('{breweries}', Object.keys(breweries).length)
+        .replace('{countries}', Object.keys(grouped).length);
+}
+
+// Call updateTranslations on load
+window.addEventListener('DOMContentLoaded', updateTranslations);
+
 // Add URL routing functions
 function updateURL(country, brewery = null) {
     if (brewery) {
@@ -228,24 +270,3 @@ function handleURLChange() {
         renderCountries();
     }
 }
-
-function updateIntroText() {
-    const introP = document.querySelector('.intro');
-
-    introP.innerHTML = `
-        My glass collection is made up of <b>${beerGlasses.length} glasses</b> from <b>${Object.keys(breweries).length} breweries</b> across <b>${Object.keys(grouped).length} countries</b>.
-        The collection contains the vessels only from <b>glass</b> and with a <b>printed logo</b>.
-        </br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.
-        </br>I have listed all my glasses by country and then by brewery.
-        I hope you enjoy it.
-    `;
-}
-
-// Add event listeners
-window.addEventListener('hashchange', handleURLChange);
-window.addEventListener('load', handleURLChange);
-window.addEventListener('DOMContentLoaded', () => {
-    updateIntroText();
-});
-
-handleURLChange();
