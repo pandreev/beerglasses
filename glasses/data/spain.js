@@ -77,7 +77,7 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_200ml.webp',
-        price: '0.00'
+        price: '0.50'
     },
     {
         name: 'Cruzcampo Gran Reserva',

@@ -9,6 +9,7 @@ const breweries = {
     "Paulaner": "breweries/img/Germany/Paulaner.webp",
     "Franziskaner": "breweries/img/Germany/Franziskaner.webp",
     "Hofbräuhaus": "breweries/img/Germany/Hofbrauhaus.webp",
+    "Beck's": "breweries/img/Germany/Becks.webp",
     "Camba": "breweries/img/Germany/Camba.webp",
     "Erdinger": "breweries/img/Germany/Erdinger.webp",
     "Kaltenberg": "breweries/img/Germany/Kaltenberg.webp",

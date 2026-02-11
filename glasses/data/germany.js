@@ -5,8 +5,8 @@ const germany = [
         description: '',
         brewery: 'Paulaner',
         country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_1l.png',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_1l.png',
+        image: 'glasses/img/Germany/Paulaner_1l.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_1l.webp',
         price: '0.00'
     },
     {
@@ -55,8 +55,8 @@ const germany = [
         description: '',
         brewery: 'Hofbräuhaus',
         country: 'Germany',
-        image: 'glasses/img/Germany/HB_1l.png',
-        thumbnail: 'glasses/img/Germany/thumbnail/HB_1l.png',
+        image: 'glasses/img/Germany/HB_1l.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/HB_1l.webp',
         price: '0.00'
     },
     {
@@ -197,6 +197,16 @@ const germany = [
         country: 'Germany',
         image: 'glasses/img/Germany/Henninger.png',
         thumbnail: 'glasses/img/Germany/thumbnail/Henninger.png',
+        price: '0.50'
+    },
+    {
+        name: "Beck's",
+        type: '150ml',
+        description: 'Glas',
+        brewery: "Beck's",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Becks_150ml.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Becks_150ml.webp',
         price: '0.50'
     },
 ];
