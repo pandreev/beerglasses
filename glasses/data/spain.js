@@ -51,22 +51,32 @@ const glassesSpain = [
     },
     {
         name: 'Estrella Galicia',
-        type: 'Caña',
-        description: '',
+        type: '300ml',
+        description: 'Caña',
         brewery: 'Estrella Galicia',
         country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_330ml.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_330ml.png',
+        image: 'glasses/img/Spain/Estrella_Galicia_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_300ml.webp',
         price: '0.00'
     },
     {
         name: 'Estrella Galicia',
-        description: 'Copa',
-        type: '',
+        type: '300ml',
+        description: 'Copa Xacobeo 2021',
         brewery: 'Estrella Galicia',
         country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_2_330ml.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_2_330ml.png',
+        image: 'glasses/img/Spain/Estrella_Galicia_copa_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_copa_300ml.webp',
+        price: '0.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: '200ml',
+        description: 'Caña',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_200ml.webp',
         price: '0.00'
     },
     {
@@ -91,8 +101,8 @@ const glassesSpain = [
     },
     {
         name: 'El Aguila',
-        type: 'Caña',
-        description: '',
+        type: '330ml',
+        description: 'Caña',
         brewery: 'El Aguila',
         country: 'Spain',
         image: 'glasses/img/Spain/El_Aguila_330ml.png',
@@ -101,32 +111,32 @@ const glassesSpain = [
     },
     {
         name: 'Victoria Malaga',
-        type: 'Caña',
-        description: '',
+        type: '400ml',
+        description: 'Selección Española',
         brewery: 'Victoria Malaga',
         country: 'Spain',
-        image: 'glasses/img/Spain/Victoria_Malaga_330ml.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_330ml.png',
+        image: 'glasses/img/Spain/Victoria_Malaga_400ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_400ml.webp',
         price: '2.00'
     },
     {
         name: 'Victoria Malaga',
-        type: 'Caña',
-        description: '',
+        type: '300ml',
+        description: 'Caña',
         brewery: 'Victoria Malaga',
         country: 'Spain',
-        image: 'glasses/img/Spain/Victoria_Malaga_200ml.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_200ml.png',
+        image: 'glasses/img/Spain/Victoria_Malaga_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_300ml.webp',
         price: '1.00'
     },
     {
         name: 'Dorada Pilsen',
-        type: 'Caña',
-        description: '',
+        type: '250ml',
+        description: 'Caña',
         brewery: 'Dorada',
         country: 'Spain',
-        image: 'glasses/img/Spain/Dorada_330ml.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Dorada_330ml.png',
+        image: 'glasses/img/Spain/Dorada_250ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Dorada_250ml.webp',
         price: '0.00'
     },
     {
@@ -167,6 +177,16 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_50_anos.png',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_50_anos.png',
+        price: '0.50'
+    },
+    {
+        name: 'San Miguel',
+        type: '250ml',
+        description: 'Copa Crisal 97',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_250ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250ml.webp',
         price: '0.50'
     },
     {
