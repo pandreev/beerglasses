@@ -239,6 +239,7 @@ function updateIntroText() {
 
 // Call updateTranslations on load
 window.addEventListener('DOMContentLoaded', updateTranslations);
+window.addEventListener('DOMContentLoaded', handleURLChange);
 
 // Add URL routing functions
 function updateURL(country, brewery = null) {
