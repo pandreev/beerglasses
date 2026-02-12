@@ -1,7 +1,7 @@
 const glassesIreland = [
     {
         name: 'Kilkenny',
-        type: '500ml',
+        type: 'Glass 500ml',
         description: '',
         brewery: 'Kilkenny',
         country: 'Ireland',

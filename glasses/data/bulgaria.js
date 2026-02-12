@@ -1,7 +1,7 @@
 const glassesBulgaria = [
     {
         name: 'Gaida Premium',
-        type: '500ml',
+        type: 'Glass 500ml',
         description: '',
         brewery: 'Gaida',
         country: 'Bulgaria',
