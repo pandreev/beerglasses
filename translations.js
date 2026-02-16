@@ -40,7 +40,8 @@ const translations = {
     infoLink: 'For contact and more info, click <a href="info.html">here</a>.',
     infoTitle: "Info & Contact",
     infoText: `If you want to get in touch, please email me at <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>You can also find me on <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Back to main page"
+    infoBack: "← Back to main page",
+    duplicatesLink: 'If you have glasses for exchange, see my <a href="#duplicates">duplicate glasses</a>'
   },
   es: {
     title: "Mi Colección de Copas de Cerveza",
@@ -83,7 +84,8 @@ const translations = {
     infoLink: 'Para contacto y más información, haz clic <a href="info.html">aquí</a>.',
     infoTitle: "Información y Contacto",
     infoText: `Si quieres ponerte en contacto, envíame un correo a <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Puedes encontrarme también en <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Volver a la página principal"
+    infoBack: "← Volver a la página principal",
+    duplicatesLink: 'Si tienes copas para intercambiar, mira mis <a href="#duplicates">copas duplicadas</a>'
   },
   de: {
     title: "Meine Bierglassammlung",
@@ -126,7 +128,8 @@ const translations = {
     infoLink: 'Für Kontakt und mehr Infos klicke <a href="info.html">hier</a>.',
     infoTitle: "Info & Kontakt",
     infoText: `Wenn du Kontakt aufnehmen möchtest, schreib mir eine E-Mail an <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Du findest mich auch auf <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Zurück zur Hauptseite"
+    infoBack: "← Zurück zur Hauptseite",
+    duplicatesLink: 'Wenn du Gläser zum Tauschen hast, sieh dir meine <a href="#duplicates">doppelten Gläser</a> an'
   },
   fr: {
     title: "Ma Collection de Verres à Bière",
@@ -169,7 +172,8 @@ const translations = {
     infoLink: 'Pour le contact et plus d\'infos, cliquez <a href="info.html">ici</a>.',
     infoTitle: "Infos & Contact",
     infoText: `Si vous souhaitez me contacter, envoyez-moi un email à <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Vous pouvez aussi me trouver sur <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Retour à la page principale"
+    infoBack: "← Retour à la page principale",
+    duplicatesLink: 'Si vous avez des verres à échanger, consultez mes <a href="#duplicates">verres en double</a>'
   },
   bg: {
     title: "Моята колекция от бирени чаши",
@@ -212,7 +216,8 @@ const translations = {
     infoLink: 'За контакт и повече информация, кликнете <a href="info.html">тук</a>.',
     infoTitle: "Информация и Контакт",
     infoText: `Ако искате да се свържете с мен, пишете ми на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Може да ме намерите и във <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Обратно към главната страница"
+    infoBack: "← Обратно към главната страница",
+    duplicatesLink: 'Ако имате чаши за размяна, вижте моите <a href="#duplicates">дублирани чаши</a>'
   },
   nl: {
     title: "Mijn Bierglazencollectie",
@@ -256,7 +261,8 @@ const translations = {
     infoLink: 'Voor contact en meer info, klik <a href="info.html">hier</a>.',
     infoTitle: "Info & Contact",
     infoText: `Als je contact wilt opnemen, stuur dan een e-mail naar <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Je kunt me ook vinden op <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Terug naar hoofdpagina"
+    infoBack: "← Terug naar hoofdpagina",
+    duplicatesLink: 'Als je glazen hebt om te ruilen, bekijk dan mijn <a href="#duplicates">dubbele glazen</a>'
   },
   pl: {
     title: "Moja Kolekcja Szklanek do Piwa",
@@ -300,7 +306,8 @@ const translations = {
     infoLink: 'Aby się skontaktować i uzyskać więcej informacji, kliknij <a href="info.html">tutaj</a>.',
     infoTitle: "Informacje i Kontakt",
     infoText: `Jeśli chcesz się skontaktować, napisz do mnie na <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Możesz mnie też znaleźć na <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Powrót do strony głównej"
+    infoBack: "← Powrót do strony głównej",
+    duplicatesLink: 'Jeśli masz szklanki na wymianę, zobacz moje <a href="#duplicates">duplikaty szklanek</a>'
   },
   sr: {
     title: "Моја колекција пивских чаша",
@@ -344,6 +351,7 @@ const translations = {
     infoLink: 'За контакт и више информација кликните <a href="info.html">овде</a>.',
     infoTitle: "Инфо и Контакт",
     infoText: `Ако желите да ме контактирате, пошаљите ми е-пошту на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Можете ме наћи и на <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
-    infoBack: "← Назад на главну страницу"
+    infoBack: "← Назад на главну страницу",
+    duplicatesLink: 'Ако имате чаше за размену, погледајте моје <a href="#duplicates">дупликате чаша</a>'
   }
 };

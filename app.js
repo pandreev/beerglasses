@@ -173,6 +173,39 @@ function renderBreweryGlasses(country, brewery) {
     collectionDiv.appendChild(section);
 }
 
+// --- RENDER DUPLICATES ---
+function renderDuplicates() {
+    updateURL('duplicates');
+    document.querySelector('.intro').style.display = 'none';
+    collectionDiv.innerHTML = '';
+    const backBtn = document.createElement('button');
+    backBtn.textContent = translations[currentLang].backToCountries;
+    backBtn.className = 'back-btn';
+    backBtn.onclick = () => {
+        updateURL();
+        renderCountries();
+    };
+    collectionDiv.appendChild(backBtn);
+
+    const section = document.createElement('div');
+    section.className = 'country-section';
+    section.innerHTML = `<div class="country-title">Duplicates</div>`;
+    const list = document.createElement('div');
+    list.className = 'glass-list';
+    glassesDuplicates.forEach(glass => {
+        const card = document.createElement('div');
+        card.className = 'glass-card';
+        card.innerHTML = `
+        <img src="${glass.thumbnail}" alt="${glass.name}">
+        <div class="glass-name">${glass.name}</div>
+        <div class="description">${glass.type}</div>
+    `;
+        list.appendChild(card);
+    });
+    section.appendChild(list);
+    collectionDiv.appendChild(section);
+}
+
 function showGlassModal(glass) {
 // Modal logic
     const modal = document.getElementById('glass-modal');
@@ -235,7 +268,17 @@ function updateIntroText() {
         .replace('{glasses}', beerGlasses.length)
         .replace('{breweries}', Object.keys(breweries).length)
         .replace('{countries}', Object.keys(grouped).length)
-        + '<br>' + translations[currentLang].infoLink;
+        + '<br>' + translations[currentLang].infoLink
+        + ' | ' + translations[currentLang].duplicatesLink;
+    // Add click handler for the duplicates link to trigger handleURLChange
+    const dupLink = introP.querySelector('a[href="#duplicates"]');
+    if (dupLink) {
+        dupLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            window.location.hash = '#duplicates';
+            handleURLChange();
+        });
+    }
 }
 
 // Call updateTranslations on load
@@ -255,6 +298,11 @@ function updateURL(country, brewery = null) {
 
 function handleURLChange() {
     const hash = window.location.hash.slice(1); // Remove #
+    if (hash === 'duplicates') {
+        renderDuplicates();
+        return;
+    }
+
     if (!hash) {
         renderCountries();
         return;
