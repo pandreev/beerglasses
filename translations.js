@@ -1,6 +1,6 @@
 const translations = {
   en: {
-    title: "Pesho's Beer Glass Collection",
+    title: "My Beer Glass Collection",
     close: "Close",
     backToCountries: "← Back to countries",
     backToBreweries: "← Back to breweries",
@@ -36,10 +36,10 @@ const translations = {
       Oceania: "Oceania",
       Other: "Other"
     },
-    introText: `My glass collection is made up of <b>{glasses} glasses</b> from <b>{breweries} breweries</b> across <b>{countries} countries</b>.<br>The collection contains the vessels only from <b>glass</b> and with a <b>printed logo</b>.<br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.<br>I have listed all my glasses by country and then by brewery.<br>I hope you enjoy it.`,
+    introText: `I'm Petar and I live in Malaga, Spain. I'm a passionate collector of beer glasses, and my collection is made up of <b>{glasses} glasses</b> from <b>{breweries} breweries</b> across <b>{countries} countries</b>.<br>The collection contains only vessels made of <b>glass</b> and with a <b>printed logo</b>.<br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.<br>I have listed all my glasses by country and then by brewery.<br>I hope you enjoy it.`,
   },
   es: {
-    title: "Colección de Copas de Cerveza",
+    title: "Mi Colección de Copas de Cerveza",
     close: "Cerrar",
     backToCountries: "← Volver a países",
     backToBreweries: "← Volver a cervecerías",
@@ -75,10 +75,10 @@ const translations = {
       Oceania: "Oceanía",
       Other: "Otro"
     },
-    introText: `Mi colección de copas consta de <b>{glasses} copas</b> de <b>{breweries} cervecerías</b> en <b>{countries} países</b>.<br>La colección contiene únicamente vasos de <b>vidrio</b> y con <b>logo impreso</b>.<br>Las copas se obtienen principalmente de visitas a restaurantes, cervecerías y tiendas benéficas.<br>He listado todas mis copas por país y luego por cervecería.<br>Espero que lo disfrutes.`,
+    introText: `Soy Petar y vivo en Málaga, España. Soy un apasionado coleccionista de copas de cerveza y mi colección consta de <b>{glasses} copas</b> de <b>{breweries} cervecerías</b> en <b>{countries} países</b>.<br>La colección contiene únicamente vasos de <b>vidrio</b> y con <b>logo impreso</b>.<br>Las copas se obtienen principalmente de visitas a restaurantes, cervecerías y tiendas benéficas.<br>He listado todas mis copas por país y luego por cervecería.<br>Espero que lo disfrutes.`,
   },
   de: {
-    title: "Bierglas-Sammlung",
+    title: "Meine Bierglassammlung",
     close: "Schließen",
     backToCountries: "← Zurück zu den Ländern",
     backToBreweries: "← Zurück zu den Brauereien",
@@ -114,10 +114,10 @@ const translations = {
       Oceania: "Ozeanien",
       Other: "Andere"
     },
-    introText: `Meine Glassammlung besteht aus <b>{glasses} Gläsern</b> von <b>{breweries} Brauereien</b> aus <b>{countries} Ländern</b>.<br>Die Sammlung enthält nur Gefäße aus <b>Glas</b> mit <b>aufgedrucktem Logo</b>.<br>Die Gläser stammen hauptsächlich von Restaurant-, Brauereibesuchen und Wohltätigkeitsläden.<br>Ich habe alle meine Gläser nach Land und dann nach Brauerei aufgelistet.<br>Viel Spaß beim Stöbern.`,
+    introText: `Ich bin Petar und lebe in Málaga, Spanien. Ich bin ein leidenschaftlicher Sammler von Biergläsern und meine Sammlung besteht aus <b>{glasses} Gläsern</b> von <b>{breweries} Brauereien</b> aus <b>{countries} Ländern</b>.<br>Die Sammlung enthält nur Gefäße aus <b>Glas</b> mit <b>aufgedrucktem Logo</b>.<br>Die Gläser stammen hauptsächlich von Restaurant-, Brauereibesuchen und Wohltätigkeitsläden.<br>Ich habe alle meine Gläser nach Land und dann nach Brauerei aufgelistet.<br>Viel Spaß beim Stöbern.`,
   },
   fr: {
-    title: "Collection de verres à bière",
+    title: "Ma Collection de Verres à Bière",
     close: "Fermer",
     backToCountries: "← Retour aux pays",
     backToBreweries: "← Retour aux brasseries",
@@ -153,10 +153,10 @@ const translations = {
       Oceania: "Océanie",
       Other: "Autre"
     },
-    introText: `Ma collection de verres se compose de <b>{glasses} verres</b> provenant de <b>{breweries} brasseries</b> dans <b>{countries} pays</b>.<br>La collection ne contient que des verres en <b>verre</b> avec un <b>logo imprimé</b>.<br>Les verres proviennent principalement de visites de restaurants, de brasseries et de magasins caritatifs.<br>J'ai classé tous mes verres par pays puis par brasserie.<br>Bonne visite !`,
+    introText: `Je suis Petar et je vis à Malaga, en Espagne. Je suis un collectionneur passionné de verres à bière et ma collection se compose de <b>{glasses} verres</b> provenant de <b>{breweries} brasseries</b> dans <b>{countries} pays</b>.<br>La collection ne contient que des verres en <b>verre</b> avec un <b>logo imprimé</b>.<br>Les verres proviennent principalement de visites de restaurants, de brasseries et de magasins caritatifs.<br>J'ai classé tous mes verres par pays puis par brasserie.<br>Bonne visite !`,
   },
   bg: {
-    title: "Колекцията от бирени чаши на Пешо",
+    title: "Моята колекция от бирени чаши",
     close: "Затвори",
     backToCountries: "← Обратно към държавите",
     backToBreweries: "← Обратно към пивоварните",
@@ -192,10 +192,10 @@ const translations = {
       Oceania: "Океания",
       Other: "Друго"
     },
-    introText: `Колекцията ми от чаши се състои от <b>{glasses} чаши</b> от <b>{breweries} пивоварни</b> в <b>{countries} държави</b>.<br>Колекцията съдържа само чаши от <b>стъкло</b> с <b>отпечатано лого</b>.<br>Чашите са събрани основно от посещения на ресторанти, пивоварни и благотворителни магазини.<br>Изброил съм всички мои чаши по държава и след това по пивоварна.<br>Надявам се да ви хареса.`,
+    introText: `Аз съм Петър и живея в Малага, Испания. Аз съм страстен колекционер на бирени чаши и моята колекция се състои от <b>{glasses} чаши</b> от <b>{breweries} пивоварни</b> в <b>{countries} държави</b>.<br>Колекцията съдържа само чаши от <b>стъкло</b> с <b>отпечатано лого</b>.<br>Чашите са събрани основно от посещения на ресторанти, пивоварни и благотворителни магазини.<br>Изброил съм всички мои чаши по държава и след това по пивоварна.<br>Надявам се да ви хареса.`,
   },
   nl: {
-    title: "Pesho's Bierglazencollectie",
+    title: "Mijn Bierglazencollectie",
     close: "Sluiten",
     backToCountries: "← Terug naar landen",
     backToBreweries: "← Terug naar brouwerijen",
@@ -232,10 +232,10 @@ const translations = {
       Oceania: "Oceanië",
       Other: "Overig"
     },
-    introText: `Mijn collectie bestaat uit <b>{glasses} glazen</b> van <b>{breweries} brouwerijen</b> uit <b>{countries} landen</b>.<br>De collectie bevat alleen glazen met een <b>bedrukt logo</b>.<br>De glazen zijn voornamelijk verkregen door bezoeken aan restaurants, brouwerijen en kringloopwinkels.<br>Ik heb alle glazen per land en vervolgens per brouwerij gerangschikt.<br>Veel plezier!`,
+    introText: `Ik ben Petar en ik woon in Malaga, Spanje. Ik ben een gepassioneerde verzamelaar van bierglazen en mijn collectie bestaat uit <b>{glasses} glazen</b> van <b>{breweries} brouwerijen</b> uit <b>{countries} landen</b>.<br>De collectie bevat alleen glazen met een <b>bedrukt logo</b>.<br>De glazen zijn voornamelijk verkregen door bezoeken aan restaurants, brouwerijen en kringloopwinkels.<br>Ik heb alle glazen per land en vervolgens per brouwerij gerangschikt.<br>Veel plezier!`,
   },
   pl: {
-    title: "Kolekcja szklanek piwnych Pesho",
+    title: "Moja Kolekcja Szklanek do Piwa",
     close: "Zamknij",
     backToCountries: "← Powrót do krajów",
     backToBreweries: "← Powrót do browarów",
@@ -272,10 +272,10 @@ const translations = {
       Oceania: "Oceania",
       Other: "Inne"
     },
-    introText: `Moja kolekcja składa się z <b>{glasses} szklanek</b> z <b>{breweries} browarów</b> z <b>{countries} krajów</b>.<br>Kolekcja zawiera tylko naczynia ze <b>szkła</b> z <b>nadrukowanym logo</b>.<br>Szklanki pochodzą głównie z wizyt w restauracjach, browarach i sklepach charytatywnych.<br>Wszystkie szklanki są uporządkowane według kraju, a następnie browaru.<br>Miłego oglądania!`,
+    introText: `Jestem Petar i mieszkam w Maladze w Hiszpanii. Jestem pasjonatem kolekcjonowania szklanek do piwa, a moja kolekcja składa się z <b>{glasses} szklanek</b> z <b>{breweries} browarów</b> z <b>{countries} krajów</b>.<br>Kolekcja zawiera tylko naczynia ze <b>szkła</b> z <b>nadrukowanym logo</b>.<br>Szklanki pochodzą głównie z wizyt w restauracjach, browarach i sklepach charytatywnych.<br>Wszystkie szklanki są uporządkowane według kraju, a następно browaru.<br>Miłego oglądania!`,
   },
   sr: {
-    title: "Пешова колекција пивских чаша",
+    title: "Моја колекција пивских чаша",
     close: "Затвори",
     backToCountries: "← Назад на земље",
     backToBreweries: "← Назад на пиваре",
@@ -312,6 +312,6 @@ const translations = {
       Oceania: "Океанија",
       Other: "Остало"
     },
-    introText: `Моја колекција чаша се састоји од <b>{glasses} чаша</b> из <b>{breweries} пивара</b> у <b>{countries} земаља</b>.<br>Колекција садржи само чаше од <b>стакла</b> са <b>штампаним логом</b>.<br>Чаше су углавном набављене из ресторана, пивара и хуманитарних продавница.<br>Све чаше су поређане по земљи, а затим по пивари.<br>Уживајте!`
+    introText: `Ја сам Петар и живим у Малаги, Шпанија. Страстни сам колекционар пивских чаша, а моја колекција се састоји од <b>{glasses} чаша</b> из <b>{breweries} пивара</b> у <b>{countries} земаља</b>.<br>Колекција садржи само чаше од <b>стакла</b> са <b>штампаним логом</b>.<br>Чаше су углавном набављене из ресторана, пивара и хуманитарних продавница.<br>Све чаше су поређане по земљи, а затим по пивари.<br>Уживајте!`
   }
 };
