@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Info & Contact - My Beer Glass Collection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background:#e9e3de;">
+    <div style="padding:2em;max-width:600px;margin:auto;">
+        <h1 id="info-title">Info & Contact</h1>
+        <p id="info-text">
+            If you want to get in touch, please email me at <a href="mailto:petar.andreev@gmail.com">petar.andreev@gmail.com</a>.<br>
+            You can also find me on <a href="https://www.facebook.com/Pesho/" target="_blank">Facebook</a>.
+        </p>
+        <a href="index.html" style="display:inline-block;margin-top:2em;">← Back to main page</a>
+    </div>
+    <script src="translations.js"></script>
+    <script>
+    // Multi-language support for info page
+    let currentLang = localStorage.getItem('lang') || 'en';
+    function updateInfoTranslations() {
+        document.getElementById('info-title').textContent = translations[currentLang].infoTitle;
+        document.getElementById('info-text').innerHTML = translations[currentLang].infoText;
+        document.querySelector('a[href="index.html"]').textContent = translations[currentLang].infoBack;
+    }
+    document.addEventListener('DOMContentLoaded', updateInfoTranslations);
+    // Optional: allow language change from main page
+    window.addEventListener('storage', function(e) {
+        if (e.key === 'lang') {
+            currentLang = e.newValue;
+            updateInfoTranslations();
+        }
+    });
+    </script>
+</body>
+</html>

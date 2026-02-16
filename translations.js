@@ -37,6 +37,10 @@ const translations = {
       Other: "Other"
     },
     introText: `I'm Petar and I live in Malaga, Spain. I'm a passionate collector of beer glasses, and my collection is made up of <b>{glasses} glasses</b> from <b>{breweries} breweries</b> across <b>{countries} countries</b>.<br>The collection contains only vessels made of <b>glass</b> and with a <b>printed logo</b>.<br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.<br>I have listed all my glasses by country and then by brewery.<br>I hope you enjoy it.`,
+    infoLink: 'For contact and more info, click <a href="info.html">here</a>.',
+    infoTitle: "Info & Contact",
+    infoText: `If you want to get in touch, please email me at <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>You can also find me on <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Back to main page"
   },
   es: {
     title: "Mi Colección de Copas de Cerveza",
@@ -76,6 +80,10 @@ const translations = {
       Other: "Otro"
     },
     introText: `Soy Petar y vivo en Málaga, España. Soy un apasionado coleccionista de copas de cerveza y mi colección consta de <b>{glasses} copas</b> de <b>{breweries} cervecerías</b> en <b>{countries} países</b>.<br>La colección contiene únicamente vasos de <b>vidrio</b> y con <b>logo impreso</b>.<br>Las copas se obtienen principalmente de visitas a restaurantes, cervecerías y tiendas benéficas.<br>He listado todas mis copas por país y luego por cervecería.<br>Espero que lo disfrutes.`,
+    infoLink: 'Para contacto y más información, haz clic <a href="info.html">aquí</a>.',
+    infoTitle: "Información y Contacto",
+    infoText: `Si quieres ponerte en contacto, envíame un correo a <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Puedes encontrarme también en <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Volver a la página principal"
   },
   de: {
     title: "Meine Bierglassammlung",
@@ -115,6 +123,10 @@ const translations = {
       Other: "Andere"
     },
     introText: `Ich bin Petar und lebe in Málaga, Spanien. Ich bin ein leidenschaftlicher Sammler von Biergläsern und meine Sammlung besteht aus <b>{glasses} Gläsern</b> von <b>{breweries} Brauereien</b> aus <b>{countries} Ländern</b>.<br>Die Sammlung enthält nur Gefäße aus <b>Glas</b> mit <b>aufgedrucktem Logo</b>.<br>Die Gläser stammen hauptsächlich von Restaurant-, Brauereibesuchen und Wohltätigkeitsläden.<br>Ich habe alle meine Gläser nach Land und dann nach Brauerei aufgelistet.<br>Viel Spaß beim Stöbern.`,
+    infoLink: 'Für Kontakt und mehr Infos klicke <a href="info.html">hier</a>.',
+    infoTitle: "Info & Kontakt",
+    infoText: `Wenn du Kontakt aufnehmen möchtest, schreib mir eine E-Mail an <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Du findest mich auch auf <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Zurück zur Hauptseite"
   },
   fr: {
     title: "Ma Collection de Verres à Bière",
@@ -154,6 +166,10 @@ const translations = {
       Other: "Autre"
     },
     introText: `Je suis Petar et je vis à Malaga, en Espagne. Je suis un collectionneur passionné de verres à bière et ma collection se compose de <b>{glasses} verres</b> provenant de <b>{breweries} brasseries</b> dans <b>{countries} pays</b>.<br>La collection ne contient que des verres en <b>verre</b> avec un <b>logo imprimé</b>.<br>Les verres proviennent principalement de visites de restaurants, de brasseries et de magasins caritatifs.<br>J'ai classé tous mes verres par pays puis par brasserie.<br>Bonne visite !`,
+    infoLink: 'Pour le contact et plus d\'infos, cliquez <a href="info.html">ici</a>.',
+    infoTitle: "Infos & Contact",
+    infoText: `Si vous souhaitez me contacter, envoyez-moi un email à <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Vous pouvez aussi me trouver sur <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Retour à la page principale"
   },
   bg: {
     title: "Моята колекция от бирени чаши",
@@ -193,6 +209,10 @@ const translations = {
       Other: "Друго"
     },
     introText: `Аз съм Петър и живея в Малага, Испания. Аз съм страстен колекционер на бирени чаши и моята колекция се състои от <b>{glasses} чаши</b> от <b>{breweries} пивоварни</b> в <b>{countries} държави</b>.<br>Колекцията съдържа само чаши от <b>стъкло</b> с <b>отпечатано лого</b>.<br>Чашите са събрани основно от посещения на ресторанти, пивоварни и благотворителни магазини.<br>Изброил съм всички мои чаши по държава и след това по пивоварна.<br>Надявам се да ви хареса.`,
+    infoLink: 'За контакт и повече информация, кликнете <a href="info.html">тук</a>.',
+    infoTitle: "Информация и Контакт",
+    infoText: `Ако искате да се свържете с мен, пишете ми на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Може да ме намерите и във <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Обратно към главната страница"
   },
   nl: {
     title: "Mijn Bierglazencollectie",
@@ -233,6 +253,10 @@ const translations = {
       Other: "Overig"
     },
     introText: `Ik ben Petar en ik woon in Malaga, Spanje. Ik ben een gepassioneerde verzamelaar van bierglazen en mijn collectie bestaat uit <b>{glasses} glazen</b> van <b>{breweries} brouwerijen</b> uit <b>{countries} landen</b>.<br>De collectie bevat alleen glazen met een <b>bedrukt logo</b>.<br>De glazen zijn voornamelijk verkregen door bezoeken aan restaurants, brouwerijen en kringloopwinkels.<br>Ik heb alle glazen per land en vervolgens per brouwerij gerangschikt.<br>Veel plezier!`,
+    infoLink: 'Voor contact en meer info, klik <a href="info.html">hier</a>.',
+    infoTitle: "Info & Contact",
+    infoText: `Als je contact wilt opnemen, stuur dan een e-mail naar <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Je kunt me ook vinden op <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Terug naar hoofdpagina"
   },
   pl: {
     title: "Moja Kolekcja Szklanek do Piwa",
@@ -273,6 +297,10 @@ const translations = {
       Other: "Inne"
     },
     introText: `Jestem Petar i mieszkam w Maladze w Hiszpanii. Jestem pasjonatem kolekcjonowania szklanek do piwa, a moja kolekcja składa się z <b>{glasses} szklanek</b> z <b>{breweries} browarów</b> z <b>{countries} krajów</b>.<br>Kolekcja zawiera tylko naczynia ze <b>szkła</b> z <b>nadrukowanym logo</b>.<br>Szklanki pochodzą głównie z wizyt w restauracjach, browarach i sklepach charytatywnych.<br>Wszystkie szklanki są uporządkowane według kraju, a następно browaru.<br>Miłego oglądania!`,
+    infoLink: 'Aby się skontaktować i uzyskać więcej informacji, kliknij <a href="info.html">tutaj</a>.',
+    infoTitle: "Informacje i Kontakt",
+    infoText: `Jeśli chcesz się skontaktować, napisz do mnie na <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Możesz mnie też znaleźć na <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Powrót do strony głównej"
   },
   sr: {
     title: "Моја колекција пивских чаша",
@@ -312,6 +340,10 @@ const translations = {
       Oceania: "Океанија",
       Other: "Остало"
     },
-    introText: `Ја сам Петар и живим у Малаги, Шпанија. Страстни сам колекционар пивских чаша, а моја колекција се састоји од <b>{glasses} чаша</b> из <b>{breweries} пивара</b> у <b>{countries} земаља</b>.<br>Колекција садржи само чаше од <b>стакла</b> са <b>штампаним логом</b>.<br>Чаше су углавном набављене из ресторана, пивара и хуманитарних продавница.<br>Све чаше су поређане по земљи, а затим по пивари.<br>Уживајте!`
+    introText: `Ја сам Петар и живим у Малаги, Шпанија. Страстни сам колекционар пивских чаша, а моја колекција се састоји од <b>{glasses} чаша</b> из <b>{breweries} пивара</b> у <b>{countries} земаља</b>.<br>Колекција садржи само чаше од <b>стакла</b> са <b>штампаним логом</b>.<br>Чаше су углавном набављене из ресторана, пивара и хуманитарних продавница.<br>Све чаше су поређане по земљи, а затим по пивари.<br>Уживајте!`,
+    infoLink: 'За контакт и више информација кликните <a href="info.html">овде</a>.',
+    infoTitle: "Инфо и Контакт",
+    infoText: `Ако желите да ме контактирате, пошаљите ми е-пошту на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Можете ме наћи и на <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
+    infoBack: "← Назад на главну страницу"
   }
 };

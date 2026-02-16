@@ -234,7 +234,8 @@ function updateIntroText() {
     introP.innerHTML = translations[currentLang].introText
         .replace('{glasses}', beerGlasses.length)
         .replace('{breweries}', Object.keys(breweries).length)
-        .replace('{countries}', Object.keys(grouped).length);
+        .replace('{countries}', Object.keys(grouped).length)
+        + '<br>' + translations[currentLang].infoLink;
 }
 
 // Call updateTranslations on load
