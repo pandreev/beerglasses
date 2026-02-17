@@ -5,18 +5,18 @@ const glassesNetherlands = [
         description: '',
         brewery: 'Heineken',
         country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Heineken.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken.png',
+        image: 'glasses/img/Netherlands/Heineken.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken.webp',
         price: '1.00'
     },
     {
         name: 'Heineken',
-        type: '330ml',
+        type: '250ml',
         description: '',
         brewery: 'Heineken',
         country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Heineken_2.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_2.png',
+        image: 'glasses/img/Netherlands/Heineken_250ml.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_250ml.webp',
         price: '1.00'
     },
     {
@@ -35,8 +35,8 @@ const glassesNetherlands = [
         description: 'Trappist',
         brewery: "La Trappe",
         country: 'Netherlands',
-        image: 'glasses/img/Netherlands/La_Trappe_Trappist.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe_Trappist.png',
+        image: 'glasses/img/Netherlands/La_Trappe_Trappist.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe_Trappist.webp',
         price: '0.50'
     },
 ];

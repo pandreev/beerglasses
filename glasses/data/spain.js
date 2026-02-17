@@ -91,7 +91,7 @@ const glassesSpain = [
     },
     {
         name: 'Cruzcampo Especial',
-        type: 'Copa',
+        type: '330ml',
         description: '',
         brewery: 'Cruzcampo',
         country: 'Spain',

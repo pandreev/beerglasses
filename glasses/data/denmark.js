@@ -5,8 +5,8 @@ const glassesDenmark = [
         description: '',
         brewery: 'Carlsberg',
         country: 'Denmark',
-        image: 'glasses/img/Denmark/Carlsberg_330ml.png',
-        thumbnail: 'glasses/img/Denmark/thumbnail/Carlsberg_330ml.png',
+        image: 'glasses/img/Denmark/Carlsberg_330ml.webp',
+        thumbnail: 'glasses/img/Denmark/thumbnail/Carlsberg_330ml.webp',
         price: '2.00'
     },
 ];
