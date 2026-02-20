@@ -14,13 +14,13 @@ const glassesDuplicates = [
     {
         name: 'Paulaner Helles',
         type: 'Goblet 400ml',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_400ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_400ml.webp',
         price: '0.00'
     },
     {
         name: "Henninger",
         type: 'Glas 200ml',
-        thumbnail: 'glasses/img/Germany/thumbnail/Henninger.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Henninger.webp',
         price: '0.50'
     },
 ];
