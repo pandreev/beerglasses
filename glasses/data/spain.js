@@ -20,6 +20,16 @@ const glassesSpain = [
         price: '1.00'
     },
     {
+        name: 'Reserva 1925',
+        type: 'Copa 300ml',
+        description: 'Cervezas Alhambra Reserva 1925',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra_Reserva_1925.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Reserva_1925.webp',
+        price: '1.50'
+    },
+    {
         name: 'Cruzcampo Gran Reserva',
         type: 'Copa',
         description: '',
