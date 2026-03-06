@@ -205,28 +205,38 @@ const glassesSpain = [
         description: 'La caña genuina',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/tmp/San_Miguel_Jarra_200.webp',
-        thumbnail: 'glasses/img/Spain/tmp/San_Miguel_Jarra_200_front.webp',
+        image: 'glasses/img/Spain/San_Miguel_Jarra_200.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_200.webp',
         price: '0.50'
     },
     {
-        name: 'San Miguel 0,0',
-        type: 'Vaso 300ml',
+        name: 'San Miguel 0,0%',
+        type: 'Vaso 200ml',
         description: 'Con TÈ sabor limon',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/tmp/San_Miguel_Vaso_300_Limon.webp',
-        thumbnail: 'glasses/img/Spain/tmp/San_Miguel_Vaso_300_Limon_front.webp',
+        image: 'glasses/img/Spain/San_Miguel_0_Limon_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_Limon_200ml.webp',
         price: '0.50'
     },
     {
-        name: 'San Miguel 0,0',
-        type: 'Vaso 300ml',
+        name: 'San Miguel 0,0%',
+        type: 'Vaso 200ml',
         description: '',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/tmp/San_Miguel_Vaso_300.webp',
-        thumbnail: 'glasses/img/Spain/tmp/San_Miguel_Vaso_300_front.webp',
+        image: 'glasses/img/Spain/San_Miguel_0_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_200ml.webp',
         price: '0.50'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: '',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_300.webp',
+        price: '1.00'
     },
 ];

@@ -10,6 +10,16 @@ const glassesFrance = [
         price: '2.00'
     },
     {
+        name: 'Kronenbourg',
+        type: '',
+        description: '',
+        brewery: 'Kronenbourg',
+        country: 'France',
+        image: 'glasses/img/France/Kronenbourg.webp',
+        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg.webp',
+        price: '2.00'
+    },
+    {
         name: 'Mützig Old Lager',
         type: '250ml',
         description: '',

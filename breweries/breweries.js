@@ -37,6 +37,7 @@ const breweries = {
     "San Miguel": "breweries/img/Spain/San_Miguel.webp",
     "Euro Pils": "breweries/img/Spain/EuroPils.webp",
     "Arriaca": "breweries/img/Spain/Arriaca.webp",
+    "Mahou": "breweries/img/Spain/Mahou.webp",
     "Amstel Cerveza": "breweries/img/Spain/Amstel_Cerveza.webp",
     "Spendrup's": "breweries/img/Sweden/Spendrups.webp",
 };
