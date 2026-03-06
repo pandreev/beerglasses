@@ -167,12 +167,17 @@ h1 {
     flex-wrap: nowrap;
 }
 
-.modal-images img {
-    max-width: 160px;
-    max-height: 250px;
+.modal-images img, .modal-content img {
+    /*width: 80%;*/
+    height: 80%;
+    max-width: 80vw;
+    max-height: 80vh;
     object-fit: contain;
     border-radius: 8px;
     margin-bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .modal-content {
@@ -192,10 +197,4 @@ h1 {
     right: 16px;
     font-size: 2em;
     cursor: pointer;
-}
-.modal-content img {
-    width: 40%;
-    max-width: 420px;
-    border-radius: 8px;
-    margin-bottom: 16px;
 }
