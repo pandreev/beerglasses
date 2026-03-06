@@ -20,6 +20,16 @@ const glassesSpain = [
         price: '1.00'
     },
     {
+        name: 'Alhambra',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra_Jarra_500.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_500.webp',
+        price: '2.00'
+    },
+    {
         name: 'Reserva 1925',
         type: 'Copa 300ml',
         description: 'Cervezas Alhambra Reserva 1925',

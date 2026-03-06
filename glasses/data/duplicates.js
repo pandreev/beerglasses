@@ -26,7 +26,13 @@ const glassesDuplicates = [
     {
         name: 'San Miguel',
         type: 'Jarra 200ml',
-        thumbnail: 'glasses/img/Spain/tmp/San_Miguel_Jarra_200_front.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_200.webp',
         price: '0.50'
+    },
+    {
+        name: 'Alhambra',
+        type: 'Jarra 500ml',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_500.webp',
+        price: '2.00'
     },
 ];
