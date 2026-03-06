@@ -1,4 +1,4 @@
-const germany = [
+const glassesGermany = [
     {
         name: 'Paulaner Helles',
         type: 'Maßkrug 1l',

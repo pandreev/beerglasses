@@ -3,11 +3,14 @@ const beerGlasses = [
     ...glassesBulgaria,
     ...glassesDenmark,
     ...glassesFrance,
-    ...germany,
+    ...glassesGermany,
     ...glassesIreland,
     ...glassesNetherlands,
     ...glassesPortugal,
     ...glassesSpain,
+    ...spainEstrellaGalicia,
+    ...spainMahou,
+    ...spainSanMiguel,
     ...glassesSweden,
 ];
 
