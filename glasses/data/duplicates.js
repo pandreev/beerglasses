@@ -39,6 +39,6 @@ const glassesDuplicates = [
         name: 'Mahou',
         type: 'Jarra 300ml',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Centenario.webp',
-        price: '1.50'
+        price: '0.00'
     },
 ];

@@ -17,7 +17,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Centenario.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Centenario.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -27,7 +27,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_190.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_190.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -37,7 +37,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_790.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_790.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -47,7 +47,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_1190.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1190.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -57,7 +57,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_1392.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1392.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -67,7 +67,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_1885.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1885.webp',
-        price: '1.50'
+        price: '0.00'
     },
     {
         name: 'Mahou',
@@ -77,6 +77,6 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Jarra_Historia_Reparto.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_Reparto.webp',
-        price: '1.50'
+        price: '0.00'
     },
 ];
