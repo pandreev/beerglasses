@@ -282,6 +282,9 @@ function updateIntroText() {
             handleURLChange();
         });
     }
+    // Log total price of beer glasses on initial load
+    const totalPrice = getTotalBeerGlassesPrice(beerGlasses);
+    console.log('Total price of beer glasses:', totalPrice);
 }
 
 // Call updateTranslations on load
@@ -322,4 +325,11 @@ function handleURLChange() {
     } else {
         renderCountries();
     }
+}
+
+function getTotalBeerGlassesPrice(glasses) {
+    return glasses.reduce((total, glass) => {
+        const price = parseFloat(glass.price);
+        return total + (isNaN(price) ? 0 : price);
+    }, 0);
 }
