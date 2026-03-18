@@ -39,4 +39,14 @@ const glassesNetherlands = [
         thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe_Trappist.webp',
         price: '0.50'
     },
+    {
+        name: "Bavaria",
+        type: '250ml',
+        description: '',
+        brewery: "Bavaria",
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Bavaria_250ml.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Bavaria_250ml.webp',
+        price: '1.00'
+    },
 ];

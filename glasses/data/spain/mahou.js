@@ -12,6 +12,16 @@ const spainMahou = [
     {
         name: 'Mahou',
         type: 'Jarra 300ml',
+        description: 'Cinco Estrellas',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
         description: 'Centenario 1890 - 1990',
         brewery: 'Mahou',
         country: 'Spain',
