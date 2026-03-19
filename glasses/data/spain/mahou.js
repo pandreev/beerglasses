@@ -5,8 +5,8 @@ const spainMahou = [
         description: '',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_300.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_300.webp',
         price: '1.00'
     },
     {
@@ -15,8 +15,8 @@ const spainMahou = [
         description: 'Cinco Estrellas',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Cinco_Estrellas_Jarra_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Cinco_Estrellas_Jarra_300.webp',
         price: '1.00'
     },
     {
@@ -25,9 +25,19 @@ const spainMahou = [
         description: 'Centenario 1890 - 1990',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Centenario.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Centenario.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Centenario.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Centenario.webp',
         price: '0.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Egypto 1570 a.C.',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1570.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1570.webp',
+        price: '1.00'
     },
     {
         name: 'Mahou',
@@ -35,8 +45,8 @@ const spainMahou = [
         description: 'China 190 a.C.',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_190.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_190.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_190.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_190.webp',
         price: '0.00'
     },
     {
@@ -45,9 +55,29 @@ const spainMahou = [
         description: 'Mayas año 790',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_790.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_790.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_790.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_790.webp',
         price: '0.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Vikingos año 1050',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1050.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1050.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Abadios año 1170',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1170.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1170.webp',
+        price: '1.00'
     },
     {
         name: 'Mahou',
@@ -55,9 +85,19 @@ const spainMahou = [
         description: 'Cruzadas año 1190',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_1190.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1190.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1190.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1190.webp',
         price: '0.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Medievo año 1260',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1260.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1260.webp',
+        price: '1.00'
     },
     {
         name: 'Mahou',
@@ -65,9 +105,29 @@ const spainMahou = [
         description: 'El Descubrimiento año 1392',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_1392.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1392.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1392.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1392.webp',
         price: '0.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Rusia año 1654',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1654.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1654.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Jarra 300ml',
+        description: 'Ferrocarril año 1830',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1830.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1830.webp',
+        price: '1.00'
     },
     {
         name: 'Mahou',
@@ -75,8 +135,8 @@ const spainMahou = [
         description: 'Automóvil año 1885',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_1885.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_1885.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1885.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1885.webp',
         price: '0.00'
     },
     {
@@ -85,8 +145,8 @@ const spainMahou = [
         description: 'El Reparto',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Jarra_Historia_Reparto.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Jarra_Historia_Reparto.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_Reparto.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_Reparto.webp',
         price: '0.00'
     },
 ];

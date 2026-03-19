@@ -90,6 +90,16 @@ const glassesSpain = [
         price: '1.00'
     },
     {
+        name: 'Victoria Malaga',
+        type: 'Caña 200ml',
+        description: '',
+        brewery: 'Victoria Malaga',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Victoria_Malaga_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_200ml.webp',
+        price: '1.00'
+    },
+    {
         name: 'Dorada Pilsen',
         type: 'Caña 250ml',
         description: '',

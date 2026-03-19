@@ -30,6 +30,16 @@ const spainSanMiguel = [
         price: '0.50'
     },
     {
+        name: 'San Miguel Selecta',
+        type: 'Copa 300ml',
+        description: 'Cerveza tostada extra',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Selecta.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Selecta.webp',
+        price: '1.00'
+    },
+    {
         name: 'San Miguel',
         type: 'Jarra 200ml',
         description: 'La caña genuina',
@@ -38,6 +48,16 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel_Jarra_200.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_200.webp',
         price: '0.50'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 300ml',
+        description: 'Patrocinator oficial Malaga C.F.',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Jarra_Malaga.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_Malaga.webp',
+        price: '2.00'
     },
     {
         name: 'San Miguel 0,0%',
@@ -57,6 +77,16 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_0_Limon_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_Limon_200ml.webp',
+        price: '0.50'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Chupito 100ml',
+        description: 'Con TÈ sabor limon',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Chupito_100ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Chupito_100ml.webp',
         price: '0.50'
     },
 ];
