@@ -162,7 +162,14 @@ function renderBreweryGlasses(country, brewery) {
 
     const list = document.createElement('div');
     list.className = 'glass-list';
-    grouped[country].filter(glass => glass.brewery === brewery).forEach(glass => {
+    const sortedGlasses = grouped[country]
+        .filter(glass => glass.brewery === brewery)
+        .sort((a, b) => {
+            const nameCompare = a.name.localeCompare(b.name);
+            if (nameCompare !== 0) return nameCompare;
+            return a.type.localeCompare(b.type);
+        });
+    sortedGlasses.forEach(glass => {
         const card = document.createElement('div');
         card.className = 'glass-card';
         card.innerHTML = `
