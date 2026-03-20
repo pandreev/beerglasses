@@ -14,6 +14,7 @@ const beerGlasses = [
     ...spainSanMiguel,
     ...spainVictoria,
     ...glassesSweden,
+    ...glassesScotland,
 ];
 
 // Map country to flag emoji
@@ -35,6 +36,7 @@ const countryFlags = {
     'Portugal': '🇵🇹',
     'Romania': '🇷🇴',
     'Russia': '🇷🇺',
+    'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
     'Spain': '🇪🇸',
     'Sweden': '🇸🇪',
     'Ukraine': '🇺🇦',
@@ -58,6 +60,7 @@ const countryContinents = {
     "Ireland": "Europe",
     "Portugal": "Europe",
     "Netherlands": "Europe",
+    "Scotland": "Europe",
     "Spain": "Europe",
     "Sweden": "Europe",
 };

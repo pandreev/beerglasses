@@ -2,6 +2,9 @@ const breweries = {
     "Gulden Draak": "breweries/img/Belgium/Gulden_Draak.webp",
     "Brasserie d'Achouffe": "breweries/img/Belgium/Achouffe.webp",
     "Abbaye d'Aulne": "breweries/img/Belgium/Abbaye_dAulne.webp",
+    "Brugse Zot": "breweries/img/Belgium/Brugse_zot.webp",
+    "Leffe": "breweries/img/Belgium/Leffe.webp",
+    "De Koninck": "breweries/img/Belgium/De_Koninck.webp",
     "Gaida": "breweries/img/Bulgaria/Gaida.webp",
     "Carlsberg": "breweries/img/Denmark/Carlsberg.webp",
     "Kronenbourg": "breweries/img/France/Kronenbourg.webp",
@@ -42,4 +45,5 @@ const breweries = {
     "Mahou": "breweries/img/Spain/Mahou.webp",
     "Amstel Cerveza": "breweries/img/Spain/Amstel_Cerveza.webp",
     "Spendrup's": "breweries/img/Sweden/Spendrups.webp",
+    "Skol": "breweries/img/Scotland/Skol.webp",
 };
