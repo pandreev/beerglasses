@@ -29,4 +29,34 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Abbaye_dAulne_330ml.webp',
         price: '3.00'
     },
+    {
+        name: "De Koninck",
+        type: '0.25l',
+        description: '',
+        brewery: "De Koninck",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/De_Koninck_250ml.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/De_Koninck_250ml.webp',
+        price: '0.00'
+    },
+    {
+        name: "Leffe",
+        type: '0.33L',
+        description: '',
+        brewery: "Leffe",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Leffe_330ml.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Leffe_330ml.webp',
+        price: '0.00'
+    },
+    {
+        name: "Brugse Zot",
+        type: '0,25l / 0.33l',
+        description: 'CE M19 0122',
+        brewery: "Brugse Zot",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Brugse_Zot_330ml.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_330ml.webp',
+        price: '1.00'
+    },
 ];

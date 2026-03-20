@@ -12,6 +12,7 @@ const beerGlasses = [
     ...spainEstrellaGalicia,
     ...spainMahou,
     ...spainSanMiguel,
+    ...spainVictoria,
     ...glassesSweden,
 ];
 

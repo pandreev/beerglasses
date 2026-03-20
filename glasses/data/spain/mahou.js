@@ -1,6 +1,16 @@
 const spainMahou = [
     {
         name: 'Mahou',
+        type: 'Copa 330ml',
+        description: '',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Copa_300.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou',
         type: 'Jarra 300ml',
         description: '',
         brewery: 'Mahou',

@@ -10,6 +10,16 @@ const glassesGermany = [
         price: '0.00'
     },
     {
+        name: 'Paulaner Oktoberfest Bier',
+        type: 'Maßkrug 1l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner_Oktoberfest_1l.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Oktoberfest_1l.webp',
+        price: '5.00'
+    },
+    {
         name: 'Paulaner Helles',
         type: 'Goblet 400ml',
         description: '',
@@ -78,6 +88,16 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Erdinger_Urweisse_500ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Urweisse_500ml.webp',
         price: '2.00'
+    },
+    {
+        name: 'Erdinger Weißbier',
+        type: 'Glas 0,3l',
+        description: 'SAHM CE M 16 0113',
+        brewery: 'Erdinger',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Erdinger_Weiss_300ml.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Weiss_300ml.webp',
+        price: '1.00'
     },
     {
         name: 'Kaltenberg',
@@ -201,12 +221,22 @@ const glassesGermany = [
     },
     {
         name: "Beck's",
-        type: '150ml',
-        description: 'Glas',
+        type: 'Glas 150ml',
+        description: '',
         brewery: "Beck's",
         country: 'Germany',
         image: 'glasses/img/Germany/Becks_150ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Becks_150ml.webp',
         price: '0.50'
+    },
+    {
+        name: "Pils 2000",
+        type: 'Goblet 0.3l',
+        description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
+        brewery: "Pils_2000",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Pils_2000.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Pils_2000.webp',
+        price: '1.00'
     },
 ];

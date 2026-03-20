@@ -40,6 +40,26 @@ const spainEstrellaGalicia = [
         price: '1.00'
     },
     {
+        name: 'Estrella Galicia',
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Jarra_400ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Jarra_400ml.webp',
+        price: '2.00'
+    },
+    {
+        name: 'Estrella Galicia 0,0',
+        type: 'Vaso 330ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_0_Vaso_330ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_0_Vaso_330ml.webp',
+        price: '1.00'
+    },
+    {
         name: '1906 Pelirroja',
         type: 'Copa 330ml',
         description: '',
@@ -58,6 +78,16 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/1906_Reserva_330ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_330ml.webp',
         price: '2.00'
+    },
+    {
+        name: '1906 Reserva Especial',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/1906_Reserva_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_300ml.webp',
+        price: '1.00'
     },
     {
         name: '1906 Reserva Especial Retro',

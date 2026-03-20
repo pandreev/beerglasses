@@ -89,4 +89,14 @@ const spainSanMiguel = [
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Chupito_100ml.webp',
         price: '0.50'
     },
+    {
+        name: 'San Miguel',
+        type: 'Copa 250ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Copa_250ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Copa_250ml.webp',
+        price: '0.50'
+    },
 ];
