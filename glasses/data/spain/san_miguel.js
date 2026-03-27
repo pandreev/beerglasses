@@ -99,4 +99,14 @@ const spainSanMiguel = [
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Copa_250ml.webp',
         price: '0.50'
     },
+    {
+        name: 'Cerveza San Miguel Premium Quality',
+        type: 'Caña 200ml',
+        description: 'duotank la caña genuina / Matahambre taberna',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Matahambre.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Matahambre.png',
+        price: '0.00'
+    },
 ];

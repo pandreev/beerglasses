@@ -30,6 +30,16 @@ const glassesSpain = [
         price: '2.00'
     },
     {
+        name: 'Mezquita',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mezquita.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mezquita.png',
+        price: '0.00'
+    },
+    {
         name: 'Reserva 1925',
         type: 'Copa 300ml',
         description: 'Cervezas Alhambra Reserva 1925',
@@ -68,6 +78,36 @@ const glassesSpain = [
         image: 'glasses/img/Spain/Cruzcampo_Origen.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Origen.webp',
         price: '1.00'
+    },
+    {
+        name: 'Cruzcampo 1904',
+        type: 'Caña 200ml',
+        description: 'Taperia La Abuela',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Taperia_La_Abuela.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Taperia_La_Abuela.png',
+        price: '0.00'
+    },
+    {
+        name: 'Cruzcampo Cruzial',
+        type: 'Copa 300ml',
+        description: 'Cerveza Especial',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Cruzial.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Cruzial.png',
+        price: '0.00'
+    },
+    {
+        name: 'Extra Braun',
+        type: 'Caña 200ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Extra_Braun.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Extra_Braun.png',
+        price: '0.00'
     },
     {
         name: 'El Aguila',
@@ -118,5 +158,55 @@ const glassesSpain = [
         image: 'glasses/img/Spain/Amstel_Cerveza.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza.webp',
         price: '2.00'
+    },
+    {
+        name: 'Amstel 1870',
+        type: 'Copa 300ml',
+        description: 'Cerveza extra',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Amstel_1870.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_1870.png',
+        price: '0.00'
+    },
+    {
+        name: '3Monos Craft Beer',
+        type: 'Vaso 200ml',
+        description: '',
+        brewery: '3Monos',
+        country: 'Spain',
+        image: 'glasses/img/Spain/3Monos.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/3Monos.png',
+        price: '0.00'
+    },
+    {
+        name: 'Ambar Caesaraugusta',
+        type: 'Copa 250ml',
+        description: 'CAESAR AVGVSTA',
+        brewery: 'Ambar',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Ambar_Caesaraugusta.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Ambar_Caesaraugusta.png',
+        price: '0.00'
+    },
+    {
+        name: 'Legado de Yuste',
+        type: 'Copa 0.25L',
+        description: 'Cerveza de Abadía',
+        brewery: 'Legado de Yuste',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Legado_de_Yuste.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Legado_de_Yuste.png',
+        price: '0.00'
+    },
+    {
+        name: 'La Sagra',
+        type: 'Vaso 400ml',
+        description: 'Cerveza Artesanal',
+        brewery: 'La Sagra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/La_Sagra.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/La_Sagra.png',
+        price: '0.00'
     },
 ];

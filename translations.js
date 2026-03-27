@@ -26,7 +26,8 @@ const translations = {
       Spain: "Spain",
       Sweden: "Sweden",
       Ukraine: "Ukraine",
-      "United Kingdom": "United Kingdom"
+      "United Kingdom": "United Kingdom",
+      "United States of America": "United States of America"
     },
     continents: {
       Europe: "Europe",

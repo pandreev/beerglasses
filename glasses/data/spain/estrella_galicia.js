@@ -11,6 +11,16 @@ const spainEstrellaGalicia = [
     },
     {
         name: 'Estrella Galicia',
+        type: 'Copa 30cl',
+        description: 'CE0300 M15',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_copa2_300ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_copa2_300ml.png',
+        price: '0.00'
+    },
+    {
+        name: 'Estrella Galicia',
         type: 'Caña 300ml',
         description: '',
         brewery: 'Estrella Galicia',
@@ -68,6 +78,16 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/1906_Pelirroja_330ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/1906_Pelirroja_330ml.webp',
         price: '2.00'
+    },
+    {
+        name: '1906 Reserva Especial',
+        type: 'Copa 330ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/1906_Reserva_Especial_330ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_Especial_330ml.png',
+        price: '0.00'
     },
     {
         name: '1906 Reserva Especial',

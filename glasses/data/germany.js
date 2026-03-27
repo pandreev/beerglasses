@@ -233,10 +233,20 @@ const glassesGermany = [
         name: "Pils 2000",
         type: 'Goblet 0.3l',
         description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
-        brewery: "Pils_2000",
+        brewery: "Pils 2000",
         country: 'Germany',
         image: 'glasses/img/Germany/Pils_2000.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Pils_2000.webp',
         price: '1.00'
+    },
+    {
+        name: "Grevensteiner",
+        type: '0.3l',
+        description: 'C. & A. Veltins',
+        brewery: "Grevensteiner",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Grevensteiner_300ml.png',
+        thumbnail: 'glasses/img/Germany/thumbnail/Grevensteiner_300ml.png',
+        price: '0.00'
     },
 ];

@@ -59,4 +59,24 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_330ml.webp',
         price: '1.00'
     },
+    {
+        name: "Grimbergen",
+        type: '0.33l',
+        description: 'RC',
+        brewery: "Grimbergen",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Grimbergen.png',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Grimbergen.png',
+        price: '0.00'
+    },
+    {
+        name: "Affligem",
+        type: '330ml',
+        description: '',
+        brewery: "Affligem",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Affligem.png',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Affligem.png',
+        price: '0.00'
+    },
 ];

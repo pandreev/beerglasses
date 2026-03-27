@@ -1,13 +1,23 @@
 const spainMahou = [
     {
         name: 'Mahou',
-        type: 'Copa 330ml',
-        description: '',
+        type: 'Copa 33cl',
+        description: 'Crisal CE0866 M12',
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Copa_300.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Copa_300.webp',
         price: '1.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Copa 33cl',
+        description: 'Crisal CE0866 M13',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Copa_300.webp',
+        price: '0.00'
     },
     {
         name: 'Mahou',

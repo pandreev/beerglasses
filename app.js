@@ -1,6 +1,7 @@
 const beerGlasses = [
     ...glassesBelgium,
     ...glassesBulgaria,
+    ...glassesCzech,
     ...glassesDenmark,
     ...glassesFrance,
     ...franceKronenbourg,
@@ -15,6 +16,7 @@ const beerGlasses = [
     ...spainVictoria,
     ...glassesSweden,
     ...glassesScotland,
+    ...glassesUsa,
 ];
 
 // Map country to flag emoji
@@ -54,6 +56,7 @@ const collectionDiv = document.getElementById('collection');
 const countryContinents = {
     "Bulgaria": "Europe",
     "Belgium": "Europe",
+    "Czechia": "Europe",
     "Denmark": "Europe",
     "France": "Europe",
     "Germany": "Europe",
@@ -63,6 +66,7 @@ const countryContinents = {
     "Scotland": "Europe",
     "Spain": "Europe",
     "Sweden": "Europe",
+    "United States of America": "North America",
 };
 
 const continentOrder = ["Europe", "North America", "Asia", "South America", "Africa", "Oceania"];

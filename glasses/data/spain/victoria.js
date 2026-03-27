@@ -12,12 +12,22 @@ const spainVictoria = [
     {
         name: 'Victoria Malaga',
         type: 'Caña 300ml',
-        description: '',
+        description: 'White Logo',
         brewery: 'Victoria Malaga',
         country: 'Spain',
         image: 'glasses/img/Spain/Victoria_Malaga_300ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_300ml.webp',
         price: '1.00'
+    },
+    {
+        name: 'Victoria Malaga',
+        type: 'Caña 300ml',
+        description: 'Red Logo',
+        brewery: 'Victoria Malaga',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Victoria_Malaga_Red_300ml.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_Red_300ml.png',
+        price: '0.00'
     },
     {
         name: 'Victoria Malaga',
