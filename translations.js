@@ -72,7 +72,8 @@ const translations = {
       Spain: "España",
       Sweden: "Suecia",
       Ukraine: "Ucrania",
-      "United Kingdom": "Reino Unido"
+      "United Kingdom": "Reino Unido",
+      "United States of America": "Estados Unidos de América"
     },
     continents: {
       Europe: "Europa",
@@ -117,7 +118,8 @@ const translations = {
       Spain: "Spanien",
       Sweden: "Schweden",
       Ukraine: "Ukraine",
-      "United Kingdom": "Vereinigtes Königreich"
+      "United Kingdom": "Vereinigtes Königreich",
+      "United States of America": "Vereinigte Staaten von Amerika"
     },
     continents: {
       Europe: "Europa",
@@ -162,7 +164,8 @@ const translations = {
       Spain: "Espagne",
       Sweden: "Suède",
       Ukraine: "Ukraine",
-      "United Kingdom": "Royaume-Uni"
+      "United Kingdom": "Royaume-Uni",
+      "United States of America": "États-Unis d'Amérique"
     },
     continents: {
       Europe: "Europe",
@@ -207,7 +210,8 @@ const translations = {
       Spain: "Испания",
       Sweden: "Швеция",
       Ukraine: "Украйна",
-      "United Kingdom": "Обединено кралство"
+      "United Kingdom": "Обединено кралство",
+      "United States of America": "Съединени американски щати"
     },
     continents: {
       Europe: "Европа",
@@ -253,7 +257,8 @@ const translations = {
       Spain: "Spanje",
       Sweden: "Zweden",
       Ukraine: "Oekraïne",
-      "United Kingdom": "Verenigd Koninkrijk"
+      "United Kingdom": "Verenigd Koninkrijk",
+      "United States of America": "Verenigde Staten van Amerika"
     },
     continents: {
       Europe: "Europa",
@@ -299,7 +304,8 @@ const translations = {
       Spain: "Hiszpania",
       Sweden: "Szwecja",
       Ukraine: "Ukraina",
-      "United Kingdom": "Wielka Brytania"
+      "United Kingdom": "Wielka Brytania",
+      "United States of America": "Stany Zjednoczone Ameryki"
     },
     continents: {
       Europe: "Europa",
@@ -311,7 +317,7 @@ const translations = {
       Other: "Inne"
     },
     introText: `Jestem Petar i mieszkam w Maladze w Hiszpanii. Jestem pasjonatem kolekcjonowania szklanek do piwa, a moja kolekcja składa się z <b>{glasses} szklanek</b> z <b>{breweries} browarów</b> z <b>{countries} krajów</b>.<br>Kolekcja zawiera tylko naczynia ze <b>szkła</b> z <b>nadrukowanym logo</b>.<br>Szklanki pochodzą głównie z wizyt w restauracjach, browarach i sklepach charytatywnych.<br>Wszystkie szklanki są uporządkowane według kraju, a następно browaru.<br>Miłego oglądania!`,
-    infoLink: 'Aby się skontaktować i uzyskać więcej informacji, kliknij <a href="info.html">tutaj</a>.',
+    infoLink: 'Aby się skontaktować и uzyskać więcej informacji, kliknij <a href="info.html">tutaj</a>.',
     infoTitle: "Informacje i Kontakt",
     infoText: `Jeśli chcesz się skontaktować, napisz do mnie na <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Możesz mnie też znaleźć na <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Powrót do strony głównej",
@@ -345,7 +351,8 @@ const translations = {
       Spain: "Шпанија",
       Sweden: "Шведска",
       Ukraine: "Украјина",
-      "United Kingdom": "Уједињено Краљевство"
+      "United Kingdom": "Уједињено Краљевство",
+      "United States of America": "Сједињене Америчке Државе"
     },
     continents: {
       Europe: "Европа",

@@ -43,6 +43,7 @@ const countryFlags = {
     'Sweden': '🇸🇪',
     'Ukraine': '🇺🇦',
     'United Kingdom': '🇬🇧',
+    'United States of America': '🇺🇸',
 };
 
 // Group by country
