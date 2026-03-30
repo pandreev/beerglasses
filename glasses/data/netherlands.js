@@ -39,26 +39,7 @@ const glassesNetherlands = [
         thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_Madrid_250ml.webp',
         price: '0.00'
     },
-    {
-        name: "La Trappe",
-        type: '250ml',
-        description: 'Trappist',
-        brewery: "La Trappe",
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/La_Trappe_Trappist.webp',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe_Trappist.webp',
-        price: '0.50'
-    },
-    {
-        name: "La Trappe",
-        type: '250ml',
-        description: 'TRAPPISTENBIER',
-        brewery: "La Trappe",
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/La_Trappe.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/La_Trappe.png',
-        price: '0.00'
-    },
+
     {
         name: "Bavaria",
         type: '250ml',

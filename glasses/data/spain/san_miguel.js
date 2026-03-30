@@ -35,8 +35,8 @@ const spainSanMiguel = [
         description: 'Cerveza tostada extra',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Selecta.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Selecta.webp',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Selecta.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Selecta.webp',
         price: '1.00'
     },
     {

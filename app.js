@@ -1,19 +1,24 @@
 const beerGlasses = [
     ...glassesBelgium,
+    ...belgiumOthers,
     ...glassesBulgaria,
     ...glassesCzech,
     ...glassesDenmark,
     ...glassesFrance,
     ...franceKronenbourg,
+    ...germanyFranziskaner,
     ...glassesGermany,
     ...glassesIreland,
+    ...netherlandsLaTrappe,
     ...glassesNetherlands,
     ...glassesPortugal,
     ...glassesSpain,
+    ...spainCruzcampo,
     ...spainEstrellaGalicia,
     ...spainMahou,
     ...spainSanMiguel,
     ...spainVictoria,
+    ...spainOthers,
     ...glassesSweden,
     ...glassesScotland,
     ...glassesUsa,
@@ -227,16 +232,44 @@ function renderDuplicates() {
 }
 
 function showGlassModal(glass) {
-// Modal logic
+    // Modal logic
     const modal = document.getElementById('glass-modal');
     const modalImage = document.getElementById('modal-image');
     const modalName = document.getElementById('modal-name');
     const modalType = document.getElementById('modal-type');
     const modalDescription = document.getElementById('modal-description');
     const closeBtn = document.querySelector('.close-btn');
+    const modalImages = document.getElementById('modal-images');
 
+    // Set flex layout for images
+    modalImages.style.display = 'flex';
+    modalImages.style.gap = '10px';
+    modalImages.style.justifyContent = 'center';
+    modalImages.style.alignItems = 'center';
+
+    // Set main image (remove width restriction)
     modalImage.src = glass.image;
     modalImage.alt = glass.name;
+    modalImage.style.width = '';
+    modalImage.style.maxWidth = '';
+    modalImage.style.height = '';
+
+    // Remove any previous extra image
+    const oldExtra = document.getElementById('modal-extra-image');
+    if (oldExtra) oldExtra.remove();
+
+    // Add extra image if present
+    if (glass.extraImage) {
+        const extraImg = document.createElement('img');
+        extraImg.id = 'modal-extra-image';
+        extraImg.src = glass.extraImage;
+        extraImg.alt = glass.name + ' extra';
+        extraImg.style.width = '100px';
+        extraImg.style.maxWidth = '100px';
+        extraImg.style.height = 'auto';
+        modalImages.appendChild(extraImg);
+    }
+
     modalName.textContent = glass.name;
     modalType.textContent = glass.type;
     modalDescription.textContent = glass.description;

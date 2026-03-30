@@ -79,14 +79,4 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Affligem.png',
         price: '0.00'
     },
-    {
-        name: "Waterloo",
-        type: '33cl',
-        description: 'The Beer of Bravery!',
-        brewery: "Affligem",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Waterloo_33cl.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Waterloo_33cl.webp',
-        price: '0.00'
-    },
 ];

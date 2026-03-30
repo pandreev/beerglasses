@@ -80,36 +80,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: 'Cruzcampo 1904',
-        type: 'Caña 200ml',
-        description: 'Taperia La Abuela',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Taperia_La_Abuela.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Taperia_La_Abuela.png',
-        price: '0.00'
-    },
-    {
-        name: 'Cruzcampo Cruzial',
-        type: 'Copa 300ml',
-        description: 'Cerveza Especial',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Cruzial.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Cruzial.png',
-        price: '0.00'
-    },
-    {
-        name: 'Extra Braun',
-        type: 'Caña 200ml',
-        description: '',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Extra_Braun.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Extra_Braun.png',
-        price: '0.00'
-    },
-    {
         name: 'El Aguila',
         type: 'Caña 330ml',
         description: '',
@@ -169,16 +139,7 @@ const glassesSpain = [
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_1870.png',
         price: '0.00'
     },
-    {
-        name: '3Monos Craft Beer',
-        type: 'Vaso 200ml',
-        description: '',
-        brewery: '3Monos',
-        country: 'Spain',
-        image: 'glasses/img/Spain/3Monos.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/3Monos.png',
-        price: '0.00'
-    },
+
     {
         name: 'Ambar Caesaraugusta',
         type: 'Copa 250ml',
@@ -199,14 +160,5 @@ const glassesSpain = [
         thumbnail: 'glasses/img/Spain/thumbnail/Legado_de_Yuste.png',
         price: '0.00'
     },
-    {
-        name: 'La Sagra',
-        type: 'Vaso 400ml',
-        description: 'Cerveza Artesanal',
-        brewery: 'La Sagra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/La_Sagra.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/La_Sagra.png',
-        price: '0.00'
-    },
+
 ];

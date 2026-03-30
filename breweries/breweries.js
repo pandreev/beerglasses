@@ -6,6 +6,7 @@ const breweries = {
     "De Koninck": "breweries/img/Belgium/De_Koninck.webp",
     "Grimbergen": "breweries/img/Belgium/Grimbergen.webp",
     "Gulden Draak": "breweries/img/Belgium/Gulden_Draak.webp",
+    "Waterloo": "breweries/img/Belgium/Waterloo.webp",
     "Leffe": "breweries/img/Belgium/Leffe.webp",
     "Gaida": "breweries/img/Bulgaria/Gaida.webp",
     "Pilsner Urquell": "breweries/img/Czechia/Pilsner_urquell.webp",
