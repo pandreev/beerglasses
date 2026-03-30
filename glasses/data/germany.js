@@ -60,6 +60,16 @@ const glassesGermany = [
         price: '0.00'
     },
     {
+        name: 'Franziskaner Weißbier',
+        type: 'Glas 0,5l',
+        description: '0,5l Herb Germany',
+        brewery: 'Franziskaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Franziskaner_500ml_3.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml_3.webp',
+        price: '0.00'
+    },
+    {
         name: 'Hofbräuhaus',
         type: 'Maßkrug 1l',
         description: '',

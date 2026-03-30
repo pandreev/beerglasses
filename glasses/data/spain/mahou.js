@@ -50,6 +50,16 @@ const spainMahou = [
         price: '0.00'
     },
     {
+        name: 'Mahou Negra',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Negra.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Negra.webp',
+        price: '0.00'
+    },
+    {
         name: 'Mahou',
         type: 'Jarra 300ml',
         description: 'Egypto 1570 a.C.',
