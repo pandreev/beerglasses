@@ -25,8 +25,8 @@ const spainCruzcampo = [
         description: 'Taperia La Abuela',
         brewery: 'Cruzcampo',
         country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Taperia_La_Abuela.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Taperia_La_Abuela.webp',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Taperia_La_Abuela.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Taperia_La_Abuela.webp',
         price: '0.00'
     },
 ];
