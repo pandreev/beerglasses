@@ -60,14 +60,4 @@ const glassesNetherlands = [
         thumbnail: 'glasses/img/Netherlands/thumbnail/Bavaria_86.png',
         price: '0.00'
     },
-    {
-        name: "Buckler",
-        type: '300ml',
-        description: '',
-        brewery: "Buckler",
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Buckler.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Buckler.png',
-        price: '0.00'
-    },
 ];

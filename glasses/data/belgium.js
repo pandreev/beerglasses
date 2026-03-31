@@ -40,16 +40,6 @@ const glassesBelgium = [
         price: '0.00'
     },
     {
-        name: "Leffe",
-        type: '0.33L',
-        description: '',
-        brewery: "Leffe",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Leffe_330ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Leffe_330ml.webp',
-        price: '0.00'
-    },
-    {
         name: "Brugse Zot",
         type: '0,25l / 0.33l',
         description: 'CE M19 0122',
@@ -58,16 +48,6 @@ const glassesBelgium = [
         image: 'glasses/img/Belgium/Brugse_Zot_330ml.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_330ml.webp',
         price: '1.00'
-    },
-    {
-        name: "Grimbergen",
-        type: '0.33l',
-        description: 'RC',
-        brewery: "Grimbergen",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Grimbergen.png',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Grimbergen.png',
-        price: '0.00'
     },
     {
         name: "Affligem",

@@ -5,8 +5,9 @@ const spainMahou = [
         description: 'Crisal CE0866 M12',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Copa_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Copa_300.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_33_M12.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_33_M12.webp',
+        extraImage: 'glasses/img/Spain/Mahou/extra/Mahou_Copa_33_M12.webp',
         price: '1.00'
     },
     {
@@ -15,8 +16,9 @@ const spainMahou = [
         description: 'Crisal CE0866 M13',
         brewery: 'Mahou',
         country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Copa_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Copa_300.webp',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_33_M13.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_33_M13.webp',
+        extraImage: 'glasses/img/Spain/Mahou/extra/Mahou_Copa_33_M13.webp',
         price: '0.00'
     },
     {

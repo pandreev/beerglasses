@@ -10,4 +10,15 @@ const belgiumOthers = [
         extraImage: 'glasses/img/Belgium/Waterloo/extra/Waterloo_33cl.webp',
         price: '0.00'
     },
+    {
+        name: "Grimbergen",
+        type: '0.33l',
+        description: 'RC',
+        brewery: "Grimbergen",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Grimbergen/Grimbergen.webp',
+        thumbnail: 'glasses/img/Belgium/Grimbergen/thumbnail/Grimbergen.webp',
+        extraImage: 'glasses/img/Belgium/Grimbergen/extra/Grimbergen.webp',
+        price: '0.00'
+    },
 ];
