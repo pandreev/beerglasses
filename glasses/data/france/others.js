@@ -19,6 +19,7 @@ const franceOthers = [
         image: 'glasses/img/France/Mutzig/Mutzig_250ml.webp',
         thumbnail: 'glasses/img/France/Mutzig/thumbnail/Mutzig_250ml.webp',
         extraImage: 'glasses/img/France/Mutzig/extra/Mutzig_250ml.webp',
+        box: '002',
         price: '1.00'
     },
 ];

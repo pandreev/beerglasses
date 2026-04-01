@@ -17,6 +17,7 @@ const irelandGuinness = [
         country: 'Ireland',
         image: 'glasses/img/Ireland/Guinness/Guinness_Draught_300ml.webp',
         thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_Draught_300ml.webp',
+        box: '002',
         price: '0.00'
     },
 ];

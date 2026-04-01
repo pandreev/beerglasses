@@ -31,6 +31,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_300.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_300.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -40,7 +41,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Cinco_Estrellas_Jarra_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Cinco_Estrellas_Jarra_300.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -70,7 +72,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1570.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1570.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1570.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -100,7 +103,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1050.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1050.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1050.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -110,7 +114,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1170.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1170.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1170.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -130,7 +135,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1260.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1260.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1260.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -150,7 +156,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1654.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1654.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1654.webp',
+        box: '002',
         price: '1.00'
     },
     {
@@ -160,7 +167,8 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1830.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1830.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1830.webp',
+        box: '002',
         price: '1.00'
     },
     {

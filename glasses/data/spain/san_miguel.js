@@ -28,6 +28,7 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Copa_250ml.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Copa_250ml.webp',
         extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_Copa_250ml.webp',
+        box: '002',
         price: '0.50'
     },
     {
@@ -38,7 +39,19 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_200.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_200.webp',
+        box: '002',
         price: '0.50'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 300ml',
+        description: 'Patrocinator oficial Malaga C.F.',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_Malaga.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_Malaga.webp',
+        box: '002',
+        price: '2.00'
     },
     //
     {
@@ -70,16 +83,6 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel_Premium.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Premium.webp',
         price: '0.50'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Jarra 300ml',
-        description: 'Patrocinator oficial Malaga C.F.',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Jarra_Malaga.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_Malaga.webp',
-        price: '2.00'
     },
     {
         name: 'San Miguel 0,0%',
