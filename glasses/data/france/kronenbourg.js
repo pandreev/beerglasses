@@ -25,8 +25,9 @@ const franceKronenbourg = [
         description: 'La Cueillette Du Houblon En Alsace',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_2.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_2.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_2.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_2.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
     {
@@ -35,8 +36,9 @@ const franceKronenbourg = [
         description: 'La Dégustation de la Kronenbourg',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_1.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_1.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_1.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_1.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
     {
@@ -45,8 +47,9 @@ const franceKronenbourg = [
         description: 'La "birette" de livraison du brasseur Alsacien',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_4.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_4.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_4.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_4.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
     {
@@ -55,8 +58,9 @@ const franceKronenbourg = [
         description: 'Les armes du brasseur',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_3.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_3.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_3.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_3.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
     {
@@ -65,8 +69,9 @@ const franceKronenbourg = [
         description: "La récolte de l'orge en Alsace",
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_6.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_6.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_6.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_6.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
     {
@@ -75,8 +80,9 @@ const franceKronenbourg = [
         description: 'Le brassage',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_200ml_5.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_200ml_5.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_5.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_5.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
         price: '1.50'
     },
 ];

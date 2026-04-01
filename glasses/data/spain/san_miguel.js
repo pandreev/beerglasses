@@ -1,6 +1,38 @@
 const spainSanMiguel = [
     {
         name: 'San Miguel',
+        type: 'Chupito 100ml',
+        description: 'Con TÈ sabor limon',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Chupito_100ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Chupito_100ml.webp',
+        price: '0.50'
+    },
+    {
+        name: 'San Miguel Selecta',
+        type: 'Copa 300ml',
+        description: 'Cerveza tostada extra',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Selecta.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Selecta.webp',
+        price: '1.00'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Copa 250ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Copa_250ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Copa_250ml.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_Copa_250ml.webp',
+        price: '0.50'
+    },
+    //
+    {
+        name: 'San Miguel',
         type: 'Copa 250ml',
         description: 'Crisal 97',
         brewery: 'San Miguel',
@@ -28,16 +60,6 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel_Premium.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Premium.webp',
         price: '0.50'
-    },
-    {
-        name: 'San Miguel Selecta',
-        type: 'Copa 300ml',
-        description: 'Cerveza tostada extra',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Selecta.webp',
-        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Selecta.webp',
-        price: '1.00'
     },
     {
         name: 'San Miguel',
@@ -77,26 +99,6 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_0_Limon_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_Limon_200ml.webp',
-        price: '0.50'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Chupito 100ml',
-        description: 'Con TÈ sabor limon',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Chupito_100ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Chupito_100ml.webp',
-        price: '0.50'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Copa 250ml',
-        description: '',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Copa_250ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Copa_250ml.webp',
         price: '0.50'
     },
     {

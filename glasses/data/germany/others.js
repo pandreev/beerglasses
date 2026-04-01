@@ -53,4 +53,15 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Benediktiner/extra/Benediktiner_500ml.webp',
         price: '0.00'
     },
+    {
+        name: 'Haake Beck Pils',
+        type: 'Goblet 300ml',
+        description: 'Wissen, was gut ist',
+        brewery: 'Haake Beck',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Haake_Beck/Haake_Beck_Pils_300ml.webp',
+        thumbnail: 'glasses/img/Germany/Haake_Beck/thumbnail/Haake_Beck_Pils_300ml.webp',
+        extraImage: 'glasses/img/Germany/Haake_Beck/extra/Haake_Beck_Pils_300ml.webp',
+        price: '0.50'
+    },
 ];

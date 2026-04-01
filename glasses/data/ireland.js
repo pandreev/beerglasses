@@ -10,16 +10,6 @@ const glassesIreland = [
         price: '1.00'
     },
     {
-        name: 'Guinness',
-        type: 'Glass 300ml',
-        description: '',
-        brewery: 'Guinness',
-        country: 'Ireland',
-        image: 'glasses/img/Ireland/Guinness_300ml.webp',
-        thumbnail: 'glasses/img/Ireland/thumbnail/Guinness_300ml.webp',
-        price: '1.00'
-    },
-    {
         name: 'Guinness Draught',
         type: 'Glass 300ml',
         description: '',

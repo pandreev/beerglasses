@@ -30,16 +30,7 @@ const glassesNetherlands = [
         price: '1.00'
     },
 
-    {
-        name: "Bavaria",
-        type: '250ml',
-        description: '',
-        brewery: "Bavaria",
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Bavaria_250ml.webp',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Bavaria_250ml.webp',
-        price: '1.00'
-    },
+
     {
         name: "Bavaria 86",
         type: '0,25l',

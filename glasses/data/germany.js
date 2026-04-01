@@ -180,16 +180,6 @@ const glassesGermany = [
         price: '0.50'
     },
     {
-        name: 'Haake Beck Pils',
-        type: 'Goblet 300ml',
-        description: 'Wissen, was gut ist',
-        brewery: 'Haake Beck',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Haake_Beck_Pils_300ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Haake_Beck_Pils_300ml.webp',
-        price: '0.50'
-    },
-    {
         name: 'Feldschlösschen Original',
         type: 'Glas 200ml',
         description: '',
