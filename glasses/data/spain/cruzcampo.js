@@ -29,4 +29,14 @@ const spainCruzcampo = [
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Taperia_La_Abuela.webp',
         price: '0.00'
     },
+    {
+        name: 'Cruzcampo',
+        type: 'Copa 300ml',
+        description: 'Cien años  1904-2004',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_cien_anos.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_cien_anos.webp',
+        price: '0.00'
+    },
 ];

@@ -29,16 +29,6 @@ const glassesNetherlands = [
         thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_150ml.webp',
         price: '1.00'
     },
-    {
-        name: 'Heineken',
-        type: '250ml',
-        description: "Champions League Final Madrid 2010",
-        brewery: 'Heineken',
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Heineken_Madrid_250ml.webp',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_Madrid_250ml.webp',
-        price: '0.00'
-    },
 
     {
         name: "Bavaria",
