@@ -287,6 +287,11 @@ function showGlassModal(glass) {
         modalImages.appendChild(extraImg);
     }
 
+    // Log the box property if present
+    if (glass.box) {
+        console.log('Box:', glass.box);
+    }
+
     modalName.textContent = glass.name;
     modalType.textContent = glass.type;
     modalDescription.textContent = glass.description;
