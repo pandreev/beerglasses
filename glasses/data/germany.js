@@ -90,16 +90,6 @@ const glassesGermany = [
         price: '2.00'
     },
     {
-        name: 'Erdinger Weißbier',
-        type: 'Glas 0,3l',
-        description: 'SAHM CE M 16 0113',
-        brewery: 'Erdinger',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Erdinger_Weiss_300ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Weiss_300ml.webp',
-        price: '1.00'
-    },
-    {
         name: 'Kaltenberg',
         type: 'Glas 500ml',
         description: '',
@@ -118,16 +108,6 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Bischofshof_500ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Bischofshof_500ml.webp',
         price: '3.00'
-    },
-    {
-        name: 'Veltins Pils',
-        type: 'Glas 400ml',
-        description: '',
-        brewery: 'Veltins',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Veltins_400ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Veltins_400ml.webp',
-        price: '1.00'
     },
     {
         name: 'Alpirsbacher Klosterbräu',
@@ -218,16 +198,6 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Becks_150ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Becks_150ml.webp',
         price: '0.50'
-    },
-    {
-        name: "Pils 2000",
-        type: 'Goblet 0.3l',
-        description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
-        brewery: "Pils 2000",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Pils_2000.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Pils_2000.webp',
-        price: '1.00'
     },
     {
         name: "Grevensteiner",

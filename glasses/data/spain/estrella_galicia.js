@@ -54,6 +54,17 @@ const spainEstrellaGalicia = [
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/1906_Red_Vintage_330ml.webp',
         price: '1.00'
     },
+    {
+        name: 'Estrella Galicia',
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Jarra_400ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Jarra_400ml.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Jarra_400ml.webp',
+        price: '2.00'
+    },
     //
     {
         name: 'Estrella Galicia',
@@ -74,16 +85,6 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia_300ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_300ml.webp',
         price: '0.00'
-    },
-    {
-        name: 'Estrella Galicia',
-        type: 'Jarra 400ml',
-        description: '',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_Jarra_400ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Jarra_400ml.webp',
-        price: '2.00'
     },
     {
         name: 'Estrella Galicia 0,0',

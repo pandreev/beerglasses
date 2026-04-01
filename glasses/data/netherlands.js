@@ -19,16 +19,6 @@ const glassesNetherlands = [
         thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_250ml.webp',
         price: '1.00'
     },
-    {
-        name: 'Heineken',
-        type: '150ml',
-        description: "Heineken's Bierbrouwerij Maatschappij",
-        brewery: 'Heineken',
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Heineken_150ml.webp',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_150ml.webp',
-        price: '1.00'
-    },
 
 
     {

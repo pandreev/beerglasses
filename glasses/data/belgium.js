@@ -1,14 +1,5 @@
 const glassesBelgium = [
-    {
-        name: 'Gulden Draak',
-        type: '50cl',
-        description: 'M22 0122 Rirzenhof',
-        brewery: 'Gulden Draak',
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Gulden_Draak_500ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Gulden_Draak_500ml.webp',
-        price: '4.00'
-    },
+
     {
         name: "Brasserie d'Achouffe",
         type: '33cl',
@@ -19,26 +10,7 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml.webp',
         price: '3.00'
     },
-    {
-        name: "Abbaye d'Aulne",
-        type: '33cl',
-        description: 'M21 0122 AYANO',
-        brewery: "Abbaye d'Aulne",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Abbaye_dAulne_330ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Abbaye_dAulne_330ml.webp',
-        price: '3.00'
-    },
-    {
-        name: "De Koninck",
-        type: '0.25l',
-        description: '',
-        brewery: "De Koninck",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/De_Koninck_250ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/De_Koninck_250ml.webp',
-        price: '0.00'
-    },
+
     {
         name: "Brugse Zot",
         type: '0,25l / 0.33l',

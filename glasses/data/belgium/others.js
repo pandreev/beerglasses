@@ -21,4 +21,15 @@ const belgiumOthers = [
         extraImage: 'glasses/img/Belgium/Grimbergen/extra/Grimbergen.webp',
         price: '0.00'
     },
+    {
+        name: "De Koninck",
+        type: '0.25l',
+        description: '',
+        brewery: "De Koninck",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/DeKoninck/De_Koninck_250ml.webp',
+        thumbnail: 'glasses/img/Belgium/DeKoninck/thumbnail/De_Koninck_250ml.webp',
+        extraImage: 'glasses/img/Belgium/DeKoninck/extra/De_Koninck_250ml.webp',
+        price: '0.00'
+    },
 ];

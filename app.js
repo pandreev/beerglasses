@@ -1,6 +1,8 @@
 const beerGlasses = [
     ...glassesBelgium,
+    ...belgiumAbbaye_dAulne,
     ...belgiumDuvel,
+    ...belgiumGuldenDraak,
     ...belgiumLeffe,
     ...belgiumOthers,
     ...glassesBulgaria,

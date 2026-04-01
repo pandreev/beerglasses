@@ -64,4 +64,26 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Haake_Beck/extra/Haake_Beck_Pils_300ml.webp',
         price: '0.50'
     },
+    {
+        name: "Pils 2000",
+        type: 'Goblet 0.3l',
+        description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
+        brewery: "Pils 2000",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Pils2000/Pils_2000.webp',
+        thumbnail: 'glasses/img/Germany/Pils2000/thumbnail/Pils_2000.webp',
+        extraImage: 'glasses/img/Germany/Pils2000/extra/Pils_2000.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Veltins Pils',
+        type: 'Glas 400ml',
+        description: '',
+        brewery: 'Veltins',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Veltins/Veltins_400ml.webp',
+        thumbnail: 'glasses/img/Germany/Veltins/thumbnail/Veltins_400ml.webp',
+        extraImage: 'glasses/img/Germany/Veltins/extra/Veltins_400ml.webp',
+        price: '1.00'
+    },
 ];
