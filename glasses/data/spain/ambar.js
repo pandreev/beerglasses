@@ -7,6 +7,7 @@ const spainAmbar = [
         country: 'Spain',
         image: 'glasses/img/Spain/Ambar/Ambar_Caesaraugusta.webp',
         thumbnail: 'glasses/img/Spain/Ambar/thumbnail/Ambar_Caesaraugusta.webp',
+        box: '001',
         price: '0.00'
     },
 ];

@@ -94,6 +94,7 @@ const germanyOthers = [
         country: 'Germany',
         image: 'glasses/img/Germany/Becks/Becks_150ml.webp',
         thumbnail: 'glasses/img/Germany/Becks/thumbnail/Becks_150ml.webp',
+        box: '001',
         price: '0.50'
     },
 ];

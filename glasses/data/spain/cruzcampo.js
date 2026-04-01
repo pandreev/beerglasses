@@ -17,6 +17,7 @@ const spainCruzcampo = [
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Cruzial.webp',
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Cruzial.webp',
+        box: '001',
         price: '0.00'
     },
     {

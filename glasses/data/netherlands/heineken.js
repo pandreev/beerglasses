@@ -18,6 +18,7 @@ const netherlandsHeineken = [
         image: 'glasses/img/Netherlands/Heineken/Heineken_150ml.webp',
         thumbnail: 'glasses/img/Netherlands/Heineken/thumbnail/Heineken_150ml.webp',
         extraImage: 'glasses/img/Netherlands/Heineken/extra/Heineken_150ml.webp',
+        box: '001',
         price: '1.00'
     },
 ];

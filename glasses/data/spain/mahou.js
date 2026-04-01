@@ -8,6 +8,7 @@ const spainMahou = [
         image: 'glasses/img/Spain/Mahou/Mahou_Copa_33_M12.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_33_M12.webp',
         extraImage: 'glasses/img/Spain/Mahou/extra/Mahou_Copa_33_M12.webp',
+        box: '001',
         price: '1.00'
     },
     {
@@ -19,6 +20,7 @@ const spainMahou = [
         image: 'glasses/img/Spain/Mahou/Mahou_Copa_33_M13.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_33_M13.webp',
         extraImage: 'glasses/img/Spain/Mahou/extra/Mahou_Copa_33_M13.webp',
+        box: '001',
         price: '0.00'
     },
     {

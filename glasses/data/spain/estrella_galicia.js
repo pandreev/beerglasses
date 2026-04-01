@@ -19,6 +19,7 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_copa2_300ml.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_copa2_300ml.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_copa2_300ml.webp',
+        box: '001',
         price: '0.00'
     },
     {

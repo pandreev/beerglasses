@@ -19,6 +19,7 @@ const belgiumOthers = [
         image: 'glasses/img/Belgium/Grimbergen/Grimbergen.webp',
         thumbnail: 'glasses/img/Belgium/Grimbergen/thumbnail/Grimbergen.webp',
         extraImage: 'glasses/img/Belgium/Grimbergen/extra/Grimbergen.webp',
+        box: '001',
         price: '0.00'
     },
     {
@@ -30,6 +31,7 @@ const belgiumOthers = [
         image: 'glasses/img/Belgium/DeKoninck/De_Koninck_250ml.webp',
         thumbnail: 'glasses/img/Belgium/DeKoninck/thumbnail/De_Koninck_250ml.webp',
         extraImage: 'glasses/img/Belgium/DeKoninck/extra/De_Koninck_250ml.webp',
+        box: '001',
         price: '0.00'
     },
     {
@@ -40,6 +42,7 @@ const belgiumOthers = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Affligem/Affligem.webp',
         thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem.webp',
+        box: '001',
         price: '0.00'
     },
 ];

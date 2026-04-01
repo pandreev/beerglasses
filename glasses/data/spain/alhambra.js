@@ -17,6 +17,7 @@ const spainAlhambra = [
         country: 'Spain',
         image: 'glasses/img/Spain/Alhambra/Mezquita.webp',
         thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Mezquita.webp',
+        box: '001',
         price: '0.00'
     },
 ];
