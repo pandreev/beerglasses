@@ -30,6 +30,16 @@ const spainSanMiguel = [
         extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_Copa_250ml.webp',
         price: '0.50'
     },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 200ml',
+        description: 'La caña genuina',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_200.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_200.webp',
+        price: '0.50'
+    },
     //
     {
         name: 'San Miguel',
@@ -59,16 +69,6 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel_Premium.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Premium.webp',
-        price: '0.50'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Jarra 200ml',
-        description: 'La caña genuina',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Jarra_200.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_200.webp',
         price: '0.50'
     },
     {

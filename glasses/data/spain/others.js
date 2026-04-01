@@ -19,4 +19,15 @@ const spainOthers = [
         thumbnail: 'glasses/img/Spain/LaSagra/thumbnail/La_Sagra.webp',
         price: '0.00'
     },
+    {
+        name: 'Legado de Yuste',
+        type: 'Copa 0.25L',
+        description: 'Cerveza de Abadía',
+        brewery: 'Legado de Yuste',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Legado_de_Yuste/Legado_de_Yuste.webp',
+        thumbnail: 'glasses/img/Spain/Legado_de_Yuste/thumbnail/Legado_de_Yuste.webp',
+        extraImage: 'glasses/img/Spain/Legado_de_Yuste/extra/Legado_de_Yuste.webp',
+        price: '0.00'
+    },
 ];

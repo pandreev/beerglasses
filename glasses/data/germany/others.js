@@ -86,4 +86,14 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Veltins/extra/Veltins_400ml.webp',
         price: '1.00'
     },
+    {
+        name: "Beck's",
+        type: 'Glas 150ml',
+        description: '',
+        brewery: "Beck's",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Becks/Becks_150ml.webp',
+        thumbnail: 'glasses/img/Germany/Becks/thumbnail/Becks_150ml.webp',
+        price: '0.50'
+    },
 ];

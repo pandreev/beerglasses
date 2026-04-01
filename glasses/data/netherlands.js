@@ -21,14 +21,4 @@ const glassesNetherlands = [
     },
 
 
-    {
-        name: "Bavaria 86",
-        type: '0,25l',
-        description: 'Holland beer 0,25l RC',
-        brewery: "Bavaria",
-        country: 'Netherlands',
-        image: 'glasses/img/Netherlands/Bavaria_86.png',
-        thumbnail: 'glasses/img/Netherlands/thumbnail/Bavaria_86.png',
-        price: '0.00'
-    },
 ];

@@ -28,7 +28,7 @@ const spainMahou = [
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_300.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_300.webp',
         price: '1.00'
     },
     {

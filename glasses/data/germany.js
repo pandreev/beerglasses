@@ -190,16 +190,6 @@ const glassesGermany = [
         price: '0.50'
     },
     {
-        name: "Beck's",
-        type: 'Glas 150ml',
-        description: '',
-        brewery: "Beck's",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Becks_150ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Becks_150ml.webp',
-        price: '0.50'
-    },
-    {
         name: "Grevensteiner",
         type: '0.3l',
         description: 'C. & A. Veltins',

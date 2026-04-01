@@ -32,4 +32,14 @@ const belgiumOthers = [
         extraImage: 'glasses/img/Belgium/DeKoninck/extra/De_Koninck_250ml.webp',
         price: '0.00'
     },
+    {
+        name: "Affligem",
+        type: '330ml',
+        description: '',
+        brewery: "Affligem",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Affligem/Affligem.webp',
+        thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem.webp',
+        price: '0.00'
+    },
 ];
