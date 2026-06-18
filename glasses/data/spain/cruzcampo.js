@@ -40,4 +40,14 @@ const spainCruzcampo = [
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_cien_anos.webp',
         price: '0.00'
     },
+    {
+        name: 'Cruzcampo',
+        type: 'Copa 200ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_200ml.webp',
+        price: '0.00'
+    },
 ];

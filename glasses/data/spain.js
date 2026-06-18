@@ -50,6 +50,16 @@ const glassesSpain = [
         price: '0.00'
     },
     {
+        name: 'Cruzcampo',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_500ml.webp.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_500ml.webp.webp',
+        price: '0.00'
+    },
+    {
         name: 'Cruzcampo Especial',
         type: '330ml',
         description: '',
@@ -100,6 +110,26 @@ const glassesSpain = [
         price: '0.00'
     },
     {
+        name: 'Arriaca',
+        type: 'Vaso 250ml',
+        description: '',
+        brewery: 'Arriaca',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Arriaca_2.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_2.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Arriaca',
+        type: 'Vaso 300ml',
+        description: '',
+        brewery: 'Arriaca',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Arriaca_3.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_3.webp',
+        price: '1.00'
+    },
+    {
         name: 'Amstel Cerveza',
         type: 'Vaso 330ml',
         description: '',
@@ -107,6 +137,16 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Amstel_Cerveza.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza.webp',
+        price: '2.00'
+    },
+    {
+        name: 'Ambar Export',
+        type: 'Copa 0.3l',
+        description: 'Tres maltas, Doble fermentacion',
+        brewery: 'Ambar',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Ambar_Export.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Ambar_Export.webp',
         price: '2.00'
     },
 

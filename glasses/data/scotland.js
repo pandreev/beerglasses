@@ -6,7 +6,17 @@ const glassesScotland = [
         brewery: "Skol",
         country: 'Scotland',
         image: 'glasses/img/Sweden/Skol_1l.webp',
-        thumbnail: 'glasses/img/Sweden/thumbnail/Skol_1l.webp',
+        thumbnail: 'glasses/img/Scotland/thumbnail/Skol_1l.webp',
         price: '5.00'
+    },
+    {
+        name: "Brewdog",
+        type: '1/2 Pint',
+        description: 'Bitter beers for happy people/ rastral CE M15 0846',
+        brewery: "Brewdog",
+        country: 'Scotland',
+        image: 'glasses/img/Sweden/Brewdog.webp',
+        thumbnail: 'glasses/img/Scotland/thumbnail/Brewdog.webp',
+        price: '1.00'
     },
 ];

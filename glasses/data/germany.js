@@ -199,4 +199,14 @@ const glassesGermany = [
         thumbnail: 'glasses/img/Germany/thumbnail/Grevensteiner_300ml.png',
         price: '0.00'
     },
+    {
+        name: "Weihenstephan",
+        type: '0.3l',
+        description: 'rastal CE M17',
+        brewery: "Weihenstephan",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Weihenstephan_300ml.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Weihenstephan_300ml.webp',
+        price: '0.00'
+    },
 ];

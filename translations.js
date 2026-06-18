@@ -10,6 +10,7 @@ const translations = {
       Bulgaria: "Bulgaria",
       Czechia: "Czechia",
       Denmark: "Denmark",
+      England: "England",
       Estonia: "Estonia",
       France: "France",
       Germany: "Germany",
@@ -38,7 +39,7 @@ const translations = {
       Oceania: "Oceania",
       Other: "Other"
     },
-    introText: `I'm Petar and I live in Malaga, Spain. I'm a passionate collector of beer glasses, and my collection is made up of <b>{glasses} glasses</b> from <b>{breweries} breweries</b> across <b>{countries} countries</b>.<br>The collection contains only vessels made of <b>glass</b> and with a <b>printed logo</b>.<br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.<br>I have listed all my glasses by country and then by brewery.<br>I hope you enjoy it.`,
+    introText: `I'm Petar and I live in Malaga, Spain. I'm a passionate collector of beer glasses, and my collection is made up of <b>{glasses} glasses</b> from <b>{breweries} breweries</b> across <b>{countries} countries</b>.<br>The collection contains only vessels made of <b>glass</b>, <b>stone</b> or <b>ceramic</b> and with a <b>printed logo</b>.<br>The glasses are mainly obtained from visits to restaurants, breweries and charity shops.<br>I have listed all my glasses by country and then by brewery.<br>I hope you enjoy it.`,
     infoLink: 'For contact and more info, click <a href="info.html">here</a>.',
     infoTitle: "Info & Contact",
     infoText: `If you want to get in touch, please email me at <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>You can also find me on <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,

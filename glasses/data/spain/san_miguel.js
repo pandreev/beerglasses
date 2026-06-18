@@ -114,4 +114,24 @@ const spainSanMiguel = [
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Matahambre.png',
         price: '0.00'
     },
+    {
+        name: 'San Miguel',
+        type: 'Copa 250ml',
+        description: '25cl Crisal CE M14 0866',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_250_14.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250_14.png',
+        price: '0.00'
+    },
+    {
+        name: 'San Miguel 0,0%',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_0_300.png',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_300.png',
+        price: '0.00'
+    },
 ];

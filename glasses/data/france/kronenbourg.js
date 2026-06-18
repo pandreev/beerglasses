@@ -10,6 +10,16 @@ const franceKronenbourg = [
         price: '2.00'
     },
     {
+        name: 'Kronenbourg 1664',
+        type: '0,25l',
+        description: 'Brasseur depuis 1664',
+        brewery: 'Kronenbourg',
+        country: 'France',
+        image: 'glasses/img/France/Kronenbourg_250ml.webp',
+        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_250ml.webp',
+        price: '1.00'
+    },
+    {
         name: 'Kronenbourg',
         type: '',
         description: '',

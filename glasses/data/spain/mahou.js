@@ -191,4 +191,14 @@ const spainMahou = [
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_Reparto.webp',
         price: '0.00'
     },
+    {
+        name: 'Mahou Cervezas',
+        type: 'Copa 22cl',
+        description: 'CE M14 Crisal 0866',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou_220ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_220ml.webp',
+        price: '1.00'
+    },
 ];
