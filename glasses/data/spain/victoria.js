@@ -38,8 +38,8 @@ const spainVictoria = [
         description: 'CE M21 0122 RITZENHOFF',
         brewery: 'Victoria Malaga',
         country: 'Spain',
-        image: 'glasses/img/Spain/Victoria/Victoria_Malaga_200m_21l.webp',
-        thumbnail: 'glasses/img/Spain/Victoria/thumbnail/Victoria_Malaga_200ml_21.webp',
+        image: 'glasses/img/Spain/Victoria_Malaga_200m_21l.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_200ml_21.webp',
         price: '1.00'
     },
     {

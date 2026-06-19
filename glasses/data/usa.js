@@ -15,8 +15,8 @@ const glassesUsa = [
         description: 'King of beers 06/05',
         brewery: 'Budweiser',
         country: 'United States of America',
-        image: 'glasses/img/Usa/Budweiser/Budweiser_Pint.webp',
-        thumbnail: 'glasses/img/Usa/Budweiser/thumbnail/Budweiser_Pint.webp',
+        image: 'glasses/img/Usa/Budweiser_Pint.webp',
+        thumbnail: 'glasses/img/Usa/thumbnail/Budweiser_Pint.webp',
         price: '1.00'
     },
 ];

@@ -120,9 +120,9 @@ const spainSanMiguel = [
         description: '25cl Crisal CE M14 0866',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_250_14.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250_14.png',
-        price: '0.00'
+        image: 'glasses/img/Spain/San_Miguel_250_14.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250_14.webp',
+        price: '1.00'
     },
     {
         name: 'San Miguel 0,0%',
@@ -130,8 +130,8 @@ const spainSanMiguel = [
         description: '',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_0_300.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_300.png',
-        price: '0.00'
+        image: 'glasses/img/Spain/San_Miguel_0_300.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_300.webp',
+        price: '1.00'
     },
 ];

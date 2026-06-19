@@ -1,4 +1,5 @@
 const beerGlasses = [
+    ...glassesAustralia,
     ...glassesBelgium,
     ...belgiumAbbaye_dAulne,
     ...belgiumDuvel,
@@ -44,6 +45,7 @@ const beerGlasses = [
 
 // Map country to flag emoji
 const countryFlags = {
+    'Australia': '🇦🇺',
     'Austria': '🇦🇹',
     'Belgium': '🇧🇪',
     'Bulgaria': '🇧🇬',
@@ -93,6 +95,7 @@ const countryContinents = {
     "Spain": "Europe",
     "Sweden": "Europe",
     "United States of America": "North America",
+    "Australia": "Oceania",
 };
 
 const continentOrder = ["Europe", "North America", "Asia", "South America", "Africa", "Oceania"];

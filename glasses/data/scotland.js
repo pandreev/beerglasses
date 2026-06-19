@@ -19,4 +19,14 @@ const glassesScotland = [
         thumbnail: 'glasses/img/Scotland/thumbnail/Brewdog.webp',
         price: '1.00'
     },
+    {
+        name: "Tennent's",
+        type: '0.25l',
+        description: 'Brewed with passion in Scotland since 1885',
+        brewery: "Tennent's",
+        country: 'Scotland',
+        image: 'glasses/img/Sweden/Tennents.webp',
+        thumbnail: 'glasses/img/Scotland/thumbnail/Tennents.webp',
+        price: '1.00'
+    },
 ];

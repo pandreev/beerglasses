@@ -55,8 +55,8 @@ const glassesSpain = [
         description: '',
         brewery: 'Cruzcampo',
         country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_500ml.webp.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_500ml.webp.webp',
+        image: 'glasses/img/Spain/Cruzcampo_500ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_500ml.webp',
         price: '0.00'
     },
     {
@@ -78,6 +78,16 @@ const glassesSpain = [
         image: 'glasses/img/Spain/Cruzcampo_Origen.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Origen.webp',
         price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: 'Copa 200ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_200ml.webp',
+        price: '0.00'
     },
     {
         name: 'Dorada Pilsen',
@@ -147,7 +157,77 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Ambar_Export.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Ambar_Export.webp',
-        price: '2.00'
+        price: '1.00'
+    },
+    {
+        name: 'Cerveses La Pirata',
+        type: 'Copa 250ml',
+        description: '',
+        brewery: 'Cerveses La Pirata',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cerveses_La_Pirata_250ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cerveses_La_Pirata_250ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Cerveses La Pirata',
+        type: 'Vaso 330ml',
+        description: '',
+        brewery: 'Cerveses La Pirata',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cerveses_La_Pirata_330ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cerveses_La_Pirata_330ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Vaso 330ml',
+        description: 'Fábrica de cervezas',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Fabrica.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Fabrica.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella del Camino',
+        type: 'Vaso 330ml',
+        description: 'X21/22 Nueva Estrella con alma peregrina',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Camino.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Camino.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Sagra',
+        type: 'Frasco 300ml',
+        description: 'Burro de Sancho',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Sagra_frasco.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Sagra_frasco.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Four Lions',
+        type: 'Vaso 250ml',
+        description: '',
+        brewery: 'Four Lions Brewery',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Four_Lions.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Four_Lions.webp',
+        price: '1.00'
+    },
+    {
+        name: "Môme",
+        type: '300ml',
+        description: '',
+        brewery: "Transgressive Beers",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mome_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mome_300ml.webp',
+        price: '0.00'
     },
 
 ];
