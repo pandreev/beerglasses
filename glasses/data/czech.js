@@ -15,8 +15,8 @@ const glassesCzech = [
         description: 'rastal CE M15 0113',
         brewery: 'Pilsner Urquell',
         country: 'Czechia',
-        image: 'glasses/img/Czechia/Pilsner_Urquell_03l.png',
-        thumbnail: 'glasses/img/Czechia/thumbnail/Pilsner_Urquell_03l.png',
+        image: 'glasses/img/Czechia/Pilsner_Urquell_03l.webp',
+        thumbnail: 'glasses/img/Czechia/thumbnail/Pilsner_Urquell_03l.webp',
         price: '1.00'
     },
     {
@@ -25,8 +25,8 @@ const glassesCzech = [
         description: 'SaHm 0,3l CE M16 0113',
         brewery: 'Pilsner Urquell',
         country: 'Czechia',
-        image: 'glasses/img/Czechia/Pilsner_Urquell_03l_16.png',
-        thumbnail: 'glasses/img/Czechia/thumbnail/Pilsner_Urquell_03l_16.png',
+        image: 'glasses/img/Czechia/Pilsner_Urquell_03l_16.webp',
+        thumbnail: 'glasses/img/Czechia/thumbnail/Pilsner_Urquell_03l_16.webp',
         price: '1.00'
     },
     {
