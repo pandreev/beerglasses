@@ -17,6 +17,7 @@ const beerGlasses = [
     ...germanyErdinger,
     ...germanyFranziskaner,
     ...germanyOthers,
+    ...glassesJapan,
     ...glassesGermany,
     ...irelandGuinness,
     ...glassesIreland,
@@ -59,6 +60,7 @@ const countryFlags = {
     'Hungary': '🇭🇺',
     'Ireland': '🇮🇪',
     'Italy': '🇮🇹',
+    'Japan': '🇯🇵',
     'Netherlands': '🇳🇱',
     'Poland': '🇵🇱',
     'Portugal': '🇵🇹',
@@ -95,6 +97,7 @@ const countryContinents = {
     "Spain": "Europe",
     "Sweden": "Europe",
     "United States of America": "North America",
+    "Japan": "Asia",
     "Australia": "Oceania",
 };
 

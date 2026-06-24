@@ -30,6 +30,36 @@ const glassesSpain = [
         price: '2.00'
     },
     {
+        name: 'Alhambra',
+        type: 'Jarra 400ml',
+        description: 'Perla Dorada Clase Extra, La Alhambra S.A. fabrica de cerveza, Granada',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra_Jarra_400_Dorada.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_400_Dorada.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Alhambra',
+        type: 'Jarra 0,4l',
+        description: 'Cerveza Tipo Pilsen, La Alhambra S.A. fabrica de cerveza, Granada',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra_Jarra_400_Pilsen.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_400_Pilsen.webp',
+        price: '1.00'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Jarra_500_ceramic.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_500_ceramic.webp',
+        price: '1.00'
+    },
+    {
         name: 'Reserva 1925',
         type: 'Copa 300ml',
         description: 'Cervezas Alhambra Reserva 1925',
@@ -228,6 +258,76 @@ const glassesSpain = [
         image: 'glasses/img/Spain/Mome_300ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mome_300ml.webp',
         price: '0.00'
+    },
+    {
+        name: "Cruzcampo",
+        type: 'Jarra 400ml',
+        description: 'Cien Maneras de disfrutar tu Cruzcampo. 100 Montaditos',
+        brewery: "Cruzcampo",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Jarra_100mon.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Jarra_100mon.webp',
+        price: '1.00'
+    },
+    {
+        name: "Cruzcampo",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "Cruzcampo",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Jarra_400.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Jarra_400.webp',
+        price: '1.00'
+    },
+    {
+        name: "Mahou Clásica",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "Mahou",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou_Clasica_Jarra_400.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Clasica_Jarra_400.webp',
+        price: '1.00'
+    },
+    {
+        name: "San Miguel",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "San Miguel",
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_Jarra_400ml_ceramic.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_400ml_ceramic.webp',
+        price: '1.00'
+    },
+    {
+        name: "Estrella Galicia",
+        type: 'Vaso 0,2l',
+        description: '',
+        brewery: "Estrella Galicia",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Vaso_02l.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Vaso_02l.webp',
+        price: '1.00'
+    },
+    {
+        name: "Guineu",
+        type: 'Vaso 300ml',
+        description: 'Craft Beer',
+        brewery: "Cervesa Guineu",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cervesa_Guineu_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cervesa_Guineu_300ml.webp',
+        price: '1.00'
+    },
+    {
+        name: "Mahou Cervezas",
+        type: 'Jarra 200ml',
+        description: '',
+        brewery: "Mahou",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou_Cervezas_Jarra_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Cervezas_Jarra_200ml.webp',
+        price: '1.00'
     },
 
 ];

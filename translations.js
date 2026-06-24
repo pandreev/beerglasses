@@ -14,6 +14,7 @@ const translations = {
       England: "England",
       Estonia: "Estonia",
       France: "France",
+      Japan: "Japan",
       Germany: "Germany",
       Greece: "Greece",
       Hungary: "Hungary",

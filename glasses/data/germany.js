@@ -20,6 +20,26 @@ const glassesGermany = [
         price: '5.00'
     },
     {
+        name: 'Paulaner Oktoberfest',
+        type: '0,5l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner_Oktoberfest_500ml.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Oktoberfest_500ml.webp',
+        price: '5.00'
+    },
+    {
+        name: 'Paulaner',
+        type: '0,3l',
+        description: '0,3l rastral CE M15 0113',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner_03l.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_03l.webp',
+        price: '5.00'
+    },
+    {
         name: 'Paulaner Helles',
         type: 'Goblet 400ml',
         description: '',
@@ -208,5 +228,25 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Weihenstephan_300ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Weihenstephan_300ml.webp',
         price: '0.00'
+    },
+    {
+        name: 'Benediktiner Weissbräu',
+        type: '0,5l',
+        description: '',
+        brewery: 'Benediktiner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Benediktiner_Mug_500ml.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Benediktiner_Mug_500ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Der Hirschbräu',
+        type: '0,3l',
+        description: 'Privatbrauerei Höss-Sonthofen Seit 1657',
+        brewery: 'Der Hirschbräu',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Der_Hirschbrau.webp',
+        thumbnail: 'glasses/img/Germany/thumbnail/Der_Hirschbrau.webp',
+        price: '1.00'
     },
 ];

@@ -1,13 +1,33 @@
 const glassesDenmark = [
     {
         name: 'Carlsberg',
+        type: 'Pint',
+        description: 'Pint 06/05',
+        brewery: 'Carlsberg',
+        country: 'Denmark',
+        image: 'glasses/img/Denmark/Carlsberg_Pint.webp',
+        thumbnail: 'glasses/img/Denmark/thumbnail/Carlsberg_Pint.webp',
+        price: '2.00'
+    },
+    {
+        name: 'Carlsberg',
         type: '330ml',
         description: '',
         brewery: 'Carlsberg',
         country: 'Denmark',
         image: 'glasses/img/Denmark/Carlsberg_330ml.webp',
         thumbnail: 'glasses/img/Denmark/thumbnail/Carlsberg_330ml.webp',
-        price: '2.00'
+        price: '1.00'
+    },
+    {
+        name: 'Carlsberg',
+        type: '330ml',
+        description: '',
+        brewery: 'Carlsberg',
+        country: 'Denmark',
+        image: 'glasses/img/Denmark/Carlsberg_330ml_2.webp',
+        thumbnail: 'glasses/img/Denmark/thumbnail/Carlsberg_330ml_2.webp',
+        price: '1.00'
     },
     {
         name: 'Tuborg',
