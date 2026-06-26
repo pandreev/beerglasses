@@ -30,6 +30,16 @@ const glassesIreland = [
         price: '1.00'
     },
     {
+        name: 'Guinness',
+        type: 'Pint',
+        description: 'CE M06 0126 ARC',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness_Pint.webp',
+        thumbnail: 'glasses/img/Ireland/thumbnail/Guinness_Pint.webp',
+        price: '1.00'
+    },
+    {
         name: 'Kaliber',
         type: 'Glass 250ml',
         description: 'Sin',

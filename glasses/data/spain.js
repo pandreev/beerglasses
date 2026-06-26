@@ -329,5 +329,25 @@ const glassesSpain = [
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Cervezas_Jarra_200ml.webp',
         price: '1.00'
     },
+    {
+        name: '1906 Galician Irish Red Ale',
+        type: 'Copa 330ml',
+        description: 'La Pelirroja',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/1906_Irish_330ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Irish_330ml.webp',
+        price: '1.00'
+    },
+    {
+        name: '1906 Reserva Especial',
+        type: 'Copa 30cl',
+        description: 'CE M16 0300, With 3 medals',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/1906_Reserva_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/1906_Reserva_30cl.webp',
+        price: '1.00'
+    },
 
 ];

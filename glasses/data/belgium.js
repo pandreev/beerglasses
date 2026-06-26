@@ -10,6 +10,16 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml.webp',
         price: '3.00'
     },
+    {
+        name: "Houblon Chouffe",
+        type: '25cl',
+        description: 'Dobbelen IPA Tripel CE M11 0846',
+        brewery: "Brasserie d'Achouffe",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Houblon_Chouffe.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Houblon_Chouffe.webp',
+        price: '1.00'
+    },
 
     {
         name: "Brugse Zot",
@@ -19,6 +29,16 @@ const glassesBelgium = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Brugse_Zot_330ml.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_330ml.webp',
+        price: '1.00'
+    },
+    {
+        name: "Brugse Zot",
+        type: '0,25l / Half Pint / 0.33l',
+        description: 'CE M17 0122 RITZENHOFF',
+        brewery: "Brugse Zot",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Brugse_Zot_33cl.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_33cl.webp',
         price: '1.00'
     },
     {
@@ -130,5 +150,25 @@ const glassesBelgium = [
         image: 'glasses/img/Belgium/Belle_Vue.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Belle_Vue.webp',
         price: '1.00'
+    },
+    {
+        name: "Pauwel Kwak",
+        type: '0,25l CE M14 0112 RITZENHOFF',
+        description: '',
+        brewery: "Pauwel Kwak",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Pauwel_Kwak.webp',
+        thumbnail: 'glasses/img/Belgium/thumbnail/Pauwel_Kwak.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Gulden Draak',
+        type: '3l',
+        description: '',
+        brewery: 'Gulden Draak',
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Gulden_Draak_3l.webp',
+        extraImage: 'glasses/img/Belgium/extra/Gulden_Draak_3l.webp',
+        price: '4.00'
     },
 ];
