@@ -409,5 +409,25 @@ const glassesSpain = [
         thumbnail: 'glasses/img/Spain/thumbnail/Fabrica_Maravillas_200ml.webp',
         price: '1.00'
     },
+    {
+        name: 'La Quince Brew Wild',
+        type: 'Vaso 400ml',
+        description: '',
+        brewery: 'La Quince',
+        country: 'Spain',
+        image: 'glasses/img/Spain/La_Quince_Brew_Wild.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/La_Quince_Brew_Wild.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Edge Brewing',
+        type: 'Vaso 330ml',
+        description: 'Proudly Brewed in Barcelona',
+        brewery: 'Edge Brewing',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Edge_Brewing.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Edge_Brewing.webp',
+        price: '1.00'
+    },
 
 ];

@@ -20,6 +20,26 @@ const glassesNetherlands = [
         price: '1.00'
     },
     {
+        name: 'Heineken',
+        type: 'Pint',
+        description: '05/06',
+        brewery: 'Heineken',
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Heineken_Pint.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_Pint.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Heineken',
+        type: '500ml',
+        description: '',
+        brewery: 'Heineken',
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Heineken_500ml.webp',
+        thumbnail: 'glasses/img/Netherlands/thumbnail/Heineken_500ml.webp',
+        price: '1.00'
+    },
+    {
         name: 'Amstel',
         type: '250ml',
         description: '',
