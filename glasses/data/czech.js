@@ -32,11 +32,21 @@ const glassesCzech = [
     {
         name: 'Staropramen',
         type: '0,3l',
-        description: 'ShHm CE M15 1383',
+        description: 'SaHm CE M15 1383',
         brewery: 'Staropramen',
         country: 'Czechia',
         image: 'glasses/img/Czechia/Staropramen_300ml_15.webp',
         thumbnail: 'glasses/img/Czechia/thumbnail/Staropramen_300ml_15.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Budějovický Budvar',
+        type: '0,3l',
+        description: 'SaHm',
+        brewery: 'Budweiser Budvar',
+        country: 'Czechia',
+        image: 'glasses/img/Czechia/Budejovicky_Budvar_300ml.webp',
+        thumbnail: 'glasses/img/Czechia/thumbnail/Budejovicky_Budvar_300ml.webp',
         price: '1.00'
     },
 ];

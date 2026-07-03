@@ -11,6 +11,16 @@ const belgiumOthers = [
         price: '0.00'
     },
     {
+        name: "Waterloo",
+        type: '25cl',
+        description: 'The Beer of Bravery!',
+        brewery: "Waterloo",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Waterloo/Waterloo_25cl.webp',
+        thumbnail: 'glasses/img/Belgium/Waterloo/thumbnail/Waterloo_25cl.webp',
+        price: '1.00'
+    },
+    {
         name: "Grimbergen",
         type: '0.33l',
         description: 'RC',
@@ -44,5 +54,15 @@ const belgiumOthers = [
         thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem.webp',
         box: '001',
         price: '0.00'
+    },
+    {
+        name: "Maredsous",
+        type: '330ml',
+        description: '',
+        brewery: "Maredsous",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Maredsous/Maredsous_330ml.webp',
+        thumbnail: 'glasses/img/Belgium/Maredsous/thumbnail/Maredsous_330ml.webp',
+        price: '1.00'
     },
 ];

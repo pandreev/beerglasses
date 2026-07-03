@@ -75,6 +75,16 @@ const spainSanMiguel = [
         price: '0.50'
     },
     {
+        name: 'San Miguel',
+        type: 'Copa 30cl',
+        description: '50 años siendo boquerones / CE M16 0866 Crisal',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel_M16_50_anos.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_M16_50_anos.webp',
+        price: '1.00'
+    },
+    {
         name: 'San Miguel Premium',
         type: 'Copa 300ml',
         description: '1516 cerveza según la ley de pureza de 1516',

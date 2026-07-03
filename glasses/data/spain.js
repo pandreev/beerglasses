@@ -180,6 +180,26 @@ const glassesSpain = [
         price: '2.00'
     },
     {
+        name: 'Amstel Cerveza',
+        type: 'Vaso 200ml',
+        description: 'Premium Quality',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Amstel_Cerveza_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_200ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Amstel Cerveza Extra',
+        type: 'Vaso 330ml',
+        description: 'La Auténtica Lager Extra de Carácter',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Amstel_Cerveza_330ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_330ml.webp',
+        price: '1.00'
+    },
+    {
         name: 'Ambar Export',
         type: 'Copa 0.3l',
         description: 'Tres maltas, Doble fermentacion',
@@ -345,8 +365,48 @@ const glassesSpain = [
         description: 'CE M16 0300, With 3 medals',
         brewery: 'Estrella Galicia',
         country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia/1906_Reserva_30cl.webp',
-        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/1906_Reserva_30cl.webp',
+        image: 'glasses/img/Spain/1906_Reserva_30cl.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_30cl.webp',
+        price: '1.00'
+    },
+    {
+        name: 'La Sagra',
+        type: 'Copa 300ml',
+        description: 'Cerveza Artesanal Castellana',
+        brewery: 'La Sagra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/La_Sagra_Copa_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/La_Sagra_Copa_300ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia Cerveza De Bodega',
+        type: 'Vaso 300ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Bodega_300ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Bodega_300ml.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia Cerveza De Bodega',
+        type: 'Vaso 25cl',
+        description: 'Cerveza Sin Pasteurizar Recien Elaborada CE M22 0122 RITZENHOFF',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia_Bodega_25cl.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Bodega_25cl.webp',
+        price: '1.00'
+    },
+    {
+        name: 'Fábrica Maravillas',
+        type: 'Vaso 200ml',
+        description: 'Fábrica Maravillas Craft Beer',
+        brewery: 'Fábrica Maravillas',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Fabrica_Maravillas_200ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Fabrica_Maravillas_200ml.webp',
         price: '1.00'
     },
 
