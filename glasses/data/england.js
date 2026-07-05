@@ -13,7 +13,7 @@ const glassesEngland = [
         name: "Newcastle Brown Ale",
         type: '0,5l',
         description: 'The One and Only',
-        brewery: "John Smith's",
+        brewery: "Newcastle Brown Ale",
         country: 'England',
         image: 'glasses/img/England/Newcastle_Brown_Ale_500ml.webp',
         thumbnail: 'glasses/img/England/thumbnail/Newcastle_Brown_Ale_500ml.webp',
