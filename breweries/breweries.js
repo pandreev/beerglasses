@@ -96,6 +96,8 @@ const breweries = {
     "Legado de Yuste": "breweries/img/Spain/Legado_de_Yuste.webp",
     "La Sagra": "breweries/img/Spain/LaSagra.webp",
     "Edge Brewing": "breweries/img/Spain/Edge_Brewing.webp",
+    "Fábrica Maravillas": "breweries/img/Spain/Fabrica_Maravillas.webp",
+    "La Quince": "breweries/img/Spain/La_Quince.webp",
     "Damm": "breweries/img/Spain/Damm.webp",
     "Cerveses La Pirata": "breweries/img/Spain/Cerveses_La_Pirata.webp",
     "Four Lions Brewery": "breweries/img/Spain/Four_Lions_Brewery.webp",
@@ -106,5 +108,7 @@ const breweries = {
     "Brewdog": "breweries/img/Scotland/Brewdog.webp",
     "Tennent's": "breweries/img/Scotland/Tennents.webp",
     "Budweiser": "breweries/img/Usa/Budweiser.webp",
+    "Flying Dog Brewery": "breweries/img/Usa/Flying_Dog_Brewery.webp",
     "Sapporo": "breweries/img/Japan/Sapporo.webp",
+    "Kirin": "breweries/img/Japan/Kirin.webp",
 };
