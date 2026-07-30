@@ -80,46 +80,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Paulaner Weißbier',
-        type: 'Glas 0,5l',
-        description: 'Made in Germany',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Weiss_05l.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Weiss_05l.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Franziskaner Weißbier',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Franziskaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Franziskaner_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Franziskaner Weißbier',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Franziskaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Franziskaner_500ml_2.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml_2.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Franziskaner Weißbier',
-        type: 'Glas 0.5l',
-        description: 'CE M16 0113 rastal',
-        brewery: 'Franziskaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Franziskaner_500ml_4.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Franziskaner_500ml_4.webp',
-        price: '1.00'
-    },
-    {
         name: 'Hofbräuhaus',
         type: 'Maßkrug 1l',
         description: '',
@@ -140,26 +100,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Erdinger Urweisse',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Erdinger',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Erdinger_Urweisse_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Urweisse_500ml.webp',
-        price: '2.00'
-    },
-    {
-        name: 'Erdinger Weißbier',
-        type: 'Glas 0,5l',
-        description: 'SaHm',
-        brewery: 'Erdinger',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Erdinger_Weiss_05l.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Weiss_05l.webp',
-        price: '2.00'
-    },
-    {
         name: 'Kaltenberg',
         type: 'Glas 500ml',
         description: '',
@@ -167,26 +107,6 @@ const glassesGermany = [
         country: 'Germany',
         image: 'glasses/img/Germany/Kaltenberg_500ml.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Kaltenberg_500ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Bischofshof',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Bischofshof',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Bischofshof_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Bischofshof_500ml.webp',
-        price: '3.00'
-    },
-    {
-        name: 'Alpirsbacher Klosterbräu',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Alpirsbacher',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Alpirsbacher_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Alpirsbacher_500ml.webp',
         price: '1.00'
     },
     {
@@ -290,16 +210,6 @@ const glassesGermany = [
         price: '1.00'
     },
     {
-        name: 'Benediktiner Weissbier',
-        type: '0,5l',
-        description: 'rastal CE M15 0113',
-        brewery: 'Benediktiner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Benediktiner_Weiss_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Benediktiner_Weiss_500ml.webp',
-        price: '1.00'
-    },
-    {
         name: 'Der Hirschbräu',
         type: '0,3l',
         description: 'Privatbrauerei Höss-Sonthofen Seit 1657',
@@ -307,36 +217,6 @@ const glassesGermany = [
         country: 'Germany',
         image: 'glasses/img/Germany/Der_Hirschbrau.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Der_Hirschbrau.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Schneider Weisse',
-        type: '0,5l',
-        description: "Speziell Wie's Leben SaHm CE M180113 C05",
-        brewery: 'Schneider Weisse',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Schneider_Weisse.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Schneider_Weisse.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Kuchlbauer',
-        type: '0,5l',
-        description: "Kuchlbauer Turm rastal CE M16 0113",
-        brewery: 'Kuchlbauer Weissbierbrauerei',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Kuchlbauer_Turm.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Kuchlbauer_Turm.webp',
-        price: '1.00'
-    },
-    {
-        name: "Maisel's Weisse",
-        type: 'Glas 0,5l',
-        description: '',
-        brewery: "Maisel's Weisse",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Maisels_Weisse_05l.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Maisels_Weisse_05l.webp',
         price: '1.00'
     },
     {

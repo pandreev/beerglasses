@@ -1,5 +1,16 @@
 const belgiumOthers = [
     {
+        name: "Pauwel Kwak",
+        type: '0,25l CE M14 0112 RITZENHOFF',
+        description: '',
+        brewery: "Pauwel Kwak",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/PauwelKwak/Pauwel_Kwak.webp',
+        thumbnail: 'glasses/img/Belgium/PauwelKwak/thumbnail/Pauwel_Kwak.webp',
+        box: 'P001',
+        price: '1.00'
+    },
+    {
         name: "Waterloo",
         type: '33cl',
         description: 'The Beer of Bravery!',

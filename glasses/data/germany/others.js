@@ -8,6 +8,7 @@ const germanyOthers = [
         image: 'glasses/img/Germany/MaiselsWeisse/Maisels_Weisse_500ml.webp',
         thumbnail: 'glasses/img/Germany/MaiselsWeisse/thumbnail/Maisels_Weisse_500ml.webp',
         extraImage: 'glasses/img/Germany/MaiselsWeisse/extra/Maisels_Weisse_500ml.webp',
+        box: 'P001',
         price: '0.00'
     },
     {
@@ -19,7 +20,57 @@ const germanyOthers = [
         image: 'glasses/img/Germany/Schoefferhofer/Schoefferhofer_500ml.webp',
         thumbnail: 'glasses/img/Germany/Schoefferhofer/thumbnail/Schoefferhofer_500ml.webp',
         extraImage: 'glasses/img/Germany/Schoefferhofer/extra/Schoefferhofer_500ml.webp',
+        box: 'P001',
         price: '0.00'
+    },
+    {
+        name: 'Alpirsbacher Klosterbräu',
+        type: 'Glas 500ml',
+        description: '',
+        brewery: 'Alpirsbacher',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Alpirsbacher/Alpirsbacher_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Alpirsbacher/thumbnail/Alpirsbacher_500ml.webp',
+        extraImage: 'glasses/img/Germany/Alpirsbacher/extra/Alpirsbacher_500ml.webp',
+        box: 'P001',
+        price: '1.00'
+    },
+    {
+        name: 'Bischofshof',
+        type: 'Glas 500ml',
+        description: '',
+        brewery: 'Bischofshof',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Bischofshof/Bischofshof_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Bischofshof/thumbnail/Bischofshof_500ml.webp',
+        extraImage: 'glasses/img/Germany/Bischofshof/extra/Bischofshof_500ml.webp',
+        box: 'P001',
+        price: '3.00'
+    },
+    {
+        name: 'Schneider Weisse',
+        type: '0,5l',
+        description: "Speziell Wie's Leben SaHm CE M180113 C05",
+        brewery: 'Schneider Weisse',
+        country: 'Germany',
+        image: 'glasses/img/Germany/SchneiderWeisse/Schneider_Weisse.webp',
+        thumbnail: 'glasses/img/Germany/SchneiderWeisse/thumbnail/Schneider_Weisse.webp',
+        extraImage: 'glasses/img/Germany/SchneiderWeisse/extra/Schneider_Weisse.webp',
+        box: 'P001',
+        price: '1.00'
+    },
+    {
+        name: 'Kuchlbauer',
+        type: '0,5l',
+        description: "Kuchlbauer Turm rastal CE M16 0113",
+        brewery: 'Kuchlbauer Weissbierbrauerei',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Kuchlbauer/Kuchlbauer_Turm.webp',
+        thumbnail: 'glasses/img/Germany/Kuchlbauer/thumbnail/Kuchlbauer_Turm.webp',
+        extraImage: 'glasses/img/Germany/Kuchlbauer/extra/Kuchlbauer_Turm.webp',
+        extraImage2: 'glasses/img/Germany/Kuchlbauer/extra/Kuchlbauer_Turm_extra_2.webp',
+        box: 'P001',
+        price: '1.00'
     },
     {
         name: 'Schlappeseppel',
@@ -29,6 +80,7 @@ const germanyOthers = [
         country: 'Germany',
         image: 'glasses/img/Germany/Schlappeseppel/Schlappeseppel_500ml.webp',
         thumbnail: 'glasses/img/Germany/Schlappeseppel/thumbnail/Schlappeseppel_500ml.webp',
+        box: 'P001',
         price: '0.00'
     },
     {
@@ -40,17 +92,6 @@ const germanyOthers = [
         image: 'glasses/img/Germany/Clausthaler/Clausthaler_200ml.webp',
         thumbnail: 'glasses/img/Germany/Clausthaler/thumbnail/Clausthaler_200ml.webp',
         extraImage: 'glasses/img/Germany/Clausthaler/extra/Clausthaler_200ml.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Benediktiner Weissbier',
-        type: '0,5l',
-        description: '',
-        brewery: 'Benediktiner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Benediktiner/Benediktiner_500ml.webp',
-        thumbnail: 'glasses/img/Germany/Benediktiner/thumbnail/Benediktiner_500ml.webp',
-        extraImage: 'glasses/img/Germany/Benediktiner/extra/Benediktiner_500ml.webp',
         price: '0.00'
     },
     {

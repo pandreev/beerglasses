@@ -172,16 +172,6 @@ const glassesBelgium = [
         price: '1.00'
     },
     {
-        name: "Pauwel Kwak",
-        type: '0,25l CE M14 0112 RITZENHOFF',
-        description: '',
-        brewery: "Pauwel Kwak",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Pauwel_Kwak.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Pauwel_Kwak.webp',
-        price: '1.00'
-    },
-    {
         name: 'Gulden Draak',
         type: '3l',
         description: '',
