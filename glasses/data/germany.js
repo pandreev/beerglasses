@@ -70,16 +70,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Paulaner Weißbier',
-        type: 'Glas 300ml',
-        description: '',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Weiss_300ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Weiss_300ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Hofbräuhaus',
         type: 'Maßkrug 1l',
         description: '',
@@ -187,16 +177,6 @@ const glassesGermany = [
         country: 'Germany',
         image: 'glasses/img/Germany/Grevensteiner_300ml.png',
         thumbnail: 'glasses/img/Germany/thumbnail/Grevensteiner_300ml.png',
-        price: '0.00'
-    },
-    {
-        name: "Weihenstephan",
-        type: '0.3l',
-        description: 'rastal CE M17',
-        brewery: "Weihenstephan",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Weihenstephan_300ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Weihenstephan_300ml.webp',
         price: '0.00'
     },
     {

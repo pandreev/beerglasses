@@ -74,6 +74,7 @@ const breweries = {
     "Guinness": "breweries/img/Ireland/Guinness.webp",
     "Murphy's": "breweries/img/Ireland/Murphys.webp",
     "Smithwick's": "breweries/img/Ireland/Smithwicks.webp",
+    "Švyturys": "breweries/img/Lithuania/Svyturys.webp",
     "Amstel": "breweries/img/Netherlands/Amstel.webp",
     "Heineken": "breweries/img/Netherlands/Heineken.webp",
     "La Trappe": "breweries/img/Netherlands/La_Trappe.webp",

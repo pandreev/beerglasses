@@ -20,4 +20,63 @@ const irelandGuinness = [
         box: '002',
         price: '0.00'
     },
+    {
+        name: 'Guinness',
+        type: 'Glass 500ml',
+        description: '250 years',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_250yrs_2.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_250yrs_2.webp',
+        extraImage: 'glasses/img/Ireland/Guinness/extra/Guinness_250yrs_2.webp',
+        box: 'P002',
+        price: '1.00'
+    },
+    {
+        name: 'Guinness',
+        type: 'Glass 500ml',
+        description: 'Official Irish pub',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_Pint_Official.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_Pint_Official.webp',
+        box: 'P002',
+        price: '1.00'
+    },
+    {
+        name: 'Guinness',
+        type: 'Glass 0,5l',
+        description: 'CE M17 0126 ARC',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_500ml_M17.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_500ml_M17.webp',
+        extraImage: 'glasses/img/Ireland/Guinness/extra/Guinness_500ml_M17.webp',
+        box: 'P002',
+        price: '1.00'
+    },
+    {
+        name: 'Guinness',
+        type: 'Pint',
+        description: 'CE M06 0126 ARC',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_Pint_M06.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_Pint_M06.webp',
+        extraImage: 'glasses/img/Ireland/Guinness/extra/Guinness_Pint_M06.webp',
+        box: 'P002',
+        price: '1.00'
+    },
+    {
+        name: 'Guinness',
+        type: 'Pint',
+        description: 'CE M07 0126 ARC',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_Pint_M07.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_Pint_M07.webp',
+        extraImage: 'glasses/img/Ireland/Guinness/extra/Guinness_Pint_M07.webp',
+        box: 'P002',
+        price: '1.00'
+    },
 ];

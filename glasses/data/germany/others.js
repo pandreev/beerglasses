@@ -84,6 +84,18 @@ const germanyOthers = [
         price: '0.00'
     },
     {
+        name: "Weihenstephan",
+        type: '0.3l',
+        description: 'rastal CE M17',
+        brewery: "Weihenstephan",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Weihenstephan/Weihenstephan_300ml.webp',
+        thumbnail: 'glasses/img/Germany/Weihenstephan/thumbnail/Weihenstephan_300ml.webp',
+        extraImage: 'glasses/img/Germany/Weihenstephan/extra/Weihenstephan_300ml.webp',
+        box: 'P001',
+        price: '0.00'
+    },
+    {
         name: 'Clausthaler',
         type: '0,2l',
         description: 'Premium alkoholfrei',
