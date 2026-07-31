@@ -107,6 +107,7 @@ const countryContinents = {
     "Czechia": "Europe",
     "Denmark": "Europe",
     "England": "Europe",
+    "Italy": "Europe",
     "France": "Europe",
     "Germany": "Europe",
     "Ireland": "Europe",
