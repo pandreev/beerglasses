@@ -5,8 +5,8 @@ const scotlandSkol = [
         description: '',
         brewery: "Skol",
         country: 'Scotland',
-        image: 'glasses/img/Sweden/Skol_300ml.webp',
-        thumbnail: 'glasses/img/Scotland/thumbnail/Skol_300ml.webp',
+        image: 'glasses/img/Scotland/Skol/Skol_300ml.webp',
+        thumbnail: 'glasses/img/Scotland/Skol/thumbnail/Skol_300ml.webp',
         price: '5.00'
     },
 ];

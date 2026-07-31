@@ -42,6 +42,7 @@ const beerGlasses = [
     ...netherlandsLaTrappe,
     ...glassesNetherlands,
     ...glassesPortugal,
+    ...scotlandSkol,
     ...glassesSpain,
     ...spainAlhambra,
     ...spainAmbar,
