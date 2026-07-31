@@ -90,16 +90,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Kaltenberg',
-        type: 'Glas 500ml',
-        description: '',
-        brewery: 'Kaltenberg',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Kaltenberg_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Kaltenberg_500ml.webp',
-        price: '1.00'
-    },
-    {
         name: 'Dom Kölsch',
         type: 'Glas 200ml',
         description: '',

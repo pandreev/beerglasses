@@ -1,17 +1,8 @@
 const glassesSpain = [
+
     {
         name: 'Alhambra',
-        type: 'Copa 330ml',
-        description: '',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Alhambra',
-        type: 'Vaso 300ml',
+        type: 'Copa 300ml',
         description: '',
         brewery: 'Alhambra',
         country: 'Spain',
@@ -100,16 +91,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: 'Cruzcampo Origen',
-        type: '330ml',
-        description: 'La Fábrica en tu bar',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Origen.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Origen.webp',
-        price: '1.00'
-    },
-    {
         name: 'Cruzcampo',
         type: 'Copa 200ml',
         description: '',
@@ -141,32 +122,12 @@ const glassesSpain = [
     },
     {
         name: 'Arriaca',
-        type: 'Vaso 330ml',
-        description: '',
-        brewery: 'Arriaca',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Arriaca_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_330ml.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Arriaca',
         type: 'Vaso 250ml',
         description: '',
         brewery: 'Arriaca',
         country: 'Spain',
         image: 'glasses/img/Spain/Arriaca_2.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_2.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Arriaca',
-        type: 'Vaso 300ml',
-        description: '',
-        brewery: 'Arriaca',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Arriaca_3.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Arriaca_3.webp',
         price: '1.00'
     },
     {
@@ -197,16 +158,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Amstel_Cerveza_330ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Ambar Export',
-        type: 'Copa 0.3l',
-        description: 'Tres maltas, Doble fermentacion',
-        brewery: 'Ambar',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Ambar_Export.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Ambar_Export.webp',
         price: '1.00'
     },
     {

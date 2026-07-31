@@ -35,4 +35,28 @@ const germanyBenediktiner = [
         box: 'P001',
         price: '3.00'
     },
+    {
+        name: 'Benediktiner Hell',
+        type: '0,5l',
+        description: 'SaHm CE M24 0113 C02',
+        brewery: 'Benediktiner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Benediktiner/Benediktiner_Hell_M24.webp',
+        thumbnail: 'glasses/img/Germany/Benediktiner/thumbnail/Benediktiner_Hell_M24.webp',
+        extraImage: 'glasses/img/Germany/Benediktiner/extra/Benediktiner_Hell_M24.webp',
+        box: 'P002',
+        price: '0.00'
+    },
+    {
+        name: 'Benediktiner Hell',
+        type: '0,5l',
+        description: 'SaHm CE M23 0113 C01',
+        brewery: 'Benediktiner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Benediktiner/Benediktiner_Hell_M23.webp',
+        thumbnail: 'glasses/img/Germany/Benediktiner/thumbnail/Benediktiner_Hell_M23.webp',
+        extraImage: 'glasses/img/Germany/Benediktiner/extra/Benediktiner_Hell_M23.webp',
+        box: 'P002',
+        price: '0.00'
+    },
 ];

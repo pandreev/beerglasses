@@ -151,4 +151,16 @@ const germanyOthers = [
         box: '001',
         price: '0.50'
     },
+    {
+        name: 'Kaltenberg',
+        type: 'Glas 500ml',
+        description: '',
+        brewery: 'Kaltenberg',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Kaltenberg/Kaltenberg_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Kaltenberg/thumbnail/Kaltenberg_500ml.webp',
+        extraImage: 'glasses/img/Germany/Kaltenberg/extra/Kaltenberg_500ml.webp',
+        box: 'P002',
+        price: '1.00'
+    },
 ];

@@ -20,6 +20,17 @@ const spainOthers = [
         price: '0.00'
     },
     {
+        name: 'La Sagra',
+        type: 'Frasco 370ml',
+        description: 'Burro de Sancho',
+        brewery: 'La Sagra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/LaSagra/La_Sagra_Sancho.webp',
+        thumbnail: 'glasses/img/Spain/LaSagra/thumbnail/La_Sagra_Sancho.webp',
+        box: 'P002',
+        price: '0.00'
+    },
+    {
         name: 'Legado de Yuste',
         type: 'Copa 0.25L',
         description: 'Cerveza de Abadía',

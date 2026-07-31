@@ -53,6 +53,17 @@ const spainSanMiguel = [
         box: '002',
         price: '2.00'
     },
+    {
+        name: 'Cerveza San Miguel Premium Quality',
+        type: 'Vaso 200ml',
+        description: 'Matahambre Taberna',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Matahambre.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Matahambre.webp',
+        box: 'P002',
+        price: '2.00'
+    },
     //
     {
         name: 'San Miguel',

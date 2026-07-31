@@ -20,4 +20,15 @@ const netherlandsBavaria = [
         extraImage: 'glasses/img/Netherlands/Bavaria/extra/Bavaria_86.webp',
         price: '0.00'
     },
+    {
+        name: "Bavaria Malt",
+        type: '0,25l',
+        description: '',
+        brewery: "Bavaria",
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Bavaria/Bavaria_Malt.webp',
+        thumbnail: 'glasses/img/Netherlands/Bavaria/thumbnail/Bavaria_Malt.webp',
+        box: 'P002',
+        price: '0.00'
+    },
 ];

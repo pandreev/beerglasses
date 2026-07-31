@@ -11,4 +11,29 @@ const czechiaPilsnerUrquell = [
         box: 'P001',
         price: '0.00'
     },
+    {
+        name: 'Pilsner Urquell',
+        type: '0,3l',
+        description: 'rastal',
+        brewery: 'Pilsner Urquell',
+        country: 'Czechia',
+        image: 'glasses/img/Czechia/PilsnerUrquell/Pilsner_Urquell_300ml.webp',
+        thumbnail: 'glasses/img/Czechia/PilsnerUrquell/thumbnail/Pilsner_Urquell_300ml.webp',
+        extraImage: 'glasses/img/Czechia/PilsnerUrquell/extra/Pilsner_Urquell_300ml.webp',
+        box: '003',
+        price: '0.00'
+    },
+    {
+        name: 'Pilsner Urquell',
+        type: '0,3l',
+        description: 'rastal CE M15 0113',
+        brewery: 'Pilsner Urquell',
+        country: 'Czechia',
+        image: 'glasses/img/Czechia/PilsnerUrquell/Pilsner_Urquell_03l.webp',
+        thumbnail: 'glasses/img/Czechia/PilsnerUrquell/thumbnail/Pilsner_Urquell_03l.webp',
+        extraImage: 'glasses/img/Czechia/PilsnerUrquell/extra/Pilsner_Urquell_03l.webp',
+        box: '003',
+        price: '1.00'
+    },
+
 ];

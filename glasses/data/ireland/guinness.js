@@ -79,4 +79,15 @@ const irelandGuinness = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: 'Guinness',
+        type: 'Glass 500ml',
+        description: '250 years',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Guinness_250yrs.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Guinness_250yrs.webp',
+        box: 'P002',
+        price: '1.00'
+    },
 ];

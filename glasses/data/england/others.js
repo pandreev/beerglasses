@@ -23,4 +23,15 @@ const englandOthers = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: "Carling",
+        type: '200ml',
+        description: '',
+        brewery: "Carling",
+        country: 'England',
+        image: 'glasses/img/England/Carling/Carling_200ml.webp',
+        thumbnail: 'glasses/img/England/Carling/thumbnail/Carling_200ml.webp',
+        box: 'P002',
+        price: '1.00'
+    },
 ];
