@@ -31,6 +31,17 @@ const spainOthers = [
         price: '0.00'
     },
     {
+        name: 'La Sagra',
+        type: 'Copa 300ml',
+        description: 'Cerveza Artesanal Castellana',
+        brewery: 'La Sagra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/LaSagra/La_Sagra_Copa_300ml.webp',
+        thumbnail: 'glasses/img/Spain/LaSagra/thumbnail/La_Sagra_Copa_300ml.webp',
+        box: '005',
+        price: '1.00'
+    },
+    {
         name: 'Legado de Yuste',
         type: 'Copa 0.25L',
         description: 'Cerveza de Abadía',

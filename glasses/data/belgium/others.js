@@ -11,6 +11,30 @@ const belgiumOthers = [
         price: '1.00'
     },
     {
+        name: "Brugse Zot",
+        type: '0,25l / Half Pint / 0.33l',
+        description: 'CE M19 0122',
+        brewery: "Brugse Zot",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/BrugseZot/Brugse_Zot_330ml.webp',
+        thumbnail: 'glasses/img/Belgium/BrugseZot/thumbnail/Brugse_Zot_330ml.webp',
+        extraImage: 'glasses/img/Belgium/BrugseZot/extra/Brugse_Zot_330ml.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
+        name: "Brugse Zot",
+        type: '0,25l / Half Pint / 0.33l',
+        description: 'CE M17 0122 RITZENHOFF',
+        brewery: "Brugse Zot",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/BrugseZot/Brugse_Zot_33cl_M17.webp',
+        thumbnail: 'glasses/img/Belgium/BrugseZot/thumbnail/Brugse_Zot_33cl_M17.webp',
+        extraImage: 'glasses/img/Belgium/BrugseZot/extra/Brugse_Zot_33cl_M17.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
         name: "Waterloo",
         type: '33cl',
         description: 'The Beer of Bravery!',
@@ -65,6 +89,54 @@ const belgiumOthers = [
         thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem.webp',
         box: '001',
         price: '0.00'
+    },
+    {
+        name: 'Delirium',
+        type: '0,33l',
+        description: 'CE M18 0112 RIRZENHOFF',
+        brewery: 'Delirium',
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Delirium/Delirium_33cl.webp',
+        thumbnail: 'glasses/img/Belgium/Delirium/thumbnail/Delirium_33cl.webp',
+        extraImage: 'glasses/img/Belgium/Delirium/extra/Delirium_33cl.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
+        name: "Tripel Karmeliet",
+        type: '0.3l',
+        description: 'CE M17 0122 RIRZENHOFF',
+        brewery: "Tripel Karmeliet",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/TripelKarmeliet/Tripel_Karmeliet_03l.webp',
+        thumbnail: 'glasses/img/Belgium/TripelKarmeliet/thumbnail/Tripel_Karmeliet_03l.webp',
+        extraImage: 'glasses/img/Belgium/TripelKarmeliet/extra/Tripel_Karmeliet_03l.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
+        name: "Rince Cochon",
+        type: '50cl',
+        description: 'SaHm 50cl CE M18 0113 33cl',
+        brewery: "Rince Cochon",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/RinceCochon/Rince_Cochon_50cl.webp',
+        thumbnail: 'glasses/img/Belgium/RinceCochon/thumbnail/Rince_Cochon_50cl.webp',
+        extraImage: 'glasses/img/Belgium/RinceCochon/extra/Rince_Cochon_50cl.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
+        name: "Paljas",
+        type: '0,33l',
+        description: 'CE M15 0112 RIRZENHOFF',
+        brewery: "Paljas",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Paljas/Paljas.webp',
+        thumbnail: 'glasses/img/Belgium/Paljas/thumbnail/Paljas.webp',
+        extraImage: 'glasses/img/Belgium/Paljas/extra/Paljas.webp',
+        box: '005',
+        price: '1.00'
     },
     {
         name: "Maredsous",

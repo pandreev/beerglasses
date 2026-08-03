@@ -40,6 +40,7 @@ const spainAlhambra = [
         country: 'Spain',
         image: 'glasses/img/Spain/Alhambra/Alhambra_Especial_copa.webp',
         thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Especial_copa.webp',
+        box: '005',
         price: '0.00'
     },
     {

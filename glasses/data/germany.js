@@ -80,16 +80,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Camba Sensorik',
-        type: 'Glas 330ml',
-        description: '',
-        brewery: 'Camba',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Camba_330ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Camba_330ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Dom Kölsch',
         type: 'Glas 200ml',
         description: '',
@@ -147,16 +137,6 @@ const glassesGermany = [
         country: 'Germany',
         image: 'glasses/img/Germany/Brinkhoffs_BVB.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Brinkhoffs_BVB.webp',
-        price: '0.50'
-    },
-    {
-        name: "Henninger",
-        type: 'Glas 200ml',
-        description: 'Christian Henninger Pilsener Klassisch herb',
-        brewery: "Henninger",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Henninger.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Henninger.webp',
         price: '0.50'
     },
     {

@@ -61,16 +61,6 @@ const glassesSpain = [
         price: '1.50'
     },
     {
-        name: 'Cruzcampo Gran Reserva',
-        type: 'Copa',
-        description: '',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Gran_Reserva_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Gran_Reserva_330ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Cruzcampo',
         type: 'Jarra 500ml',
         description: '',
@@ -298,36 +288,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou_Cervezas_Jarra_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Cervezas_Jarra_200ml.webp',
-        price: '1.00'
-    },
-    {
-        name: '1906 Galician Irish Red Ale',
-        type: 'Copa 330ml',
-        description: 'La Pelirroja',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/1906_Irish_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/1906_Irish_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: '1906 Reserva Especial',
-        type: 'Copa 30cl',
-        description: 'CE M16 0300, With 3 medals',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/1906_Reserva_30cl.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/1906_Reserva_30cl.webp',
-        price: '1.00'
-    },
-    {
-        name: 'La Sagra',
-        type: 'Copa 300ml',
-        description: 'Cerveza Artesanal Castellana',
-        brewery: 'La Sagra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/La_Sagra_Copa_300ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/La_Sagra_Copa_300ml.webp',
         price: '1.00'
     },
     {

@@ -20,37 +20,8 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml_M17.webp',
         price: '3.00'
     },
-    {
-        name: "Houblon Chouffe",
-        type: '25cl',
-        description: 'Dobbelen IPA Tripel CE M11 0846',
-        brewery: "Brasserie d'Achouffe",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Houblon_Chouffe.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Houblon_Chouffe.webp',
-        price: '1.00'
-    },
 
-    {
-        name: "Brugse Zot",
-        type: '0,25l / 0.33l',
-        description: 'CE M19 0122',
-        brewery: "Brugse Zot",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Brugse_Zot_330ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: "Brugse Zot",
-        type: '0,25l / Half Pint / 0.33l',
-        description: 'CE M17 0122 RITZENHOFF',
-        brewery: "Brugse Zot",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Brugse_Zot_33cl.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Brugse_Zot_33cl.webp',
-        price: '1.00'
-    },
+
     {
         name: "Stella Artois",
         type: '0,25l',
@@ -59,16 +30,6 @@ const glassesBelgium = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Stella_Artois_25cl.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Stella_Artois_25cl.webp',
-        price: '1.00'
-    },
-    {
-        name: "Paljas",
-        type: '0,33l',
-        description: 'CE M15 0112 RIRZENHOFF',
-        brewery: "Paljas",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Paljas.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Paljas.webp',
         price: '1.00'
     },
     {
@@ -182,16 +143,6 @@ const glassesBelgium = [
         price: '4.00'
     },
     {
-        name: 'Delirium',
-        type: '0,33l',
-        description: 'CE M18 0112 RIRZENHOFF',
-        brewery: 'Delirium',
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Delirium_33cl.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Delirium_33cl.webp',
-        price: '4.00'
-    },
-    {
         name: "Grimbergen",
         type: '0.33l',
         description: 'CE M15 0112 RIRZENHOFF',
@@ -229,26 +180,6 @@ const glassesBelgium = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Orval.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Orval.webp',
-        price: '1.00'
-    },
-    {
-        name: "Tripel Karmeliet",
-        type: '0.3l',
-        description: 'CE M17 0122 RIRZENHOFF',
-        brewery: "Tripel Karmeliet",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Tripel_Karmeliet_03l.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Tripel_Karmeliet_03l.webp',
-        price: '1.00'
-    },
-    {
-        name: "Rince Cochon",
-        type: '50cl',
-        description: 'SaHm 50cl CE M18 0113 33cl',
-        brewery: "Rince Cochon",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Rince_Cochon_50cl.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Rince_Cochon_50cl.webp',
         price: '1.00'
     },
     {

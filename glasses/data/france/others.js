@@ -8,6 +8,7 @@ const franceOthers = [
         image: 'glasses/img/France/LaGoudale/La_Goudale_25cl.webp',
         thumbnail: 'glasses/img/France/LaGoudale/thumbnail/La_Goudale_25cl.webp',
         extraImage: 'glasses/img/France/LaGoudale/extra/La_Goudale_25cl.webp',
+        box: '005',
         price: '0.00'
     },
     {

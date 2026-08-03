@@ -55,6 +55,17 @@ const spainCruzcampo = [
         price: '1.00'
     },
     {
+        name: 'Cruzcampo Gran Reserva',
+        type: 'Copa',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo_Gran_Reserva_330ml.webp',
+        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Gran_Reserva_330ml.webp',
+        box: '004',
+        price: '0.00'
+    },
+    {
         name: 'Extra Braun',
         type: 'Caña 200ml',
         description: '',
@@ -93,6 +104,7 @@ const spainCruzcampo = [
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_cien_anos.webp',
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_cien_anos.webp',
+        box: '005',
         price: '0.00'
     },
 ];

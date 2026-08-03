@@ -96,6 +96,30 @@ const germanyOthers = [
         price: '0.00'
     },
     {
+        name: "Pils 2000",
+        type: 'Goblet 0.3l',
+        description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
+        brewery: "Pils 2000",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Pils2000/Pils_2000.webp',
+        thumbnail: 'glasses/img/Germany/Pils2000/thumbnail/Pils_2000.webp',
+        extraImage: 'glasses/img/Germany/Pils2000/extra/Pils_2000.webp',
+        box: '004',
+        price: '1.00'
+    },
+    {
+        name: "Henninger",
+        type: 'Glas 200ml',
+        description: 'Christian Henninger Pilsener Klassisch herb',
+        brewery: "Henninger",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Henninger/Henninger.webp',
+        thumbnail: 'glasses/img/Germany/Henninger/thumbnail/Henninger.webp',
+        extraImage: 'glasses/img/Germany/Henninger/extra/Henninger.webp',
+        box: '00?',
+        price: '0.50'
+    },
+    {
         name: 'Clausthaler',
         type: '0,2l',
         description: 'Premium alkoholfrei',
@@ -104,6 +128,7 @@ const germanyOthers = [
         image: 'glasses/img/Germany/Clausthaler/Clausthaler_200ml.webp',
         thumbnail: 'glasses/img/Germany/Clausthaler/thumbnail/Clausthaler_200ml.webp',
         extraImage: 'glasses/img/Germany/Clausthaler/extra/Clausthaler_200ml.webp',
+        box: '004',
         price: '0.00'
     },
     {
@@ -119,15 +144,16 @@ const germanyOthers = [
         price: '0.50'
     },
     {
-        name: "Pils 2000",
-        type: 'Goblet 0.3l',
-        description: 'GERMANIA BRAUEREI MÜNSTER/WESTFALEN',
-        brewery: "Pils 2000",
+        name: 'Camba Sensorik',
+        type: 'Glas 330ml',
+        description: 'SaHm 0.3l CE M23 0113 C01',
+        brewery: 'Camba',
         country: 'Germany',
-        image: 'glasses/img/Germany/Pils2000/Pils_2000.webp',
-        thumbnail: 'glasses/img/Germany/Pils2000/thumbnail/Pils_2000.webp',
-        extraImage: 'glasses/img/Germany/Pils2000/extra/Pils_2000.webp',
-        price: '1.00'
+        image: 'glasses/img/Germany/Camba/Camba_330ml.webp',
+        thumbnail: 'glasses/img/Germany/Camba/thumbnail/Camba_330ml.webp',
+        extraImage: 'glasses/img/Germany/Camba/extra/Camba_330ml.webp',
+        box: '005',
+        price: '0.00'
     },
     {
         name: 'Veltins Pils',

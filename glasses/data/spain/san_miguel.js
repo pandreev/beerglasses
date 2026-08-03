@@ -1,5 +1,16 @@
 const spainSanMiguel = [
     {
+        name: 'San Miguel Premium',
+        type: 'Copa 300ml',
+        description: '1516 cerveza según la ley de pureza de 1516',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Premium.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Premium.webp',
+        box: '005',
+        price: '0.50'
+    },
+    {
         name: 'San Miguel',
         type: 'Chupito 100ml',
         description: 'Con TÈ sabor limon',
@@ -94,16 +105,6 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel_M16_50_anos.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_M16_50_anos.webp',
         price: '1.00'
-    },
-    {
-        name: 'San Miguel Premium',
-        type: 'Copa 300ml',
-        description: '1516 cerveza según la ley de pureza de 1516',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Premium.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Premium.webp',
-        price: '0.50'
     },
     {
         name: 'San Miguel 0,0%',

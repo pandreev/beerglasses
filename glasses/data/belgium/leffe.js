@@ -8,6 +8,7 @@ const belgiumLeffe = [
         image: 'glasses/img/Belgium/Leffe/Leffe_330ml.webp',
         thumbnail: 'glasses/img/Belgium/Leffe/thumbnail/Leffe_330ml.webp',
         extraImage: 'glasses/img/Belgium/Leffe/extra/Leffe_330ml.webp',
+        box: '005',
         price: '0.00'
     },
 ];
