@@ -18,6 +18,7 @@ const netherlandsBavaria = [
         image: 'glasses/img/Netherlands/Bavaria/Bavaria_86.webp',
         thumbnail: 'glasses/img/Netherlands/Bavaria/thumbnail/Bavaria_86.webp',
         extraImage: 'glasses/img/Netherlands/Bavaria/extra/Bavaria_86.webp',
+        box: '007',
         price: '0.00'
     },
     {

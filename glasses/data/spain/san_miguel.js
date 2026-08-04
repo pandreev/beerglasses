@@ -28,6 +28,7 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Selecta.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Selecta.webp',
+        box: '008',
         price: '1.00'
     },
     {
@@ -75,37 +76,53 @@ const spainSanMiguel = [
         box: 'P002',
         price: '2.00'
     },
-    //
+    {
+        name: 'San Miguel',
+        type: 'Copa 30cl',
+        description: '50 años siendo boquerones / M16 0886',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_50_anos.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_50_anos.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_50_anos.webp',
+        box: '008',
+        price: '0.50'
+    },
+    {
+        name: 'San Miguel 0,0%',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_0_300.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_0_300.webp',
+        box: '008',
+        price: '1.00'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Copa 250ml',
+        description: '25cl Crisal CE M14 0866',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_250_14.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_250_14.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_250_14.webp',
+        box: '008',
+        price: '1.00'
+    },
     {
         name: 'San Miguel',
         type: 'Copa 250ml',
         description: 'Crisal 97',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_250ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250ml.webp',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_250ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_250ml.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_250ml.webp',
         price: '0.50'
     },
-    {
-        name: 'San Miguel',
-        type: 'Copa 300ml',
-        description: '50 años siendo boquerones',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_50_anos.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_50_anos.webp',
-        price: '0.50'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Copa 30cl',
-        description: '50 años siendo boquerones / CE M16 0866 Crisal',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_M16_50_anos.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_M16_50_anos.webp',
-        price: '1.00'
-    },
+    //
     {
         name: 'San Miguel 0,0%',
         type: 'Vaso 200ml',
@@ -135,25 +152,5 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel_Matahambre.png',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Matahambre.png',
         price: '0.00'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Copa 250ml',
-        description: '25cl Crisal CE M14 0866',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_250_14.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_250_14.webp',
-        price: '1.00'
-    },
-    {
-        name: 'San Miguel 0,0%',
-        type: 'Copa 300ml',
-        description: '',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_0_300.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_300.webp',
-        price: '1.00'
     },
 ];

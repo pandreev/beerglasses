@@ -50,6 +50,18 @@ const spainOthers = [
         image: 'glasses/img/Spain/Legado_de_Yuste/Legado_de_Yuste.webp',
         thumbnail: 'glasses/img/Spain/Legado_de_Yuste/thumbnail/Legado_de_Yuste.webp',
         extraImage: 'glasses/img/Spain/Legado_de_Yuste/extra/Legado_de_Yuste.webp',
+        box: '008',
         price: '0.00'
+    },
+    {
+        name: 'Cerveses La Pirata',
+        type: 'Copa 250ml',
+        description: '',
+        brewery: 'Cerveses La Pirata',
+        country: 'Spain',
+        image: 'glasses/img/Spain/LaPirata/Cerveses_La_Pirata_250ml.webp',
+        thumbnail: 'glasses/img/Spain/LaPirata/thumbnail/Cerveses_La_Pirata_250ml.webp',
+        box: '008',
+        price: '1.00'
     },
 ];

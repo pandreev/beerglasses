@@ -108,6 +108,18 @@ const germanyOthers = [
         price: '1.00'
     },
     {
+        name: "Thurn und Taxis",
+        type: '0,4l',
+        description: 'SaHm 0,4l',
+        brewery: "Thurn und Taxis",
+        country: 'Germany',
+        image: 'glasses/img/Germany/ThurnUndTaxis/Thurn_und_Taxis.webp',
+        thumbnail: 'glasses/img/Germany/ThurnUndTaxis/thumbnail/Thurn_und_Taxis.webp',
+        extraImage: 'glasses/img/Germany/ThurnUndTaxis/extra/Thurn_und_Taxis.webp',
+        box: '008',
+        price: '0.00'
+    },
+    {
         name: "Henninger",
         type: 'Glas 200ml',
         description: 'Christian Henninger Pilsener Klassisch herb',

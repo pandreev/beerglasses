@@ -51,16 +51,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: 'Reserva 1925',
-        type: 'Copa 300ml',
-        description: 'Cervezas Alhambra Reserva 1925',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_Reserva_1925.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Reserva_1925.webp',
-        price: '1.50'
-    },
-    {
         name: 'Cruzcampo',
         type: 'Jarra 500ml',
         description: '',
@@ -138,16 +128,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Amstel_Cerveza_330ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Cerveses La Pirata',
-        type: 'Copa 250ml',
-        description: '',
-        brewery: 'Cerveses La Pirata',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cerveses_La_Pirata_250ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cerveses_La_Pirata_250ml.webp',
         price: '1.00'
     },
     {

@@ -8,6 +8,7 @@ const netherlandsLaTrappe = [
         image: 'glasses/img/Netherlands/LaTrappe/La_Trappe_Trappist.webp',
         thumbnail: 'glasses/img/Netherlands/LaTrappe/thumbnail/La_Trappe_Trappist.webp',
         extraImage: 'glasses/img/Netherlands/LaTrappe/extra/La_Trappe_Trappist.webp',
+        box: '007',
         price: '0.50'
     },
     {
@@ -19,6 +20,7 @@ const netherlandsLaTrappe = [
         image: 'glasses/img/Netherlands/LaTrappe/La_Trappe.webp',
         thumbnail: 'glasses/img/Netherlands/LaTrappe/thumbnail/La_Trappe.webp',
         extraImage: 'glasses/img/Netherlands/LaTrappe/extra/La_Trappe.webp',
+        box: '007',
         price: '0.00'
     },
 ];

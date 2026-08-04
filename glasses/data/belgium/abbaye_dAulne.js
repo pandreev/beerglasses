@@ -8,6 +8,7 @@ const belgiumAbbaye_dAulne = [
         image: 'glasses/img/Belgium/Abbaye_dAulne/Abbaye_dAulne_330ml.webp',
         thumbnail: 'glasses/img/Belgium/Abbaye_dAulne/thumbnail/Abbaye_dAulne_330ml.webp',
         extraImage: 'glasses/img/Belgium/Abbaye_dAulne/extra/Abbaye_dAulne_330ml.webp',
+        box: '008',
         price: '3.00'
     },
 ];

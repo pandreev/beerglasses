@@ -37,13 +37,26 @@ const belgiumOthers = [
     {
         name: "Waterloo",
         type: '33cl',
-        description: 'The Beer of Bravery!',
+        description: 'The Beer of Bravery! / M18 0846',
         brewery: "Waterloo",
         country: 'Belgium',
-        image: 'glasses/img/Belgium/Waterloo/Waterloo_33cl.webp',
-        thumbnail: 'glasses/img/Belgium/Waterloo/thumbnail/Waterloo_33cl.webp',
-        extraImage: 'glasses/img/Belgium/Waterloo/extra/Waterloo_33cl.webp',
+        image: 'glasses/img/Belgium/Waterloo/Waterloo_33cl_M18.webp',
+        thumbnail: 'glasses/img/Belgium/Waterloo/thumbnail/Waterloo_33cl_M18.webp',
+        extraImage: 'glasses/img/Belgium/Waterloo/extra/Waterloo_33cl_M18.webp',
+        box: '008',
         price: '0.00'
+    },
+    {
+        name: "Antigoon",
+        type: '0,25l',
+        description: 'CE M15 0846',
+        brewery: "Brouwerij The Musketeers",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Antigoon/Antigoon_M15.webp',
+        thumbnail: 'glasses/img/Belgium/Antigoon/thumbnail/Antigoon_M15.webp',
+        extraImage: 'glasses/img/Belgium/Antigoon/extra/Antigoon_M15.webp',
+        box: '008',
+        price: '1.00'
     },
     {
         name: "Waterloo",
@@ -77,6 +90,18 @@ const belgiumOthers = [
         thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem.webp',
         box: '001',
         price: '0.00'
+    },
+    {
+        name: "Affligem",
+        type: '0,3l',
+        description: 'CE M14 0112 RIRZENHOFF',
+        brewery: "Affligem",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Affligem/Affligem_03l.webp',
+        thumbnail: 'glasses/img/Belgium/Affligem/thumbnail/Affligem_03l.webp',
+        extraImage: 'glasses/img/Belgium/Affligem/extra/Affligem_03l.webp',
+        box: '008',
+        price: '1.00'
     },
     {
         name: 'Delirium',
@@ -148,6 +173,75 @@ const belgiumOthers = [
         thumbnail: 'glasses/img/Belgium/PoperingsNunnebier/thumbnail/Poperings_Nunnebier_M10.webp',
         extraImage: 'glasses/img/Belgium/PoperingsNunnebier/extra/Poperings_Nunnebier_M10.webp',
         box: '006',
+        price: '1.00'
+    },
+    {
+        name: "Orval",
+        type: '0.33l',
+        description: '',
+        brewery: "Orval",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Orval/Orval.webp',
+        thumbnail: 'glasses/img/Belgium/Orval/thumbnail/Orval.webp',
+        box: '007',
+        price: '1.00'
+    },
+    {
+        name: "Tongerlo",
+        type: '0,33l',
+        description: 'CE M15 0846',
+        brewery: "Tongerlo",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Tongerlo/Tongerlo.webp',
+        thumbnail: 'glasses/img/Belgium/Tongerlo/thumbnail/Tongerlo.webp',
+        extraImage: 'glasses/img/Belgium/Tongerlo/extra/Tongerlo.webp',
+        box: '007',
+        price: '1.00'
+    },
+    {
+        name: "Westvleteren Trappist",
+        type: '0,33l',
+        description: 'CE M16 0122 RIRZENHOFF',
+        brewery: "Westvleteren",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Westvleteren/Westvleteren_M16.webp',
+        thumbnail: 'glasses/img/Belgium/Westvleteren/thumbnail/Westvleteren_M16.webp',
+        extraImage: 'glasses/img/Belgium/Westvleteren/extra/Westvleteren_M16.webp',
+        box: '007',
+        price: '1.00'
+    },
+    {
+        name: "Chimay",
+        type: '330ml',
+        description: '',
+        brewery: "Chimay",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Chimay/Chimay.webp',
+        thumbnail: 'glasses/img/Belgium/Chimay/thumbnail/Chimay.webp',
+        box: '008',
+        price: '1.00'
+    },
+    {
+        name: "Charles Quint/Keizer Karel",
+        type: '20cl',
+        description: 'SaHm CE M15 0113',
+        brewery: "Charles Quint/Keizer Karel",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/CharlesQuint/Charles_Quint_M15.webp',
+        thumbnail: 'glasses/img/Belgium/CharlesQuint/thumbnail/Charles_Quint_M15.webp',
+        extraImage: 'glasses/img/Belgium/CharlesQuint/extra/Charles_Quint_M15.webp',
+        box: '008',
+        price: '1.00'
+    },
+    {
+        name: "Belle-Vue Kriek",
+        type: '250ml',
+        description: '',
+        brewery: "Belle-Vue",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/BelleVue/Belle_Vue_Kriek.webp',
+        thumbnail: 'glasses/img/Belgium/BelleVue/thumbnail/Belle_Vue_Kriek.webp',
+        box: '008',
         price: '1.00'
     },
     {

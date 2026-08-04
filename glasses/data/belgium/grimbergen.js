@@ -23,4 +23,27 @@ const belgiumGrimbergen = [
         box: '006',
         price: '1.00'
     },
+    {
+        name: "Grimbergen",
+        type: '0.33l',
+        description: 'CE M15 0112 RIRZENHOFF',
+        brewery: "Grimbergen",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Grimbergen/Grimbergen_033l_M15.webp',
+        thumbnail: 'glasses/img/Belgium/Grimbergen/thumbnail/Grimbergen_033l_M15.webp',
+        extraImage: 'glasses/img/Belgium/Grimbergen/extra/Grimbergen_033l_M15.webp',
+        box: '007',
+        price: '1.00'
+    },
+    {
+        name: "Grimbergen",
+        type: '0.25l',
+        description: '',
+        brewery: "Grimbergen",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Grimbergen/Grimbergen_025l.webp',
+        thumbnail: 'glasses/img/Belgium/Grimbergen/thumbnail/Grimbergen_025l.webp',
+        box: '008',
+        price: '1.00'
+    },
 ];

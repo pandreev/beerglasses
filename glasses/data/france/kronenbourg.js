@@ -27,8 +27,9 @@ const franceKronenbourg = [
         description: '',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg.webp',
+        box: '008',
         price: '2.00'
     },
     {

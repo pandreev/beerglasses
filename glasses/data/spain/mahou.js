@@ -24,6 +24,18 @@ const spainMahou = [
         price: '0.00'
     },
     {
+        name: 'Mahou Cervezas',
+        type: 'Copa 22cl',
+        description: 'CE M14 Crisal 0866',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_22_M14.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_22_M14.webp',
+        extraImage: 'glasses/img/Spain/Mahou/extra/Mahou_Copa_22_M14.webp',
+        box: '007',
+        price: '1.00'
+    },
+    {
         name: 'Mahou',
         type: 'Jarra 300ml',
         description: '',
@@ -190,15 +202,5 @@ const spainMahou = [
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_Reparto.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_Reparto.webp',
         price: '0.00'
-    },
-    {
-        name: 'Mahou Cervezas',
-        type: 'Copa 22cl',
-        description: 'CE M14 Crisal 0866',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_220ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_220ml.webp',
-        price: '1.00'
     },
 ];

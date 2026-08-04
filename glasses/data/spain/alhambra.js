@@ -54,4 +54,15 @@ const spainAlhambra = [
         box: '001',
         price: '0.00'
     },
+    {
+        name: 'Reserva 1925',
+        type: 'Copa 300ml',
+        description: 'Cervezas Alhambra Reserva 1925',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Alhambra_Reserva_1925.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Reserva_1925.webp',
+        box: '006',
+        price: '1.50'
+    },
 ];

@@ -23,6 +23,7 @@ const beerGlasses = [
     ...englandOthers,
     ...glassesFrance,
     ...italyNastroAzzurro,
+    ...italyIchnusa,
     ...franceKronenbourg,
     ...franceOthers,
     ...germanyErdinger,
