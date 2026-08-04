@@ -21,6 +21,18 @@ const spainVictoria = [
         extraImage: 'glasses/img/Spain/Victoria/extra/Victoria_Malaga_200ml.webp',
         price: '1.00'
     },
+    {
+        name: 'Victoria Malaga',
+        type: 'Copa 330ml',
+        description: '',
+        brewery: 'Victoria Malaga',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Victoria/Victoria_Malaga_330ml.webp',
+        thumbnail: 'glasses/img/Spain/Victoria/thumbnail/Victoria_Malaga_330ml.webp',
+        extraImage: 'glasses/img/Spain/Victoria/extra/Victoria_Malaga_330ml.webp',
+        box: '006',
+        price: '1.00'
+    },
     //old
     {
         name: 'Victoria Malaga',
@@ -50,16 +62,6 @@ const spainVictoria = [
         country: 'Spain',
         image: 'glasses/img/Spain/Victoria_Malaga_300ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_300ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Victoria Malaga',
-        type: 'Copa 330ml',
-        description: '',
-        brewery: 'Victoria Malaga',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Victoria_Malaga_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Victoria_Malaga_330ml.webp',
         price: '1.00'
     },
 ];

@@ -1,47 +1,9 @@
 const glassesBelgium = [
 
-    {
-        name: "Brasserie d'Achouffe",
-        type: '33cl',
-        description: 'Crisal M23 0866',
-        brewery: "Brasserie d'Achouffe",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Achouffe_330ml.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml.webp',
-        price: '3.00'
-    },
-    {
-        name: "Brasserie d'Achouffe",
-        type: '33cl',
-        description: 'CE M17 0846 H&S',
-        brewery: "Brasserie d'Achouffe",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Achouffe_330ml_M17.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Achouffe_330ml_M17.webp',
-        price: '3.00'
-    },
 
 
-    {
-        name: "Stella Artois",
-        type: '0,25l',
-        description: 'RC 25cl',
-        brewery: "Stella Artois",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Stella_Artois_25cl.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Stella_Artois_25cl.webp',
-        price: '1.00'
-    },
-    {
-        name: "Straffe Hendrik",
-        type: '0,33l',
-        description: 'CE M14 0112 RIRZENHOFF',
-        brewery: "Straffe Hendrik",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Straffe_Hendrik.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Straffe_Hendrik.webp',
-        price: '1.00'
-    },
+
+
     {
         name: "Tongerlo",
         type: '0,33l',
@@ -154,16 +116,6 @@ const glassesBelgium = [
     },
     {
         name: "Grimbergen",
-        type: '0.33l',
-        description: 'CE M18 0126 ARC',
-        brewery: "Grimbergen",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Grimbergen_033l_M18.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Grimbergen_033l_M18.webp',
-        price: '1.00'
-    },
-    {
-        name: "Grimbergen",
         type: '0.25l',
         description: '',
         brewery: "Grimbergen",
@@ -190,16 +142,6 @@ const glassesBelgium = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Martins_Pale_Ale.webp',
         thumbnail: 'glasses/img/Belgium/thumbnail/Martins_Pale_Ale.webp',
-        price: '1.00'
-    },
-    {
-        name: "Poperings Nunnebier",
-        type: '25cl',
-        description: 'CE M10 0846',
-        brewery: "Poperings Nunnebier",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Poperings_Nunnebier.webp',
-        thumbnail: 'glasses/img/Belgium/thumbnail/Poperings_Nunnebier.webp',
         price: '1.00'
     },
     {

@@ -87,6 +87,28 @@ const spainCruzcampo = [
         price: '0.00'
     },
     {
+        name: 'Cruzcampo Especial',
+        type: '330ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Especial_Barril_330ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Especial_Barril_330ml.webp',
+        box: '006',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: '330ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Barril_330ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Barril_330ml.webp',
+        box: '006',
+        price: '0.00'
+    },
+    {
         name: 'Cruzcampo 1904',
         type: 'Caña 200ml',
         description: 'Taperia La Abuela',

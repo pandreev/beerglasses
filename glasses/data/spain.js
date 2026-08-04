@@ -71,16 +71,6 @@ const glassesSpain = [
         price: '0.00'
     },
     {
-        name: 'Cruzcampo Especial',
-        type: '330ml',
-        description: '',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Especial.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Especial.webp',
-        price: '1.00'
-    },
-    {
         name: 'Cruzcampo',
         type: 'Copa 200ml',
         description: '',

@@ -56,18 +56,6 @@ const belgiumOthers = [
         price: '1.00'
     },
     {
-        name: "Grimbergen",
-        type: '0.33l',
-        description: 'RC',
-        brewery: "Grimbergen",
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/Grimbergen/Grimbergen.webp',
-        thumbnail: 'glasses/img/Belgium/Grimbergen/thumbnail/Grimbergen.webp',
-        extraImage: 'glasses/img/Belgium/Grimbergen/extra/Grimbergen.webp',
-        box: '001',
-        price: '0.00'
-    },
-    {
         name: "De Koninck",
         type: '0.25l',
         description: '',
@@ -136,6 +124,30 @@ const belgiumOthers = [
         thumbnail: 'glasses/img/Belgium/Paljas/thumbnail/Paljas.webp',
         extraImage: 'glasses/img/Belgium/Paljas/extra/Paljas.webp',
         box: '005',
+        price: '1.00'
+    },
+    {
+        name: "Straffe Hendrik",
+        type: '0,33l',
+        description: 'CE M14 0112 RIRZENHOFF',
+        brewery: "Straffe Hendrik",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/StraffeHendrik/Straffe_Hendrik_M14.webp',
+        thumbnail: 'glasses/img/Belgium/StraffeHendrik/thumbnail/Straffe_Hendrik_M14.webp',
+        extraImage: 'glasses/img/Belgium/StraffeHendrik/extra/Straffe_Hendrik_M14.webp',
+        box: '006',
+        price: '1.00'
+    },
+    {
+        name: "Poperings Nunnebier",
+        type: '25cl',
+        description: 'CE M10 0846',
+        brewery: "Poperings Nunnebier",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/PoperingsNunnebier/Poperings_Nunnebier_M10.webp',
+        thumbnail: 'glasses/img/Belgium/PoperingsNunnebier/thumbnail/Poperings_Nunnebier_M10.webp',
+        extraImage: 'glasses/img/Belgium/PoperingsNunnebier/extra/Poperings_Nunnebier_M10.webp',
+        box: '006',
         price: '1.00'
     },
     {
