@@ -35,5 +35,16 @@ const czechiaPilsnerUrquell = [
         box: '003',
         price: '1.00'
     },
+    {
+        name: 'Pilsner Urquell',
+        type: '0,3l',
+        description: 'SaHm 0,3l CE M16 0113',
+        brewery: 'Pilsner Urquell',
+        country: 'Czechia',
+        image: 'glasses/img/Czechia/PilsnerUrquell/Pilsner_Urquell_03l_16.webp',
+        thumbnail: 'glasses/img/Czechia/PilsnerUrquell/thumbnail/Pilsner_Urquell_03l_16.webp',
+        box: '008',
+        price: '1.00'
+    },
 
 ];

@@ -41,6 +41,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_2.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_2.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
     {
@@ -52,6 +53,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_1.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_1.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
     {
@@ -63,6 +65,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_4.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_4.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
     {
@@ -74,6 +77,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_3.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_3.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
     {
@@ -85,6 +89,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_6.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_6.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
     {
@@ -96,6 +101,7 @@ const franceKronenbourg = [
         image: 'glasses/img/France/Kronenbourg/Kronenbourg_200ml_5.webp',
         thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_200ml_5.webp',
         extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_200ml.webp',
+        box: '008',
         price: '1.50'
     },
 ];

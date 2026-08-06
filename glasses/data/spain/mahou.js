@@ -58,6 +58,17 @@ const spainMahou = [
         price: '1.00'
     },
     {
+        name: 'Mahou Negra',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Negra.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Negra.webp',
+        box: 'P003',
+        price: '0.00'
+    },
+    {
         name: 'Mahou',
         type: 'Jarra 300ml',
         description: 'Centenario 1890 - 1990',
@@ -65,16 +76,6 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Centenario.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Centenario.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Mahou Negra',
-        type: 'Copa 300ml',
-        description: '',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Negra.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Negra.webp',
         price: '0.00'
     },
     {

@@ -61,16 +61,6 @@ const glassesSpain = [
         price: '0.00'
     },
     {
-        name: 'Cruzcampo',
-        type: 'Copa 200ml',
-        description: '',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_200ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_200ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Dorada Pilsen',
         type: 'Caña 250ml',
         description: '',
@@ -118,16 +108,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Amstel_Cerveza_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_200ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Amstel Cerveza Extra',
-        type: 'Vaso 330ml',
-        description: 'La Auténtica Lager Extra de Carácter',
-        brewery: 'Amstel Cerveza',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Amstel_Cerveza_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza_330ml.webp',
         price: '1.00'
     },
     {

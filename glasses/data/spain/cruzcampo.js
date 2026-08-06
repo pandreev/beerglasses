@@ -60,9 +60,75 @@ const spainCruzcampo = [
         description: '',
         brewery: 'Cruzcampo',
         country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Gran_Reserva_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Gran_Reserva_330ml.webp',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Gran_Reserva_330ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Gran_Reserva_330ml.webp',
         box: '004',
+        price: '0.00'
+    },
+    {
+        name: 'Cruzcampo Mundial 2010, Sergio Ramos',
+        type: 'Vaso 300ml',
+        description: 'La peña de la selección: I. Nunca verás un partido solo',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_La_Pena_1.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_La_Pena_1.webp',
+        box: 'P003',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo Mundial 2010, Torres',
+        type: 'Vaso 300ml',
+        description: 'La peña de la selección: II. Nunca celebraras un gol en silencio',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_La_Pena_2.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_La_Pena_2.webp',
+        box: 'P003',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo Mundial 2010, David Villa',
+        type: 'Vaso 300ml',
+        description: 'La peña de la selección: III. Nunca usarás el rojo en vano.',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_La_Pena_3.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_La_Pena_3.webp',
+        box: 'P003',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo Mundial 2010, Xavi Hernández',
+        type: 'Vaso 300ml',
+        description: 'La peña de la selección: IV. Nunca brindarás por la roja sin Cruzcampo',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_La_Pena_4.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_La_Pena_4.webp',
+        box: 'P003',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo Mundial 2010, Xabi',
+        type: 'Vaso 300ml',
+        description: 'La peña de la selección: V. Nunca temerás a los cuartos de final.',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_La_Pena_5.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_La_Pena_5.webp',
+        box: 'P003',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: 'Copa 200ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Copa_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Copa_200ml.webp',
+        box: '00?',
         price: '0.00'
     },
     {

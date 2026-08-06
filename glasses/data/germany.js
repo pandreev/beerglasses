@@ -50,16 +50,6 @@ const glassesGermany = [
         price: '5.00'
     },
     {
-        name: 'Paulaner Helles',
-        type: 'Goblet 400ml',
-        description: '',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_400ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_400ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Paulaner Salvator',
         type: 'Mug 0,3l',
         description: '',
@@ -138,16 +128,6 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Brinkhoffs_BVB.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Brinkhoffs_BVB.webp',
         price: '0.50'
-    },
-    {
-        name: "Grevensteiner",
-        type: '0.3l',
-        description: 'C. & A. Veltins',
-        brewery: "Grevensteiner",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Grevensteiner_300ml.png',
-        thumbnail: 'glasses/img/Germany/thumbnail/Grevensteiner_300ml.png',
-        price: '0.00'
     },
     {
         name: 'Benediktiner Weissbräu',

@@ -162,15 +162,16 @@ const spainEstrellaGalicia = [
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_300ml.webp',
         price: '0.00'
     },
-    //
     {
         name: 'Estrella Galicia 0,0',
         type: 'Vaso 330ml',
         description: '',
         brewery: 'Estrella Galicia',
         country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_0_Vaso_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_0_Vaso_330ml.webp',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_0_Vaso_330ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_0_Vaso_330ml.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_0_Vaso_330ml.webp',
+        box: 'P003',
         price: '1.00'
     },
 ];

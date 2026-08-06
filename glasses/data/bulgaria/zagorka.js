@@ -44,4 +44,37 @@ const bulgariaZagorka = [
         box: '008',
         price: '0.00'
     },
+    {
+        name: "Zagorka Pivo",
+        type: 'Mug 250ml',
+        description: '',
+        brewery: "Zagorka",
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Pivo_Mug_250ml.webp',
+        thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Pivo_Mug_250ml.webp',
+        box: '008',
+        price: '0.00'
+    },
+    {
+        name: "Zagorka Special",
+        type: 'Mug 250ml',
+        description: '',
+        brewery: "Zagorka",
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Special_Mug_250ml.webp',
+        thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Special_Mug_250ml.webp',
+        box: '008',
+        price: '0.00'
+    },
+    {
+        name: "Zagorka Special",
+        type: 'Mug 0,5l',
+        description: '',
+        brewery: "Zagorka",
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Special_Mug_05l.webp',
+        thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Special_Mug_05l.webp',
+        box: 'P003',
+        price: '0.00'
+    },
 ];

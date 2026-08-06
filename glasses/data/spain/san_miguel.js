@@ -18,6 +18,7 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Chupito_100ml.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Chupito_100ml.webp',
+        box: '008',
         price: '0.50'
     },
     {

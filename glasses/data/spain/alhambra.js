@@ -44,6 +44,18 @@ const spainAlhambra = [
         price: '0.00'
     },
     {
+        name: 'Cervezas Alhambra',
+        type: 'Jarra 0,5l',
+        description: '',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Cervezas_Alhambra_Jarra_05l.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Cervezas_Alhambra_Jarra_05l.webp',
+        extraImage: 'glasses/img/Spain/Alhambra/extra/Cervezas_Alhambra_Jarra_05l.webp',
+        box: 'P003',
+        price: '0.00'
+    },
+    {
         name: 'Mezquita',
         type: 'Copa 300ml',
         description: '',

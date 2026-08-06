@@ -45,14 +45,5 @@ const glassesBelgium = [
         thumbnail: 'glasses/img/Belgium/thumbnail/Martins_Pale_Ale.webp',
         price: '1.00'
     },
-    {
-        name: 'Gulden Draak',
-        type: '50cl',
-        description: 'CE M17 0846 50cl 33cl 25cl',
-        brewery: 'Gulden Draak',
-        country: 'Belgium',
-        image: 'glasses/img/Belgium/GuldenDraak/Gulden_Draak_500ml_M17.webp',
-        thumbnail: 'glasses/img/Belgium/GuldenDraak/thumbnail/Gulden_Draak_500ml_M17.webp',
-        price: '1.00'
-    },
+
 ];

@@ -7,6 +7,7 @@ const netherlandsBuckler = [
         country: 'Netherlands',
         image: 'glasses/img/Netherlands/Buckler/Buckler.webp',
         thumbnail: 'glasses/img/Netherlands/Buckler/thumbnail/Buckler.webp',
+        box: 'P003',
         price: '0.00'
     },
 ];

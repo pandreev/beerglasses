@@ -23,4 +23,16 @@ const germanyPaulaner = [
         box: 'P001',
         price: '0.00'
     },
+    {
+        name: 'Paulaner Helles',
+        type: 'Goblet 400ml',
+        description: 'Paulaner 0,4l Made in Germany',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_400ml.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_400ml.webp',
+        extraImage: 'glasses/img/Germany/Paulaner/extra/Paulaner_400ml.webp',
+        box: 'P003',
+        price: '0.00'
+    },
 ];

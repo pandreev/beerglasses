@@ -48,6 +48,17 @@ const germanyOthers = [
         price: '3.00'
     },
     {
+        name: 'Bischofshof Original 1649',
+        type: 'Mug 0,5l',
+        description: '',
+        brewery: 'Bischofshof',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Bischofshof/Bischofshof_Mug_05l.webp',
+        thumbnail: 'glasses/img/Germany/Bischofshof/thumbnail/Bischofshof_Mug_05l.webp',
+        box: 'P003',
+        price: '0.00'
+    },
+    {
         name: 'Schneider Weisse',
         type: '0,5l',
         description: "Speziell Wie's Leben SaHm CE M180113 C05",
@@ -117,6 +128,54 @@ const germanyOthers = [
         thumbnail: 'glasses/img/Germany/ThurnUndTaxis/thumbnail/Thurn_und_Taxis.webp',
         extraImage: 'glasses/img/Germany/ThurnUndTaxis/extra/Thurn_und_Taxis.webp',
         box: '008',
+        price: '0.00'
+    },
+    {
+        name: "Grevensteiner",
+        type: '0.3l',
+        description: 'C. & A. Veltins',
+        brewery: "Grevensteiner",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Grevensteiner/Grevensteiner_300ml.webp',
+        thumbnail: 'glasses/img/Germany/Grevensteiner/thumbnail/Grevensteiner_300ml.webp',
+        extraImage: 'glasses/img/Germany/Grevensteiner/extra/Grevensteiner_300ml.webp',
+        box: '008',
+        price: '0.00'
+    },
+    {
+        name: "Maxlrainer",
+        type: '0.3l',
+        description: 'SaHm 0,3l',
+        brewery: "Maxlrainer",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Maxlrainer/Maxlrainer_03l.webp',
+        thumbnail: 'glasses/img/Germany/Maxlrainer/thumbnail/Maxlrainer_03l.webp',
+        extraImage: 'glasses/img/Germany/Maxlrainer/extra/Maxlrainer_03l.webp',
+        box: 'P003',
+        price: '0.00'
+    },
+    {
+        name: "Ettaler Kloster-Biere",
+        type: '0.3l',
+        description: 'M23 0104 F. Herb 03',
+        brewery: "Ettaler",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Ettaler/Ettaler_03l_M23.webp',
+        thumbnail: 'glasses/img/Germany/Ettaler/thumbnail/Ettaler_03l_M23.webp',
+        extraImage: 'glasses/img/Germany/Ettaler/extra/Ettaler_03l_M23.webp',
+        box: 'P003',
+        price: '0.00'
+    },
+    {
+        name: "Ettaler Kloster-Biere",
+        type: '0.5l',
+        description: '',
+        brewery: "Ettaler",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Ettaler/Ettaler_05l_Mug.webp',
+        thumbnail: 'glasses/img/Germany/Ettaler/thumbnail/Ettaler_05l_Mug.webp',
+        extraImage: 'glasses/img/Germany/Ettaler/extra/Ettaler_05l_Mug.webp',
+        box: 'P003',
         price: '0.00'
     },
     {

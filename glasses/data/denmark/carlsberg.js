@@ -23,4 +23,15 @@ const denmarkCarlsberg = [
         box: 'P002',
         price: '2.00'
     },
+    {
+        name: 'Carlsberg',
+        type: '330ml',
+        description: '',
+        brewery: 'Carlsberg',
+        country: 'Denmark',
+        image: 'glasses/img/Denmark/Carlsberg/Carlsberg_330ml_2.webp',
+        thumbnail: 'glasses/img/Denmark/Carlsberg/thumbnail/Carlsberg_330ml_2.webp',
+        box: 'P003',
+        price: '1.00'
+    },
 ];
