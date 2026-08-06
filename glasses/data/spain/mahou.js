@@ -69,6 +69,17 @@ const spainMahou = [
         price: '0.00'
     },
     {
+        name: "Mahou Clásica",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "Mahou",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Clasica_Jarra_400.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Clasica_Jarra_400.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
         name: 'Mahou',
         type: 'Jarra 300ml',
         description: 'Centenario 1890 - 1990',

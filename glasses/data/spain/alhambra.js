@@ -77,4 +77,15 @@ const spainAlhambra = [
         box: '006',
         price: '1.50'
     },
+    {
+        name: 'Alhambra',
+        type: 'Jarra 50cl',
+        description: '',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Alhambra_Jarra_50.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Jarra_50.webp',
+        box: 'P004',
+        price: '2.00'
+    },
 ];

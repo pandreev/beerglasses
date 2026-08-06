@@ -59,4 +59,15 @@ const germanyBenediktiner = [
         box: 'P002',
         price: '0.00'
     },
+    {
+        name: 'Benediktiner Weissbräu',
+        type: '0,5l',
+        description: '',
+        brewery: 'Benediktiner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Benediktiner/Benediktiner_Mug_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Benediktiner/thumbnail/Benediktiner_Mug_500ml.webp',
+        box: 'P004',
+        price: '1.00'
+    },
 ];

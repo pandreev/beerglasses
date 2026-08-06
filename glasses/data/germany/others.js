@@ -187,8 +187,63 @@ const germanyOthers = [
         image: 'glasses/img/Germany/Henninger/Henninger.webp',
         thumbnail: 'glasses/img/Germany/Henninger/thumbnail/Henninger.webp',
         extraImage: 'glasses/img/Germany/Henninger/extra/Henninger.webp',
-        box: '00?',
+        box: 'P003',
         price: '0.50'
+    },
+    {
+        name: "Brinkhoff's",
+        type: 'Glas 0,25l',
+        description: 'BVB 09 UEFA Champions League Sieger 1997',
+        brewery: "Brinkhoff's",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Brinkhoffs/Brinkhoffs_BVB.webp',
+        thumbnail: 'glasses/img/Germany/Brinkhoffs/thumbnail/Brinkhoffs_BVB.webp',
+        box: 'P004',
+        price: '0.50'
+    },
+    {
+        name: 'Der Hirschbräu',
+        type: '0,3l',
+        description: 'Privatbrauerei Höss-Sonthofen Seit 1657',
+        brewery: 'Der Hirschbräu',
+        country: 'Germany',
+        image: 'glasses/img/Germany/DerHirschbrau/Der_Hirschbrau_03l.webp',
+        thumbnail: 'glasses/img/Germany/DerHirschbrau/thumbnail/Der_Hirschbrau_03l.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'König Ludwig Dunkel',
+        type: '0,3l',
+        description: '',
+        brewery: 'König Ludwig',
+        country: 'Germany',
+        image: 'glasses/img/Germany/KoenigLudwig/KoenigLudwig_03l.webp',
+        thumbnail: 'glasses/img/Germany/KoenigLudwig/thumbnail/KoenigLudwig_03l.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Neumarkter Lammsbräu',
+        type: '0,25l',
+        description: '350 Jahre/ 0,25 Rastal',
+        brewery: 'Neumarkter Lammsbräu',
+        country: 'Germany',
+        image: 'glasses/img/Germany/NeumarkterLammsbraeu/Neumarkter_Lammsbraeu_025l.webp',
+        thumbnail: 'glasses/img/Germany/NeumarkterLammsbraeu/thumbnail/Neumarkter_Lammsbraeu_025l.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Karlsberg 1878',
+        type: '0,25l',
+        description: '',
+        brewery: 'Karlsberg',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Karlsberg/Karlsberg_025l.webp',
+        thumbnail: 'glasses/img/Germany/Karlsberg/thumbnail/Karlsberg_025l.webp',
+        box: 'P004',
+        price: '1.00'
     },
     {
         name: 'Clausthaler',

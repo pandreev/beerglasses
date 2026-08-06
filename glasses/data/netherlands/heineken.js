@@ -7,6 +7,7 @@ const netherlandsHeineken = [
         country: 'Netherlands',
         image: 'glasses/img/Netherlands/Heineken/Heineken_Madrid_250ml.webp',
         thumbnail: 'glasses/img/Netherlands/Heineken/thumbnail/Heineken_Madrid_250ml.webp',
+        box: 'P004',
         price: '0.00'
     },
     {

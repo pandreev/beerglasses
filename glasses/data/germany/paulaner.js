@@ -35,4 +35,37 @@ const germanyPaulaner = [
         box: 'P003',
         price: '0.00'
     },
+    {
+        name: 'Paulaner Oktoberfest',
+        type: '0,5l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_500ml.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Paulaner Oktoberfest Munich',
+        type: '0,5l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_Munich_500ml.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_Munich_500ml.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Paulaner Salvator',
+        type: 'Mug 0,3l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_Salvator_300ml.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Salvator_300ml.webp',
+        box: 'P004',
+        price: '0.00'
+    },
 ];

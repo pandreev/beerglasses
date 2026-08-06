@@ -122,13 +122,57 @@ const spainCruzcampo = [
     },
     {
         name: 'Cruzcampo',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_500ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_500ml.webp',
+        box: 'P004',
+        price: '0.00'
+    },
+    {
+        name: "Cruzcampo",
+        type: 'Jarra 400ml',
+        description: 'Cien Maneras de disfrutar tu Cruzcampo. 100 Montaditos',
+        brewery: "Cruzcampo",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Jarra_100mon.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Jarra_100mon.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: "Cruzcampo",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "Cruzcampo",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Jarra_400.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Jarra_400.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: "Cruzcampo Cervezas",
+        type: 'Vaso 300ml',
+        description: '',
+        brewery: "Cruzcampo",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Cervezas_Vaso_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Cervezas_Vaso_300ml.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
         type: 'Copa 200ml',
         description: '',
         brewery: 'Cruzcampo',
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Copa_200ml.webp',
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Copa_200ml.webp',
-        box: '00?',
+        box: 'P004',
         price: '0.00'
     },
     {

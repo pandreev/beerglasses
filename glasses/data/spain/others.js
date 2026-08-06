@@ -64,4 +64,26 @@ const spainOthers = [
         box: '008',
         price: '1.00'
     },
+    {
+        name: "Môme",
+        type: '300ml',
+        description: '',
+        brewery: "Transgressive Beers",
+        country: 'Spain',
+        image: 'glasses/img/Spain/TransgressiveBeers/Mome_300ml.webp',
+        thumbnail: 'glasses/img/Spain/TransgressiveBeers/thumbnail/Mome_300ml.webp',
+        box: 'P004',
+        price: '0.00'
+    },
+    {
+        name: 'Edge Brewing',
+        type: 'Vaso 330ml',
+        description: 'Proudly Brewed in Barcelona',
+        brewery: 'Edge Brewing',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Edge/Edge_Brewing.webp',
+        thumbnail: 'glasses/img/Spain/Edge/thumbnail/Edge_Brewing.webp',
+        box: 'P004',
+        price: '1.00'
+    },
 ];

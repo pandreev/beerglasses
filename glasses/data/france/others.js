@@ -23,4 +23,15 @@ const franceOthers = [
         box: '002',
         price: '1.00'
     },
+    {
+        name: 'Meteor',
+        type: '250ml',
+        description: '5/20',
+        brewery: 'Brasserie Meteor',
+        country: 'France',
+        image: 'glasses/img/France/Meteor/Meteor_250ml.webp',
+        thumbnail: 'glasses/img/France/Meteor/thumbnail/Meteor_250ml.webp',
+        box: 'P004',
+        price: '1.00'
+    },
 ];

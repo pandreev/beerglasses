@@ -12,16 +12,6 @@ const glassesSpain = [
     },
     {
         name: 'Alhambra',
-        type: 'Jarra 500ml',
-        description: '',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_Jarra_500.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_500.webp',
-        price: '2.00'
-    },
-    {
-        name: 'Alhambra',
         type: 'Jarra 400ml',
         description: 'Perla Dorada Clase Extra, La Alhambra S.A. fabrica de cerveza, Granada',
         brewery: 'Alhambra',
@@ -49,16 +39,6 @@ const glassesSpain = [
         image: 'glasses/img/Spain/San_Miguel_Jarra_500_ceramic.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_500_ceramic.webp',
         price: '1.00'
-    },
-    {
-        name: 'Cruzcampo',
-        type: 'Jarra 500ml',
-        description: '',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_500ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_500ml.webp',
-        price: '0.00'
     },
     {
         name: 'Dorada Pilsen',
@@ -92,16 +72,6 @@ const glassesSpain = [
     },
     {
         name: 'Amstel Cerveza',
-        type: 'Vaso 330ml',
-        description: '',
-        brewery: 'Amstel Cerveza',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Amstel_Cerveza.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Amstel_Cerveza.webp',
-        price: '2.00'
-    },
-    {
-        name: 'Amstel Cerveza',
         type: 'Vaso 200ml',
         description: 'Premium Quality',
         brewery: 'Amstel Cerveza',
@@ -118,16 +88,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Cerveses_La_Pirata_330ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Cerveses_La_Pirata_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Estrella Galicia',
-        type: 'Vaso 330ml',
-        description: 'Fábrica de cervezas',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_Fabrica.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Fabrica.webp',
         price: '1.00'
     },
     {
@@ -158,46 +118,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Four_Lions.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Four_Lions.webp',
-        price: '1.00'
-    },
-    {
-        name: "Môme",
-        type: '300ml',
-        description: '',
-        brewery: "Transgressive Beers",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mome_300ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mome_300ml.webp',
-        price: '0.00'
-    },
-    {
-        name: "Cruzcampo",
-        type: 'Jarra 400ml',
-        description: 'Cien Maneras de disfrutar tu Cruzcampo. 100 Montaditos',
-        brewery: "Cruzcampo",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Jarra_100mon.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Jarra_100mon.webp',
-        price: '1.00'
-    },
-    {
-        name: "Cruzcampo",
-        type: 'Jarra 400ml',
-        description: '',
-        brewery: "Cruzcampo",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo_Jarra_400.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cruzcampo_Jarra_400.webp',
-        price: '1.00'
-    },
-    {
-        name: "Mahou Clásica",
-        type: 'Jarra 400ml',
-        description: '',
-        brewery: "Mahou",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou_Clasica_Jarra_400.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou_Clasica_Jarra_400.webp',
         price: '1.00'
     },
     {
@@ -278,16 +198,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/La_Quince_Brew_Wild.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/La_Quince_Brew_Wild.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Edge Brewing',
-        type: 'Vaso 330ml',
-        description: 'Proudly Brewed in Barcelona',
-        brewery: 'Edge Brewing',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Edge_Brewing.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Edge_Brewing.webp',
         price: '1.00'
     },
 

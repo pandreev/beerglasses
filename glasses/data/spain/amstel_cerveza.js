@@ -21,4 +21,15 @@ const spainAmstelCerveza = [
         box: 'P003',
         price: '1.00'
     },
+    {
+        name: 'Amstel Cerveza',
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/AmstelCerveza/Amstel_Cerveza_Jarra_400ml.webp',
+        thumbnail: 'glasses/img/Spain/AmstelCerveza/thumbnail/Amstel_Cerveza_Jarra_400ml.webp',
+        box: 'P004',
+        price: '2.00'
+    },
 ];

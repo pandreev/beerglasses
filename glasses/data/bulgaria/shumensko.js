@@ -43,4 +43,15 @@ const bulgariaShumensko = [
         box: '004',
         price: '0.00'
     },
+    {
+        name: "Shumensko",
+        type: 'Mug 0.3l',
+        description: 'Шуменско',
+        brewery: "Shumensko",
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Shumensko/Shumensko_Mug_03l.webp',
+        thumbnail: 'glasses/img/Bulgaria/Shumensko/thumbnail/Shumensko_Mug_03l.webp',
+        box: 'P004',
+        price: '0.00'
+    },
 ];

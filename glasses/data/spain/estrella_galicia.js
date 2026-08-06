@@ -132,6 +132,17 @@ const spainEstrellaGalicia = [
     },
     {
         name: 'Estrella Galicia',
+        type: 'Vaso 330ml',
+        description: 'Fábrica de cervezas',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Fabrica.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Fabrica.webp',
+        box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia',
         type: 'Copa 30cl',
         description: 'Xacobeo 2021',
         brewery: 'Estrella Galicia',

@@ -20,26 +20,6 @@ const glassesGermany = [
         price: '5.00'
     },
     {
-        name: 'Paulaner Oktoberfest',
-        type: '0,5l',
-        description: '',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Oktoberfest_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Oktoberfest_500ml.webp',
-        price: '5.00'
-    },
-    {
-        name: 'Paulaner Oktoberfest Munich',
-        type: '0,5l',
-        description: '',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Oktoberfest_Munich_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Oktoberfest_Munich_500ml.webp',
-        price: '5.00'
-    },
-    {
         name: 'Paulaner',
         type: '0,3l',
         description: '0,3l rastral CE M15 0113',
@@ -48,16 +28,6 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Paulaner_03l.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_03l.webp',
         price: '5.00'
-    },
-    {
-        name: 'Paulaner Salvator',
-        type: 'Mug 0,3l',
-        description: '',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_Salvator_300ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_Salvator_300ml.webp',
-        price: '0.00'
     },
     {
         name: 'Hofbräuhaus',
@@ -118,36 +88,6 @@ const glassesGermany = [
         image: 'glasses/img/Germany/Feldschloesschen_Original.webp',
         thumbnail: 'glasses/img/Germany/thumbnail/Feldschloesschen_Original.webp',
         price: '0.50'
-    },
-    {
-        name: "Brinkhoff's",
-        type: 'Glas 250ml',
-        description: 'BVB 09 UEFA Champions League Sieger 1997',
-        brewery: "Brinkhoff's",
-        country: 'Germany',
-        image: 'glasses/img/Germany/Brinkhoffs_BVB.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Brinkhoffs_BVB.webp',
-        price: '0.50'
-    },
-    {
-        name: 'Benediktiner Weissbräu',
-        type: '0,5l',
-        description: '',
-        brewery: 'Benediktiner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Benediktiner_Mug_500ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Benediktiner_Mug_500ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Der Hirschbräu',
-        type: '0,3l',
-        description: 'Privatbrauerei Höss-Sonthofen Seit 1657',
-        brewery: 'Der Hirschbräu',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Der_Hirschbrau.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Der_Hirschbrau.webp',
-        price: '1.00'
     },
     {
         name: "Ayinger",

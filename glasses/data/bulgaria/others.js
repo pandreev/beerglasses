@@ -10,7 +10,6 @@ const bulgariaOthers = [
         box: 'P002',
         price: '2.00'
     },
-
     {
         name: 'Stolichno Weiss',
         type: 'Glass 0,3l',
@@ -22,5 +21,16 @@ const bulgariaOthers = [
         extraImage: 'glasses/img/Bulgaria/Stolichno/extra/Stolichno_Weiss_03l.webp',
         box: 'P003',
         price: '2.00'
+    },
+    {
+        name: 'Bolyarka Svetlo',
+        type: 'Mug 0,5l',
+        description: 'Болярка Светло',
+        brewery: 'Bolyarka',
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Bolyarka/Bolyarka_Svetlo_05l.webp',
+        thumbnail: 'glasses/img/Bulgaria/Bolyarka/thumbnail/Bolyarka_Svetlo_05l.webp',
+        box: 'P004',
+        price: '1.00'
     },
 ];
