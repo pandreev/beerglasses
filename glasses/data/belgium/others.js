@@ -245,6 +245,30 @@ const belgiumOthers = [
         price: '1.00'
     },
     {
+        name: "Vedett Extra",
+        type: '33cl',
+        description: 'CE M18 0846',
+        brewery: "Vedett",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/Vedett/Vedett_Extra.webp',
+        thumbnail: 'glasses/img/Belgium/Vedett/thumbnail/Vedett_Extra.webp',
+        extraImage: 'glasses/img/Belgium/Vedett/extra/Vedett_Extra.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: "Martin's Pale Ale",
+        type: '33cl',
+        description: 'CE M11 0846',
+        brewery: "Martin's Pale Ale",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/MartinsPaleAle/Martins_Pale_Ale_M11.webp',
+        thumbnail: 'glasses/img/Belgium/MartinsPaleAle/thumbnail/Martins_Pale_Ale_M11.webp',
+        extraImage: 'glasses/img/Belgium/MartinsPaleAle/extra/Martins_Pale_Ale_M11.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
         name: "Maredsous",
         type: '330ml',
         description: '',

@@ -141,16 +141,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: "Guineu",
-        type: 'Vaso 300ml',
-        description: 'Craft Beer',
-        brewery: "Cervesa Guineu",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cervesa_Guineu_300ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cervesa_Guineu_300ml.webp',
-        price: '1.00'
-    },
-    {
         name: "Mahou Cervezas",
         type: 'Jarra 200ml',
         description: '',
@@ -188,16 +178,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Fabrica_Maravillas_200ml.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Fabrica_Maravillas_200ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'La Quince Brew Wild',
-        type: 'Vaso 400ml',
-        description: '',
-        brewery: 'La Quince',
-        country: 'Spain',
-        image: 'glasses/img/Spain/La_Quince_Brew_Wild.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/La_Quince_Brew_Wild.webp',
         price: '1.00'
     },
 

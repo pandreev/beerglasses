@@ -86,4 +86,26 @@ const spainOthers = [
         box: 'P004',
         price: '1.00'
     },
+    {
+        name: "Guineu",
+        type: 'Vaso 300ml',
+        description: 'Craft Beer',
+        brewery: "Cervesa Guineu",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Guineu/Cervesa_Guineu_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Guineu/thumbnail/Cervesa_Guineu_300ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'La Quince Brew Wild',
+        type: 'Vaso 400ml',
+        description: '',
+        brewery: 'La Quince',
+        country: 'Spain',
+        image: 'glasses/img/Spain/LaQuince/La_Quince_Brew_Wild.webp',
+        thumbnail: 'glasses/img/Spain/LaQuince/thumbnail/La_Quince_Brew_Wild.webp',
+        box: 'P005',
+        price: '1.00'
+    },
 ];
