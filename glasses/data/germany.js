@@ -20,16 +20,6 @@ const glassesGermany = [
         price: '5.00'
     },
     {
-        name: 'Paulaner',
-        type: '0,3l',
-        description: '0,3l rastral CE M15 0113',
-        brewery: 'Paulaner',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Paulaner_03l.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Paulaner_03l.webp',
-        price: '5.00'
-    },
-    {
         name: 'Hofbräuhaus',
         type: 'Maßkrug 1l',
         description: '',

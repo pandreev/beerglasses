@@ -68,4 +68,16 @@ const germanyPaulaner = [
         box: 'P004',
         price: '0.00'
     },
+    {
+        name: 'Paulaner',
+        type: '0,3l',
+        description: '0,3l rastral CE M15 0113',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_03l_M15.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_03l_M15.webp',
+        extraImage: 'glasses/img/Germany/Paulaner/extra/Paulaner_03l_M15.webp',
+        box: 'P004',
+        price: '5.00'
+    },
 ];
