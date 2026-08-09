@@ -1,5 +1,5 @@
 const breweries = {
-    "Foster's": "breweries/img/Australia/Fosters.webp",
+    // region Belgium
     "Abbaye d'Aulne": "breweries/img/Belgium/Abbaye_dAulne.webp",
     "Affligem": "breweries/img/Belgium/Affligem.webp",
     "Belle-Vue": "breweries/img/Belgium/Belle_Vue.webp",
@@ -28,88 +28,143 @@ const breweries = {
     "Vedett": "breweries/img/Belgium/Vedett.webp",
     "Leffe": "breweries/img/Belgium/Leffe.webp",
     "Westvleteren": "breweries/img/Belgium/Westvleteren.webp",
+    // endregion
+    // region Bulgaria
+    "Bolyarka": "breweries/img/Bulgaria/Bolyarka.webp",
     "Gaida": "breweries/img/Bulgaria/Gaida.webp",
+    "Kamenitza": "breweries/img/Bulgaria/Kamenitza.webp",
+    "Shumensko": "breweries/img/Bulgaria/Shumensko.webp",
+    "Stolichno": "breweries/img/Bulgaria/Stolichno.webp",
+    "Zagorka": "breweries/img/Bulgaria/Zagorka.webp",
+    // endregion
+    // region Czechia
+    "Birell": "breweries/img/Czechia/Birell.webp",
+    "Budweiser Budvar": "breweries/img/Czechia/Budweiser_Budvar.webp",
     "Pilsner Urquell": "breweries/img/Czechia/Pilsner_urquell.webp",
     "Staropramen": "breweries/img/Czechia/Staropramen.webp",
-    "Budweiser Budvar": "breweries/img/Czechia/Budweiser_Budvar.webp",
+    // endregion
+    // region Denmark
     "Carlsberg": "breweries/img/Denmark/Carlsberg.webp",
-    "Tuborg": "breweries/img/Denmark/Tuborg.webp",
     "Mikkeller": "breweries/img/Denmark/Mikkeller.webp",
+    "Tuborg": "breweries/img/Denmark/Tuborg.webp",
+    // endregion
+    // region England
+    "Carling": "breweries/img/England/Carling.webp",
     "John Smith's": "breweries/img/England/John_Smiths.webp",
     "Newcastle Brown Ale": "breweries/img/England/Newcastle_Brown_Ale.webp",
+    // endregion
+    // region France
+    "Brasserie Meteor": "breweries/img/France/Brasserie_Meteor.webp",
     "Kronenbourg": "breweries/img/France/Kronenbourg.webp",
     "La Goudale": "breweries/img/France/La_Goudale.webp",
     "Mützig": "breweries/img/France/Mutzig.webp",
-    "Paulaner": "breweries/img/Germany/Paulaner.webp",
-    "Franziskaner": "breweries/img/Germany/Franziskaner.webp",
-    "Hofbräuhaus": "breweries/img/Germany/Hofbrauhaus.webp",
-    "Beck's": "breweries/img/Germany/Becks.webp",
-    "Camba": "breweries/img/Germany/Camba.webp",
-    "Erdinger": "breweries/img/Germany/Erdinger.webp",
-    "Kaltenberg": "breweries/img/Germany/Kaltenberg.webp",
-    "Bischofshof": "breweries/img/Germany/Bischofshof.webp",
-    "Veltins": "breweries/img/Germany/Veltins.webp",
+    // endregion
+    // region Germany
     "Alpirsbacher": "breweries/img/Germany/Alpirsbacher.webp",
     "Ayinger": "breweries/img/Germany/Ayinger.webp",
+    "Beck's": "breweries/img/Germany/Becks.webp",
     "Benediktiner": "breweries/img/Germany/Benediktiner.webp",
-    "Clausthaler": "breweries/img/Germany/Clausthaler.webp",
-    "Kuchlbauer Weissbierbrauerei": "breweries/img/Germany/Kuchlbauer_Weissbierbrauerei.webp",
-    "Schneider Weisse": "breweries/img/Germany/Schneider_Weisse.webp",
-    "Dom Kölsch": "breweries/img/Germany/Dom_Kolsch.webp",
-    "Der Hirschbräu": "breweries/img/Germany/Der_Hirschbraeu.webp",
-    "Garde Kölsch": "breweries/img/Germany/Garde_Koelsch.webp",
-    "Reissdorf Kölsch": "breweries/img/Germany/Reissdorf_Kolsch.webp",
-    "Gereons Kölsch": "breweries/img/Germany/Gereons_Koelsch.webp",
-    "Schlappeseppel": "breweries/img/Germany/Schlappeseppel.webp",
-    "Haake Beck": "breweries/img/Germany/Haake_Beck.webp",
-    "Feldschlösschen": "breweries/img/Germany/Feldschloesschen.webp",
-    "Schöfferhofer": "breweries/img/Germany/Schoefferhofer.webp",
-    "Maisel's Weisse": "breweries/img/Germany/MaiselsWeisse.webp",
-    "Grevensteiner": "breweries/img/Germany/Grevensteiner.webp",
-    "Pils 2000": "breweries/img/Germany/Pils_2000.webp",
+    "Bischofshof": "breweries/img/Germany/Bischofshof.webp",
     "Brinkhoff's": "breweries/img/Germany/Brinkhoffs.webp",
+    "Camba": "breweries/img/Germany/Camba.webp",
+    "Clausthaler": "breweries/img/Germany/Clausthaler.webp",
+    "Der Hirschbräu": "breweries/img/Germany/Der_Hirschbraeu.webp",
+    "Dom Kölsch": "breweries/img/Germany/Dom_Kolsch.webp",
+    "Erdinger": "breweries/img/Germany/Erdinger.webp",
+    "Ettaler": "breweries/img/Germany/Ettaler.webp",
+    "Haake Beck": "breweries/img/Germany/Haake_Beck.webp",
     "Henninger": "breweries/img/Germany/Henninger.webp",
+    "Hofbräuhaus": "breweries/img/Germany/Hofbrauhaus.webp",
+    "Feldschlösschen": "breweries/img/Germany/Feldschloesschen.webp",
+    "Franziskaner": "breweries/img/Germany/Franziskaner.webp",
+    "Garde Kölsch": "breweries/img/Germany/Garde_Koelsch.webp",
+    "Gereons Kölsch": "breweries/img/Germany/Gereons_Koelsch.webp",
+    "Grevensteiner": "breweries/img/Germany/Grevensteiner.webp",
+    "Kaltenberg": "breweries/img/Germany/Kaltenberg.webp",
+    "Karlsberg": "breweries/img/Germany/Karlsberg.webp",
+    "König Ludwig": "breweries/img/Germany/Koenig_Ludwig.webp",
+    "Kuchlbauer Weissbierbrauerei": "breweries/img/Germany/Kuchlbauer_Weissbierbrauerei.webp",
+    "Maisel's Weisse": "breweries/img/Germany/MaiselsWeisse.webp",
+    "Maxlrainer": "breweries/img/Germany/Maxlrainer.webp",
+    "Neumarkter Lammsbräu": "breweries/img/Germany/Neumarkter_Lammsbraeu.webp",
+    "Paulaner": "breweries/img/Germany/Paulaner.webp",
+    "Pils 2000": "breweries/img/Germany/Pils_2000.webp",
+    "Reissdorf Kölsch": "breweries/img/Germany/Reissdorf_Kolsch.webp",
+    "Schneider Weisse": "breweries/img/Germany/Schneider_Weisse.webp",
+    "Schlappeseppel": "breweries/img/Germany/Schlappeseppel.webp",
+    "Schöfferhofer": "breweries/img/Germany/Schoefferhofer.webp",
+    "Thurn und Taxis": "breweries/img/Germany/Thurn_und_Taxis.webp",
+    "Veltins": "breweries/img/Germany/Veltins.webp",
     "Weihenstephan": "breweries/img/Germany/Weihenstephan.webp",
-    "Kilkenny": "breweries/img/Ireland/Kilkenny.webp",
+    // endregion
+    // region Greece
+    "Mythos": "breweries/img/Greece/Mythos.webp",
+    // endregion
+    // region Ireland
     "Guinness": "breweries/img/Ireland/Guinness.webp",
+    "Kilkenny": "breweries/img/Ireland/Kilkenny.webp",
     "Murphy's": "breweries/img/Ireland/Murphys.webp",
     "Smithwick's": "breweries/img/Ireland/Smithwicks.webp",
+    // endregion
+    // region Italy
+    "Ichnusa": "breweries/img/Italy/Ichnusa.webp",
+    "Nastro Azzurro": "breweries/img/Italy/Nastro_Azzurro.webp",
+    // endregion
+    // region Lithuania
     "Švyturys": "breweries/img/Lithuania/Svyturys.webp",
+    // endregion
+    // region Netherlands
     "Amstel": "breweries/img/Netherlands/Amstel.webp",
-    "Heineken": "breweries/img/Netherlands/Heineken.webp",
-    "La Trappe": "breweries/img/Netherlands/La_Trappe.webp",
     "Bavaria": "breweries/img/Netherlands/Bavaria.webp",
     "Buckler": "breweries/img/Netherlands/Buckler.webp",
+    "Heineken": "breweries/img/Netherlands/Heineken.webp",
+    "La Trappe": "breweries/img/Netherlands/La_Trappe.webp",
+    // endregion
+    // region Portugal
     "Super Bock": "breweries/img/Portugal/SuperBock.webp",
+    // endregion
+    // region Scotland
+    "Brewdog": "breweries/img/Scotland/Brewdog.webp",
+    "Skol": "breweries/img/Scotland/Skol.webp",
+    "Tennent's": "breweries/img/Scotland/Tennents.webp",
+    // endregion
+    // region Spain
+    "3Monos": "breweries/img/Spain/3Monos.webp",
     "Alhambra": "breweries/img/Spain/Alhambra.webp",
-    "Estrella Galicia": "breweries/img/Spain/Estrella_Galicia.webp",
-    "Cruzcampo": "breweries/img/Spain/Cruzcampo.webp",
-    "El Aguila": "breweries/img/Spain/ElAguila.webp",
-    "Victoria Malaga": "breweries/img/Spain/Victoria.webp",
-    "Dorada": "breweries/img/Spain/Dorada.webp",
-    "San Miguel": "breweries/img/Spain/San_Miguel.webp",
-    "Euro Pils": "breweries/img/Spain/EuroPils.webp",
-    "Arriaca": "breweries/img/Spain/Arriaca.webp",
-    "Mahou": "breweries/img/Spain/Mahou.webp",
     "Ambar": "breweries/img/Spain/Ambar.webp",
     "Amstel Cerveza": "breweries/img/Spain/Amstel_Cerveza.webp",
-    "3Monos": "breweries/img/Spain/3Monos.webp",
-    "Legado de Yuste": "breweries/img/Spain/Legado_de_Yuste.webp",
-    "La Sagra": "breweries/img/Spain/LaSagra.webp",
-    "Edge Brewing": "breweries/img/Spain/Edge_Brewing.webp",
-    "Fábrica Maravillas": "breweries/img/Spain/Fabrica_Maravillas.webp",
-    "La Quince": "breweries/img/Spain/La_Quince.webp",
+    "Arriaca": "breweries/img/Spain/Arriaca.webp",
     "Damm": "breweries/img/Spain/Damm.webp",
-    "Cerveses La Pirata": "breweries/img/Spain/Cerveses_La_Pirata.webp",
-    "Four Lions Brewery": "breweries/img/Spain/Four_Lions_Brewery.webp",
-    "Transgressive Beers": "breweries/img/Spain/Transgressive_Beers.webp",
+    "Dorada": "breweries/img/Spain/Dorada.webp",
+    "Estrella Galicia": "breweries/img/Spain/Estrella_Galicia.webp",
     "Cervesa Guineu": "breweries/img/Spain/Cervesa_Guineu.webp",
+    "Cerveses La Pirata": "breweries/img/Spain/Cerveses_La_Pirata.webp",
+    "Cruzcampo": "breweries/img/Spain/Cruzcampo.webp",
+    "Edge Brewing": "breweries/img/Spain/Edge_Brewing.webp",
+    "El Aguila": "breweries/img/Spain/ElAguila.webp",
+    "Euro Pils": "breweries/img/Spain/EuroPils.webp",
+    "Fábrica Maravillas": "breweries/img/Spain/Fabrica_Maravillas.webp",
+    "Four Lions Brewery": "breweries/img/Spain/Four_Lions_Brewery.webp",
+    "La Quince": "breweries/img/Spain/La_Quince.webp",
+    "La Sagra": "breweries/img/Spain/LaSagra.webp",
+    "Legado de Yuste": "breweries/img/Spain/Legado_de_Yuste.webp",
+    "Mahou": "breweries/img/Spain/Mahou.webp",
+    "San Miguel": "breweries/img/Spain/San_Miguel.webp",
+    "Transgressive Beers": "breweries/img/Spain/Transgressive_Beers.webp",
+    "Victoria Malaga": "breweries/img/Spain/Victoria.webp",
+    // endregion
+    // region Sweden
     "Spendrup's": "breweries/img/Sweden/Spendrups.webp",
-    "Skol": "breweries/img/Scotland/Skol.webp",
-    "Brewdog": "breweries/img/Scotland/Brewdog.webp",
-    "Tennent's": "breweries/img/Scotland/Tennents.webp",
+    // endregion
+    // region Usa
     "Budweiser": "breweries/img/Usa/Budweiser.webp",
     "Flying Dog Brewery": "breweries/img/Usa/Flying_Dog_Brewery.webp",
-    "Sapporo": "breweries/img/Japan/Sapporo.webp",
+    //endregion
+    // region Japan
     "Kirin": "breweries/img/Japan/Kirin.webp",
+    "Sapporo": "breweries/img/Japan/Sapporo.webp",
+    // endregion
+    // region Australia
+    "Foster's": "breweries/img/Australia/Fosters.webp",
+    // endregion
 };
