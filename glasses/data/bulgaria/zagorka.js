@@ -11,6 +11,17 @@ const bulgariaZagorka = [
         price: '0.00'
     },
     {
+        name: "Zagorka Pivo",
+        type: '300ml',
+        description: '',
+        brewery: "Zagorka",
+        country: 'Bulgaria',
+        image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Pivo_300ml.webp',
+        thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Pivo_300ml.webp',
+        box: 'P005',
+        price: '0.00'
+    },
+    {
         name: "Zagorka",
         type: '500ml',
         description: '',

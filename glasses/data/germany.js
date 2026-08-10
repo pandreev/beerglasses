@@ -70,16 +70,6 @@ const glassesGermany = [
         price: '0.50'
     },
     {
-        name: 'Feldschlösschen Original',
-        type: 'Glas 200ml',
-        description: '',
-        brewery: 'Feldschlösschen',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Feldschloesschen_Original.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Feldschloesschen_Original.webp',
-        price: '0.50'
-    },
-    {
         name: "Ayinger",
         type: 'Maßkrug 1l',
         description: '',

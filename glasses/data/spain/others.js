@@ -17,6 +17,7 @@ const spainOthers = [
         country: 'Spain',
         image: 'glasses/img/Spain/LaSagra/La_Sagra.webp',
         thumbnail: 'glasses/img/Spain/LaSagra/thumbnail/La_Sagra.webp',
+        box: 'P005',
         price: '0.00'
     },
     {
@@ -62,6 +63,17 @@ const spainOthers = [
         image: 'glasses/img/Spain/LaPirata/Cerveses_La_Pirata_250ml.webp',
         thumbnail: 'glasses/img/Spain/LaPirata/thumbnail/Cerveses_La_Pirata_250ml.webp',
         box: '008',
+        price: '1.00'
+    },
+    {
+        name: 'Cerveses La Pirata',
+        type: 'Vaso 330ml',
+        description: '',
+        brewery: 'Cerveses La Pirata',
+        country: 'Spain',
+        image: 'glasses/img/Spain/LaPirata/Cerveses_La_Pirata_330ml.webp',
+        thumbnail: 'glasses/img/Spain/LaPirata/thumbnail/Cerveses_La_Pirata_330ml.webp',
+        box: 'P005',
         price: '1.00'
     },
     {

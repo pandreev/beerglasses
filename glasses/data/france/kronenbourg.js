@@ -17,8 +17,10 @@ const franceKronenbourg = [
         description: 'Brasseur depuis 1664',
         brewery: 'Kronenbourg',
         country: 'France',
-        image: 'glasses/img/France/Kronenbourg_250ml.webp',
-        thumbnail: 'glasses/img/France/thumbnail/Kronenbourg_250ml.webp',
+        image: 'glasses/img/France/Kronenbourg/Kronenbourg_250ml.webp',
+        thumbnail: 'glasses/img/France/Kronenbourg/thumbnail/Kronenbourg_250ml.webp',
+        extraImage: 'glasses/img/France/Kronenbourg/extra/Kronenbourg_250ml.webp',
+        box: 'P005',
         price: '1.00'
     },
     {

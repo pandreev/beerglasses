@@ -282,6 +282,18 @@ const germanyOthers = [
         price: '0.00'
     },
     {
+        name: 'Feldschlösschen Original',
+        type: 'Glas 2dl',
+        description: '',
+        brewery: 'Feldschlösschen',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Feldschloesschen/Feldschloesschen_Original.webp',
+        thumbnail: 'glasses/img/Germany/Feldschloesschen/thumbnail/Feldschloesschen_Original.webp',
+        extraImage: 'glasses/img/Germany/Feldschloesschen/extra/Feldschloesschen_Original.webp',
+        box: 'P005',
+        price: '0.50'
+    },
+    {
         name: 'Veltins Pils',
         type: 'Glas 400ml',
         description: '',

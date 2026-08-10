@@ -81,26 +81,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: 'Cerveses La Pirata',
-        type: 'Vaso 330ml',
-        description: '',
-        brewery: 'Cerveses La Pirata',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cerveses_La_Pirata_330ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Cerveses_La_Pirata_330ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Estrella del Camino',
-        type: 'Vaso 330ml',
-        description: 'X21/22 Nueva Estrella con alma peregrina',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_Camino.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Camino.webp',
-        price: '1.00'
-    },
-    {
         name: 'Sagra',
         type: 'Frasco 300ml',
         description: 'Burro de Sancho',

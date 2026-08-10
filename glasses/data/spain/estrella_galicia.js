@@ -92,6 +92,7 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_2_200ml.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_2_200ml.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_2_200ml.webp',
+        box: 'P005',
         price: '1.00'
     },
     {
@@ -139,6 +140,18 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Fabrica.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Fabrica.webp',
         box: 'P004',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella del Camino',
+        type: 'Vaso 330ml',
+        description: 'X21/22 Nueva Estrella con alma peregrina',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Camino.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Camino.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Camino.webp',
+        box: 'P005',
         price: '1.00'
     },
     {
