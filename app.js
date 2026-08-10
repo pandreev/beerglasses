@@ -233,8 +233,21 @@ function renderBreweryGlasses(country, brewery) {
     section.className = 'country-section';
     section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${translations[currentLang].countries[country] || country} - <span class="brewery-name">${brewery}</span></div>`;
 
+    const searchContainer = document.createElement('div');
+    searchContainer.className = 'brewery-search-container';
+    const searchInput = document.createElement('input');
+    searchInput.type = 'text';
+    searchInput.className = 'brewery-search';
+    searchInput.autocomplete = 'off';
+    searchInput.placeholder = translations[currentLang].brewerySearchPlaceholder;
+    searchContainer.appendChild(searchInput);
+    section.appendChild(searchContainer);
+
     const list = document.createElement('div');
     list.className = 'glass-list';
+    section.appendChild(list);
+    collectionDiv.appendChild(section);
+
     const sortedGlasses = grouped[country]
         .filter(glass => glass.brewery === brewery)
         .sort((a, b) => {
@@ -242,20 +255,101 @@ function renderBreweryGlasses(country, brewery) {
             if (nameCompare !== 0) return nameCompare;
             return a.type.localeCompare(b.type);
         });
-    sortedGlasses.forEach(glass => {
-        const card = document.createElement('div');
-        card.className = 'glass-card';
-        card.innerHTML = `
-        <img src="${glass.thumbnail}" alt="${glass.name}">
-        <div class="glass-name">${glass.name}</div>
-        <div class="description">${glass.type}</div>
-    `;
-        card.onclick = () => showGlassModal(glass);
-        list.appendChild(card);
-    });
+
+    function renderBreweryList(query) {
+        list.innerHTML = '';
+        const q = query.trim().toLowerCase();
+        const filtered = q ? sortedGlasses.filter(glass => getSearchableText(glass).includes(q)) : sortedGlasses;
+        if (filtered.length === 0) {
+            const empty = document.createElement('p');
+            empty.className = 'no-results';
+            empty.textContent = translations[currentLang].noResults;
+            list.appendChild(empty);
+            return;
+        }
+        filtered.forEach(glass => {
+            const card = document.createElement('div');
+            card.className = 'glass-card';
+            card.innerHTML = `
+            <img src="${glass.thumbnail}" alt="${glass.name}">
+            <div class="glass-name">${glass.name}</div>
+            <div class="description">${glass.type}</div>
+        `;
+            card.onclick = () => showGlassModal(glass);
+            list.appendChild(card);
+        });
+    }
+    searchInput.addEventListener('input', (e) => renderBreweryList(e.target.value));
+    renderBreweryList('');
+}
+
+// --- GLOBAL SEARCH ---
+function getSearchableText(glass) {
+    return [glass.name, glass.brewery, glass.country, glass.type, glass.description]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase();
+}
+
+function renderSearchResults(query) {
+    document.querySelector('.intro').style.display = 'none';
+    collectionDiv.innerHTML = '';
+
+    const backBtn = document.createElement('button');
+    backBtn.textContent = translations[currentLang].backToCountries;
+    backBtn.className = 'back-btn';
+    backBtn.onclick = () => {
+        const searchInput = document.getElementById('global-search');
+        searchInput.value = '';
+        handleURLChange();
+    };
+    collectionDiv.appendChild(backBtn);
+
+    const q = query.trim().toLowerCase();
+    const results = beerGlasses
+        .filter(glass => getSearchableText(glass).includes(q))
+        .sort((a, b) => a.name.localeCompare(b.name));
+
+    const section = document.createElement('div');
+    section.className = 'country-section';
+    section.innerHTML = `<div class="country-title">${translations[currentLang].searchResultsTitle} "${query}" (${results.length})</div>`;
+
+    const list = document.createElement('div');
+    list.className = 'glass-list';
+
+    if (results.length === 0) {
+        const empty = document.createElement('p');
+        empty.className = 'no-results';
+        empty.textContent = translations[currentLang].noResults;
+        list.appendChild(empty);
+    } else {
+        results.forEach(glass => {
+            const card = document.createElement('div');
+            card.className = 'glass-card';
+            const countryLabel = translations[currentLang].countries[glass.country] || glass.country;
+            card.innerHTML = `
+            <img src="${glass.thumbnail}" alt="${glass.name}">
+            <div class="glass-name">${glass.name}</div>
+            <div class="description">${glass.type}</div>
+            <div class="brewery">${countryFlags[glass.country] || ''} ${glass.brewery} — ${countryLabel}</div>
+        `;
+            card.onclick = () => showGlassModal(glass);
+            list.appendChild(card);
+        });
+    }
     section.appendChild(list);
     collectionDiv.appendChild(section);
 }
+
+const globalSearchInput = document.getElementById('global-search');
+globalSearchInput.addEventListener('input', (e) => {
+    const query = e.target.value;
+    if (query.trim() === '') {
+        handleURLChange();
+    } else {
+        renderSearchResults(query);
+    }
+});
 
 // --- RENDER DUPLICATES ---
 function renderDuplicates() {
@@ -361,6 +455,8 @@ function updateTranslations() {
     document.getElementById('main-title').textContent = translations[currentLang].title;
     // Intro
     updateIntroText();
+    // Global search placeholder
+    document.getElementById('global-search').placeholder = translations[currentLang].searchPlaceholder;
     // Buttons (back, close, etc.)
     document.querySelectorAll('.back-btn').forEach(btn => {
         if (btn.closest('.country-section')) {
@@ -374,7 +470,12 @@ function updateTranslations() {
 document.getElementById('lang-select').value = currentLang;
 document.getElementById('lang-select').addEventListener('change', (e) => {
     setLanguage(e.target.value);
-    handleURLChange();
+    const activeQuery = document.getElementById('global-search').value;
+    if (activeQuery.trim() !== '') {
+        renderSearchResults(activeQuery);
+    } else {
+        handleURLChange();
+    }
 });
 
 // --- UPDATE INTRO TEXT FOR TRANSLATIONS ---

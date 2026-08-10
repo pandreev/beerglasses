@@ -47,7 +47,11 @@ const translations = {
     infoTitle: "Info & Contact",
     infoText: `If you want to get in touch, please email me at <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>You can also find me on <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Back to main page",
-    duplicatesLink: 'If you have glasses for exchange, see my <a href="#duplicates">duplicate glasses</a>'
+    duplicatesLink: 'If you have glasses for exchange, see my <a href="#duplicates">duplicate glasses</a>',
+    searchPlaceholder: "🔍 Search all glasses...",
+    searchResultsTitle: "Search results for",
+    noResults: "No glasses found.",
+    brewerySearchPlaceholder: "🔍 Search in this brewery..."
   },
   es: {
     title: "Mi Colección de Copas de Cerveza",
@@ -64,10 +68,12 @@ const translations = {
       England: "Inglaterra",
       Estonia: "Estonia",
       France: "Francia",
+      Japan: "Japón",
       Germany: "Alemania",
       Greece: "Grecia",
       Hungary: "Hungría",
       Ireland: "Irlanda",
+      Lithuania: "Lituania",
       Italy: "Italia",
       Netherlands: "Países Bajos",
       Poland: "Polonia",
@@ -95,7 +101,11 @@ const translations = {
     infoTitle: "Información y Contacto",
     infoText: `Si quieres ponerte en contacto, envíame un correo a <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Puedes encontrarme también en <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Volver a la página principal",
-    duplicatesLink: 'Si tienes copas para intercambiar, mira mis <a href="#duplicates">copas duplicadas</a>'
+    duplicatesLink: 'Si tienes copas para intercambiar, mira mis <a href="#duplicates">copas duplicadas</a>',
+    searchPlaceholder: "🔍 Buscar en todas las copas...",
+    searchResultsTitle: "Resultados de búsqueda para",
+    noResults: "No se encontraron copas.",
+    brewerySearchPlaceholder: "🔍 Buscar en esta cervecería..."
   },
   de: {
     title: "Meine Bierglassammlung",
@@ -112,10 +122,12 @@ const translations = {
       England: "England",
       Estonia: "Estland",
       France: "Frankreich",
+      Japan: "Japan",
       Germany: "Deutschland",
       Greece: "Griechenland",
       Hungary: "Ungarn",
       Ireland: "Irland",
+      Lithuania: "Litauen",
       Italy: "Italien",
       Netherlands: "Niederlande",
       Poland: "Polen",
@@ -143,7 +155,11 @@ const translations = {
     infoTitle: "Info & Kontakt",
     infoText: `Wenn du Kontakt aufnehmen möchtest, schreib mir eine E-Mail an <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Du findest mich auch auf <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Zurück zur Hauptseite",
-    duplicatesLink: 'Wenn du Gläser zum Tauschen hast, sieh dir meine <a href="#duplicates">doppelten Gläser</a> an'
+    duplicatesLink: 'Wenn du Gläser zum Tauschen hast, sieh dir meine <a href="#duplicates">doppelten Gläser</a> an',
+    searchPlaceholder: "🔍 Alle Gläser durchsuchen...",
+    searchResultsTitle: "Suchergebnisse für",
+    noResults: "Keine Gläser gefunden.",
+    brewerySearchPlaceholder: "🔍 In dieser Brauerei suchen..."
   },
   fr: {
     title: "Ma Collection de Verres à Bière",
@@ -160,10 +176,12 @@ const translations = {
       England: "Angleterre",
       Estonia: "Estonie",
       France: "France",
+      Japan: "Japon",
       Germany: "Allemagne",
       Greece: "Grèce",
       Hungary: "Hongrie",
       Ireland: "Irlande",
+      Lithuania: "Lituanie",
       Italy: "Italie",
       Netherlands: "Pays-Bas",
       Poland: "Pologne",
@@ -191,7 +209,11 @@ const translations = {
     infoTitle: "Infos & Contact",
     infoText: `Si vous souhaitez me contacter, envoyez-moi un email à <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Vous pouvez aussi me trouver sur <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Retour à la page principale",
-    duplicatesLink: 'Si vous avez des verres à échanger, consultez mes <a href="#duplicates">verres en double</a>'
+    duplicatesLink: 'Si vous avez des verres à échanger, consultez mes <a href="#duplicates">verres en double</a>',
+    searchPlaceholder: "🔍 Rechercher tous les verres...",
+    searchResultsTitle: "Résultats de recherche pour",
+    noResults: "Aucun verre trouvé.",
+    brewerySearchPlaceholder: "🔍 Rechercher dans cette brasserie..."
   },
   bg: {
     title: "Моята колекция от бирени чаши",
@@ -208,10 +230,12 @@ const translations = {
       England: "Англия",
       Estonia: "Естония",
       France: "Франция",
+      Japan: "Япония",
       Germany: "Германия",
       Greece: "Гърция",
       Hungary: "Унгария",
       Ireland: "Ирландия",
+      Lithuania: "Литва",
       Italy: "Италия",
       Netherlands: "Нидерландия",
       Poland: "Полша",
@@ -239,7 +263,11 @@ const translations = {
     infoTitle: "Информация и Контакт",
     infoText: `Ако искате да се свържете с мен, пишете ми на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Може да ме намерите и във <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Обратно към главната страница",
-    duplicatesLink: 'Ако имате чаши за размяна, вижте моите <a href="#duplicates">дублирани чаши</a>'
+    duplicatesLink: 'Ако имате чаши за размяна, вижте моите <a href="#duplicates">дублирани чаши</a>',
+    searchPlaceholder: "🔍 Търсене във всички чаши...",
+    searchResultsTitle: "Резултати от търсенето за",
+    noResults: "Не са намерени чаши.",
+    brewerySearchPlaceholder: "🔍 Търсене в тази пивоварна..."
   },
   nl: {
     title: "Mijn Bierglazencollectie",
@@ -256,10 +284,12 @@ const translations = {
       England: "Engeland",
       Estonia: "Estland",
       France: "Frankrijk",
+      Japan: "Japan",
       Germany: "Duitsland",
       Greece: "Griekenland",
       Hungary: "Hongarije",
       Ireland: "Ierland",
+      Lithuania: "Litouwen",
       Italy: "Italië",
       Netherlands: "Nederland",
       Poland: "Polen",
@@ -287,7 +317,11 @@ const translations = {
     infoTitle: "Info & Contact",
     infoText: `Als je contact wilt opnemen, stuur dan een e-mail naar <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Je kunt me ook vinden op <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Terug naar hoofdpagina",
-    duplicatesLink: 'Als je glazen hebt om te ruilen, bekijk dan mijn <a href="#duplicates">dubbele glazen</a>'
+    duplicatesLink: 'Als je glazen hebt om te ruilen, bekijk dan mijn <a href="#duplicates">dubbele glazen</a>',
+    searchPlaceholder: "🔍 Zoek in alle glazen...",
+    searchResultsTitle: "Zoekresultaten voor",
+    noResults: "Geen glazen gevonden.",
+    brewerySearchPlaceholder: "🔍 Zoeken in deze brouwerij..."
   },
   pl: {
     title: "Moja Kolekcja Szklanek do Piwa",
@@ -304,10 +338,12 @@ const translations = {
       England: "Anglia",
       Estonia: "Estonia",
       France: "Francja",
+      Japan: "Japonia",
       Germany: "Niemcy",
       Greece: "Grecja",
       Hungary: "Węgry",
       Ireland: "Irlandia",
+      Lithuania: "Litwa",
       Italy: "Włochy",
       Netherlands: "Holandia",
       Poland: "Polska",
@@ -335,7 +371,11 @@ const translations = {
     infoTitle: "Informacje i Kontakt",
     infoText: `Jeśli chcesz się skontaktować, napisz do mnie na <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Możesz mnie też znaleźć na <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Powrót do strony głównej",
-    duplicatesLink: 'Jeśli masz szklanki na wymianę, zobacz moje <a href="#duplicates">duplikaty szklanek</a>'
+    duplicatesLink: 'Jeśli masz szklanki na wymianę, zobacz moje <a href="#duplicates">duplikaty szklanek</a>',
+    searchPlaceholder: "🔍 Szukaj we wszystkich szklankach...",
+    searchResultsTitle: "Wyniki wyszukiwania dla",
+    noResults: "Nie znaleziono szklanek.",
+    brewerySearchPlaceholder: "🔍 Szukaj w tym browarze..."
   },
   sr: {
     title: "Моја колекција пивских чаша",
@@ -352,10 +392,12 @@ const translations = {
       England: "Енглеска",
       Estonia: "Естонија",
       France: "Француска",
+      Japan: "Јапан",
       Germany: "Немачка",
       Greece: "Грчка",
       Hungary: "Мађарска",
       Ireland: "Ирска",
+      Lithuania: "Литванија",
       Italy: "Италија",
       Netherlands: "Холандија",
       Poland: "Пољска",
@@ -383,6 +425,10 @@ const translations = {
     infoTitle: "Инфо и Контакт",
     infoText: `Ако желите да ме контактирате, пошаљите ми е-пошту на <a href=\"mailto:petar.andreev@gmail.com\">petar.andreev@gmail.com</a>.<br>Можете ме наћи и на <a href=\"https://www.facebook.com/Pesho/\" target=\"_blank\">Facebook</a>.`,
     infoBack: "← Назад на главну страницу",
-    duplicatesLink: 'Ако имате чаше за размену, погледајте моје <a href="#duplicates">дупликате чаша</a>'
+    duplicatesLink: 'Ако имате чаше за размену, погледајте моје <a href="#duplicates">дупликате чаша</a>',
+    searchPlaceholder: "🔍 Претражи све чаше...",
+    searchResultsTitle: "Резултати претраге за",
+    noResults: "Нису пронађене чаше.",
+    brewerySearchPlaceholder: "🔍 Претражи у овој пивари..."
   }
 };

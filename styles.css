@@ -135,6 +135,44 @@ h1 {
     color: #555;
     text-align: left;
 }
+#global-search-container {
+    margin: 0 auto 30px auto;
+    max-width: 500px;
+}
+#global-search {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 16px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 8px;
+    background: #e9e6e7;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+#global-search:focus {
+    outline: 2px solid #ccbeb1;
+}
+.brewery-search-container {
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+.brewery-search {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 14px;
+    font-size: 1em;
+    border: none;
+    border-radius: 8px;
+    background: #e9e6e7;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.brewery-search:focus {
+    outline: 2px solid #ccbeb1;
+}
+.no-results {
+    color: #666;
+    font-size: 1em;
+}
 .continent-title {
     font-size: 1.3em;
     font-weight: bold;
