@@ -66,6 +66,7 @@ const belgiumOthers = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Waterloo/Waterloo_25cl.webp',
         thumbnail: 'glasses/img/Belgium/Waterloo/thumbnail/Waterloo_25cl.webp',
+        box: 'P005',
         price: '1.00'
     },
     {
@@ -276,6 +277,7 @@ const belgiumOthers = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/Maredsous/Maredsous_330ml.webp',
         thumbnail: 'glasses/img/Belgium/Maredsous/thumbnail/Maredsous_330ml.webp',
+        box: 'P005',
         price: '1.00'
     },
 ];

@@ -88,4 +88,26 @@ const spainAlhambra = [
         box: 'P004',
         price: '2.00'
     },
+    {
+        name: 'Alhambra Perla Dorada Clase Extra',
+        type: 'Jarra 0,4l',
+        description: 'Fabrica de Cerveza, Granada',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Alhambra_Perla_Dorada_04l.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Perla_Dorada_04l.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'Alhambra Cerveza Tipo Pilzen',
+        type: 'Jarra 0,4l',
+        description: 'La Alhambra S.A. Fabrica de Cerveza, Granada',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Alhambra_Tipo_Pilzen_04l.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Tipo_Pilzen_04l.webp',
+        box: 'P005',
+        price: '1.00'
+    },
 ];

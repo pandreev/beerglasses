@@ -11,36 +11,6 @@ const glassesSpain = [
         price: '1.00'
     },
     {
-        name: 'Alhambra',
-        type: 'Jarra 400ml',
-        description: 'Perla Dorada Clase Extra, La Alhambra S.A. fabrica de cerveza, Granada',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_Jarra_400_Dorada.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_400_Dorada.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Alhambra',
-        type: 'Jarra 0,4l',
-        description: 'Cerveza Tipo Pilsen, La Alhambra S.A. fabrica de cerveza, Granada',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_Jarra_400_Pilsen.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_Jarra_400_Pilsen.webp',
-        price: '1.00'
-    },
-    {
-        name: 'San Miguel',
-        type: 'Jarra 500ml',
-        description: '',
-        brewery: 'San Miguel',
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Jarra_500_ceramic.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_500_ceramic.webp',
-        price: '1.00'
-    },
-    {
         name: 'Dorada Pilsen',
         type: 'Caña 250ml',
         description: '',
@@ -98,16 +68,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Four_Lions.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Four_Lions.webp',
-        price: '1.00'
-    },
-    {
-        name: "San Miguel",
-        type: 'Jarra 400ml',
-        description: '',
-        brewery: "San Miguel",
-        country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Jarra_400ml_ceramic.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Jarra_400ml_ceramic.webp',
         price: '1.00'
     },
     {

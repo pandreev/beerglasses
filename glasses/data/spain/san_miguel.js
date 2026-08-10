@@ -113,6 +113,28 @@ const spainSanMiguel = [
         price: '1.00'
     },
     {
+        name: "San Miguel",
+        type: 'Jarra 400ml',
+        description: '',
+        brewery: "San Miguel",
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_400ml_ceramic.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_400ml_ceramic.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_500_ceramic.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_500_ceramic.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
         name: 'San Miguel',
         type: 'Copa 250ml',
         description: 'Crisal 97',

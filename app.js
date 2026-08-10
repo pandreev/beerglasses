@@ -33,6 +33,7 @@ const beerGlasses = [
     ...germanyErdinger,
     ...germanyFranziskaner,
     ...germanyBenediktiner,
+    ...germanyLoewenbraeu,
     ...germanyPaulaner,
     ...germanyOthers,
     ...glassesJapan,
