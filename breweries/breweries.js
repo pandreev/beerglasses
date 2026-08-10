@@ -30,6 +30,7 @@ const breweries = {
     "Westvleteren": "breweries/img/Belgium/Westvleteren.webp",
     // endregion
     // region Bulgaria
+    "Ariana": "breweries/img/Bulgaria/Ariana.webp",
     "Bolyarka": "breweries/img/Bulgaria/Bolyarka.webp",
     "Gaida": "breweries/img/Bulgaria/Gaida.webp",
     "Kamenitza": "breweries/img/Bulgaria/Kamenitza.webp",
@@ -41,6 +42,7 @@ const breweries = {
     "Birell": "breweries/img/Czechia/Birell.webp",
     "Budweiser Budvar": "breweries/img/Czechia/Budweiser_Budvar.webp",
     "Pilsner Urquell": "breweries/img/Czechia/Pilsner_urquell.webp",
+    "Starobrno": "breweries/img/Czechia/Starobrno.webp",
     "Staropramen": "breweries/img/Czechia/Staropramen.webp",
     // endregion
     // region Denmark
@@ -80,6 +82,7 @@ const breweries = {
     "Garde Kölsch": "breweries/img/Germany/Garde_Koelsch.webp",
     "Gereons Kölsch": "breweries/img/Germany/Gereons_Koelsch.webp",
     "Grevensteiner": "breweries/img/Germany/Grevensteiner.webp",
+    "Löwenbräu": "breweries/img/Germany/Lowenbrau.webp",
     "Kaltenberg": "breweries/img/Germany/Kaltenberg.webp",
     "Karlsberg": "breweries/img/Germany/Karlsberg.webp",
     "König Ludwig": "breweries/img/Germany/Koenig_Ludwig.webp",
