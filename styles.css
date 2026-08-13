@@ -63,6 +63,10 @@ h1 {
     font-size: 0.9em;
     color: #444;
 }
+.glass-description {
+    color: #666;
+    font-size: 0.95em;
+}
 .country-btn {
     display: inline-flex;
     align-items: center;

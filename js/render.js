@@ -13,16 +13,20 @@ function createBackButton(labelKey, onClick) {
     return backBtn;
 }
 
-function createGlassCard(glass, { showBreweryCountry = false, clickable = true } = {}) {
+function createGlassCard(glass, { showBreweryCountry = false, showDescription = false, clickable = true } = {}) {
     const card = document.createElement('div');
     card.className = 'glass-card';
     const breweryCountryLine = showBreweryCountry
         ? `<div class="brewery">${countryFlags[glass.country] || ''} ${glass.brewery} — ${translations[currentLang].countries[glass.country] || glass.country}</div>`
         : '';
+    const descriptionLine = showDescription && glass.description
+        ? `<div class="glass-description">${glass.description}</div>`
+        : '';
     card.innerHTML = `
         <img src="${glass.thumbnail}" alt="${glass.name}">
         <div class="glass-name">${glass.name}</div>
         <div class="description">${glass.type}</div>
+        ${descriptionLine}
         ${breweryCountryLine}
     `;
     if (clickable) {
@@ -138,9 +142,9 @@ function renderBreweryGlasses(country, brewery) {
 
     const breweryGlasses = getGlassesByBrewery(country, brewery);
     searchInput.addEventListener('input', (e) => {
-        renderGlassList(list, searchGlasses(breweryGlasses, e.target.value));
+        renderGlassList(list, searchGlasses(breweryGlasses, e.target.value), { showDescription: true });
     });
-    renderGlassList(list, breweryGlasses);
+    renderGlassList(list, breweryGlasses, { showDescription: true });
 }
 
 // --- GLOBAL SEARCH ---
