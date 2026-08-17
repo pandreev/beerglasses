@@ -145,15 +145,15 @@ const spainSanMiguel = [
         extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_250ml.webp',
         price: '0.50'
     },
-    //
     {
         name: 'San Miguel 0,0%',
         type: 'Vaso 200ml',
         description: '',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_0_200ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_200ml.webp',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_0_200ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_0_200ml.webp',
+        box: '009',
         price: '0.50'
     },
     {
@@ -162,10 +162,12 @@ const spainSanMiguel = [
         description: 'Con TÈ sabor limon',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_0_Limon_200ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_0_Limon_200ml.webp',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_0_Limon_200ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_0_Limon_200ml.webp',
+        box: '009',
         price: '0.50'
     },
+    //
     {
         name: 'Cerveza San Miguel Premium Quality',
         type: 'Caña 200ml',

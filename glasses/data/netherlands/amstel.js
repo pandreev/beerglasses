@@ -11,4 +11,15 @@ const netherlandsAmstel = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: 'Amstel',
+        type: '250ml',
+        description: '',
+        brewery: 'Amstel',
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Amstel/Amstel_250ml.webp',
+        thumbnail: 'glasses/img/Netherlands/Amstel/thumbnail/Amstel_250ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
 ];

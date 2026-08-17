@@ -179,6 +179,18 @@ const germanyOthers = [
         price: '0.00'
     },
     {
+        name: "Ettaler Kloster-Biere",
+        type: '0.1l',
+        description: 'CE M25 0104 F.Herb 23',
+        brewery: "Ettaler",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Ettaler/Ettaler_01l_M26.webp',
+        thumbnail: 'glasses/img/Germany/Ettaler/thumbnail/Ettaler_01l_M26.webp',
+        extraImage: 'glasses/img/Germany/Ettaler/extra/Ettaler_01l_M26.webp',
+        box: 'P005',
+        price: '3.00'
+    },
+    {
         name: "Henninger",
         type: 'Glas 200ml',
         description: 'Christian Henninger Pilsener Klassisch herb',
@@ -189,6 +201,17 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Henninger/extra/Henninger.webp',
         box: 'P003',
         price: '0.50'
+    },
+    {
+        name: "Henninger",
+        type: '200ml',
+        description: '',
+        brewery: "Henninger",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Henninger/Henninger_200ml.webp',
+        thumbnail: 'glasses/img/Germany/Henninger/thumbnail/Henninger_200ml.webp',
+        box: 'P005',
+        price: '1.00'
     },
     {
         name: "Brinkhoff's",
@@ -326,5 +349,40 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Kaltenberg/extra/Kaltenberg_500ml.webp',
         box: 'P002',
         price: '1.00'
+    },
+    {
+        name: 'Dom Kölsch',
+        type: 'Glas 0,2l',
+        description: '',
+        brewery: 'Dom Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/DomKoelsch/Dom_Koelsch_200ml.webp',
+        thumbnail: 'glasses/img/Germany/DomKoelsch/thumbnail/Dom_Koelsch_200ml.webp',
+        extraImage: 'glasses/img/Germany/DomKoelsch/extra/Dom_Koelsch_200ml.webp',
+        box: '009',
+        price: '1.00'
+    },
+    {
+        name: 'Reissdorf Kölsch',
+        type: 'Glas 0,2l',
+        description: '500 Jahre Deutsches Reinheitsgebot',
+        brewery: 'Reissdorf Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Reissdorf/Reissdorf_Koelsch_200ml.webp',
+        thumbnail: 'glasses/img/Germany/Reissdorf/thumbnail/Reissdorf_Koelsch_200ml.webp',
+        extraImage: 'glasses/img/Germany/Reissdorf/extra/Reissdorf_Koelsch_200ml.webp',
+        box: '009',
+        price: '0.50'
+    },
+    {
+        name: 'Garde Kölsch',
+        type: 'Glas 0,2l',
+        description: '75 Jahre Liebfrauenschule Köln',
+        brewery: 'Garde Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/GardeKoelsch/Garde_Koelsch_200ml.webp',
+        thumbnail: 'glasses/img/Germany/GardeKoelsch/thumbnail/Garde_Koelsch_200ml.webp',
+        box: '009',
+        price: '0.50'
     },
 ];

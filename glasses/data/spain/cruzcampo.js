@@ -176,6 +176,17 @@ const spainCruzcampo = [
         price: '0.00'
     },
     {
+        name: 'Cruzcampo 1904',
+        type: 'Caña 200ml',
+        description: 'Taperia La Abuela',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Taperia_La_Abuela.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Taperia_La_Abuela.webp',
+        box: 'P005',
+        price: '0.00'
+    },
+    {
         name: 'Extra Braun',
         type: 'Caña 200ml',
         description: '',
@@ -183,6 +194,7 @@ const spainCruzcampo = [
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Extra_Braun.webp',
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Extra_Braun.webp',
+        box: 'P005',
         price: '0.00'
     },
     {
@@ -219,16 +231,6 @@ const spainCruzcampo = [
         price: '0.00'
     },
     {
-        name: 'Cruzcampo 1904',
-        type: 'Caña 200ml',
-        description: 'Taperia La Abuela',
-        brewery: 'Cruzcampo',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Taperia_La_Abuela.webp',
-        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Taperia_La_Abuela.webp',
-        price: '0.00'
-    },
-    {
         name: 'Cruzcampo',
         type: 'Copa 300ml',
         description: 'Cien años  1904-2004',
@@ -238,5 +240,27 @@ const spainCruzcampo = [
         thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_cien_anos.webp',
         box: '005',
         price: '0.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: 'Vaso 200ml',
+        description: 'Cruzcampo se escribe con C de Carnaval',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Carnaval_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Carnaval_200ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: 'Vaso 300ml',
+        description: 'Cerveceria Cruz Blanca',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Cerveceria_Cruz_Blanca.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Cerveceria_Cruz_Blanca.webp',
+        box: 'P005',
+        price: '2.00'
     },
 ];

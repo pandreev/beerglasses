@@ -91,4 +91,15 @@ const irelandGuinness = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: 'Kaliber',
+        type: 'Glass 250ml',
+        description: 'Sin',
+        brewery: 'Guinness',
+        country: 'Ireland',
+        image: 'glasses/img/Ireland/Guinness/Kaliber_250ml.webp',
+        thumbnail: 'glasses/img/Ireland/Guinness/thumbnail/Kaliber_250ml.webp',
+        box: '009',
+        price: '1.00'
+    },
 ];

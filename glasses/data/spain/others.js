@@ -120,4 +120,16 @@ const spainOthers = [
         box: 'P005',
         price: '1.00'
     },
+    {
+        name: 'Fábrica Maravillas',
+        type: 'Vaso 200ml',
+        description: 'Fábrica Maravillas Craft Beer',
+        brewery: 'Fábrica Maravillas',
+        country: 'Spain',
+        image: 'glasses/img/Spain/FabricaMaravillas/Fabrica_Maravillas_200ml.webp',
+        thumbnail: 'glasses/img/Spain/FabricaMaravillas/thumbnail/Fabrica_Maravillas_200ml.webp',
+        extraImage: 'glasses/img/Spain/FabricaMaravillas/extra/Fabrica_Maravillas_200ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
 ];

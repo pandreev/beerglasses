@@ -1,26 +1,6 @@
 const glassesSpain = [
 
     {
-        name: 'Alhambra',
-        type: 'Copa 300ml',
-        description: '',
-        brewery: 'Alhambra',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Alhambra_300ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Alhambra_300ml.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Dorada Pilsen',
-        type: 'Caña 250ml',
-        description: '',
-        brewery: 'Dorada',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Dorada_250ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Dorada_250ml.webp',
-        price: '0.00'
-    },
-    {
         name: 'Euro Pils',
         type: 'Caña',
         description: '',
@@ -108,16 +88,6 @@ const glassesSpain = [
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia_Bodega_25cl.webp',
         thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Bodega_25cl.webp',
-        price: '1.00'
-    },
-    {
-        name: 'Fábrica Maravillas',
-        type: 'Vaso 200ml',
-        description: 'Fábrica Maravillas Craft Beer',
-        brewery: 'Fábrica Maravillas',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Fabrica_Maravillas_200ml.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Fabrica_Maravillas_200ml.webp',
         price: '1.00'
     },
 

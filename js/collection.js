@@ -1,6 +1,7 @@
 // --- COLLECTION DATA ---
 const beerGlasses = [
-    ...glassesAustralia,
+    ...australiaFosters,
+    ...austriaGoesser,
     ...glassesBelgium,
     ...belgiumAbbaye_dAulne,
     ...belgiumChouffe,
@@ -26,6 +27,7 @@ const beerGlasses = [
     ...greeceMythos,
     ...englandOthers,
     ...glassesFrance,
+    ...indiaKingfisher,
     ...italyNastroAzzurro,
     ...italyIchnusa,
     ...franceKronenbourg,
@@ -62,6 +64,7 @@ const beerGlasses = [
     ...spainArriaca,
     ...spainCruzcampo,
     ...spainDamm,
+    ...spainDorada,
     ...spainElAguila,
     ...spainEstrellaGalicia,
     ...spainMahou,
@@ -88,6 +91,7 @@ const countryFlags = {
     'Germany': '🇩🇪',
     'Greece': '🇬🇷',
     'Hungary': '🇭🇺',
+    'India': '🇮🇳',
     'Ireland': '🇮🇪',
     'Italy': '🇮🇹',
     'Lithuania': '🇱🇹',
@@ -106,6 +110,7 @@ const countryFlags = {
 };
 
 const countryContinents = {
+    "Austria": "Europe",
     "Bulgaria": "Europe",
     "Belgium": "Europe",
     "Czechia": "Europe",
@@ -123,6 +128,7 @@ const countryContinents = {
     "Spain": "Europe",
     "Sweden": "Europe",
     "United States of America": "North America",
+    "India": "Asia",
     "Japan": "Asia",
     "Australia": "Oceania",
 };

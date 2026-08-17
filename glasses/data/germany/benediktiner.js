@@ -70,4 +70,16 @@ const germanyBenediktiner = [
         box: 'P004',
         price: '1.00'
     },
+    {
+        name: 'Benediktiner Hell Alkoholfrei',
+        type: '0,3l',
+        description: 'rastal CE M25 0113',
+        brewery: 'Benediktiner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Benediktiner/Benediktiner_Alkoholfrei_03l.webp',
+        thumbnail: 'glasses/img/Germany/Benediktiner/thumbnail/Benediktiner_Alkoholfrei_03l.webp',
+        extraImage: 'glasses/img/Germany/Benediktiner/extra/Benediktiner_Alkoholfrei_03l.webp',
+        box: '009',
+        price: '0.00'
+    },
 ];

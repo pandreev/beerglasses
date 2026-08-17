@@ -82,4 +82,15 @@ const netherlandsHeineken = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: 'Heineken',
+        type: '250ml',
+        description: '',
+        brewery: 'Heineken',
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Heineken/Heineken_Glass_250ml.webp',
+        thumbnail: 'glasses/img/Netherlands/Heineken/thumbnail/Heineken_Glass_250ml.webp',
+        box: '009',
+        price: '1.00'
+    },
 ];

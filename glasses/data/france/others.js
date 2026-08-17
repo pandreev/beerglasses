@@ -34,4 +34,26 @@ const franceOthers = [
         box: 'P004',
         price: '1.00'
     },
+    {
+        name: 'Meteor Pils',
+        type: '250ml',
+        description: "Biere D'Alsace Hochfelden",
+        brewery: 'Brasserie Meteor',
+        country: 'France',
+        image: 'glasses/img/France/Meteor/MeteorPils_250ml.webp',
+        thumbnail: 'glasses/img/France/Meteor/thumbnail/MeteorPils_250ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'Phénix',
+        type: '200ml',
+        description: 'La Bière de Luxe',
+        brewery: 'Brasserie Phénix',
+        country: 'France',
+        image: 'glasses/img/France/Phenix/Phenix_200ml.webp',
+        thumbnail: 'glasses/img/France/Phenix/thumbnail/Phenix_200ml.webp',
+        box: 'P005',
+        price: '1.00'
+    },
 ];

@@ -21,4 +21,15 @@ const spainDamm = [
         box: 'P004',
         price: '0.00'
     },
+    {
+        name: 'Estrella Damm',
+        type: 'Vaso 200ml',
+        description: '',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_200ml.webp',
+        box: 'P005',
+        price: '0.00'
+    },
 ];
