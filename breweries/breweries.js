@@ -1,4 +1,7 @@
 const breweries = {
+    // region Austria
+    "Gösser": "breweries/img/Austria/Goesser.webp",
+    // endregion
     // region Belgium
     "Abbaye d'Aulne": "breweries/img/Belgium/Abbaye_dAulne.webp",
     "Affligem": "breweries/img/Belgium/Affligem.webp",
@@ -57,6 +60,7 @@ const breweries = {
     // endregion
     // region France
     "Brasserie Meteor": "breweries/img/France/Brasserie_Meteor.webp",
+    "Brasserie Phénix": "breweries/img/France/Brasserie_Phenix.webp",
     "Kronenbourg": "breweries/img/France/Kronenbourg.webp",
     "La Goudale": "breweries/img/France/La_Goudale.webp",
     "Mützig": "breweries/img/France/Mutzig.webp",
@@ -102,6 +106,9 @@ const breweries = {
     // endregion
     // region Greece
     "Mythos": "breweries/img/Greece/Mythos.webp",
+    // endregion
+    // region India
+    "Kingfisher": "breweries/img/India/Kingfisher.webp",
     // endregion
     // region Ireland
     "Guinness": "breweries/img/Ireland/Guinness.webp",

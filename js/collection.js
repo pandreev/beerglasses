@@ -26,7 +26,6 @@ const beerGlasses = [
     ...glassesDenmark,
     ...greeceMythos,
     ...englandOthers,
-    ...glassesFrance,
     ...indiaKingfisher,
     ...italyNastroAzzurro,
     ...italyIchnusa,

@@ -18,6 +18,7 @@ const translations = {
       Germany: "Germany",
       Greece: "Greece",
       Hungary: "Hungary",
+      India: "India",
       Ireland: "Ireland",
       Lithuania: "Lithuania",
       Italy: "Italy",
