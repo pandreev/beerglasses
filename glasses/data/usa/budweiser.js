@@ -34,4 +34,15 @@ const usaBudweiser = [
         box: '009',
         price: '0.00'
     },
+    {
+        name: 'Budweiser',
+        type: '330ml',
+        description: '',
+        brewery: 'Budweiser',
+        country: 'United States of America',
+        image: 'glasses/img/Usa/Budweiser/Budweiser_330ml_Glass.webp',
+        thumbnail: 'glasses/img/Usa/Budweiser/thumbnail/Budweiser_330ml_Glass.webp',
+        box: '010',
+        price: '1.00'
+    },
 ];

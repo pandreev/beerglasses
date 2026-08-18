@@ -1,5 +1,6 @@
 // --- COLLECTION DATA ---
 const beerGlasses = [
+    ...argentinaQuilmes,
     ...australiaFosters,
     ...austriaGoesser,
     ...glassesBelgium,
@@ -16,6 +17,7 @@ const beerGlasses = [
     ...bulgariaShumensko,
     ...bulgariaZagorka,
     ...bulgariaOthers,
+    ...chinaTsingtao,
     ...czechiaBudweiserBudvar,
     ...czechiaPilsnerUrquell,
     ...czechiaOthers,
@@ -23,7 +25,7 @@ const beerGlasses = [
     ...czechiaStaropramen,
     ...denmarkCarlsberg,
     ...denmarkTuborg,
-    ...glassesDenmark,
+    ...denmarkMikkeller,
     ...greeceMythos,
     ...englandOthers,
     ...indiaKingfisher,
@@ -38,7 +40,9 @@ const beerGlasses = [
     ...germanyLoewenbraeu,
     ...germanyPaulaner,
     ...germanyOthers,
-    ...glassesJapan,
+    ...germanyWarsteiner,
+    ...japanKirin,
+    ...japanSapporo,
     ...glassesGermany,
     ...irelandGuinness,
     ...irelandKilkenny,
@@ -78,10 +82,12 @@ const beerGlasses = [
 
 // Map country to flag emoji
 const countryFlags = {
+    'Argentina': '🇦🇷',
     'Australia': '🇦🇺',
     'Austria': '🇦🇹',
     'Belgium': '🇧🇪',
     'Bulgaria': '🇧🇬',
+    'China': '🇨🇳',
     'Czechia': '🇨🇿',
     'Denmark': '🇩🇰',
     'Estonia': '🇪🇪',
@@ -127,8 +133,10 @@ const countryContinents = {
     "Spain": "Europe",
     "Sweden": "Europe",
     "United States of America": "North America",
+    "Argentina": "South America",
     "India": "Asia",
     "Japan": "Asia",
+    "China": "Asia",
     "Australia": "Oceania",
 };
 

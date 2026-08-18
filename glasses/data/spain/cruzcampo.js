@@ -33,6 +33,17 @@ const spainCruzcampo = [
         price: '1.00'
     },
     {
+        name: 'Cruzcampo',
+        type: 'Vaso 250ml',
+        description: '',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Vaso_250ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Vaso_250ml.webp',
+        box: '010',
+        price: '1.00'
+    },
+    {
         name: 'Cruzcampo Beer',
         type: '300ml',
         description: '',

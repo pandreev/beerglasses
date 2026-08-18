@@ -10,16 +10,6 @@ const glassesUsa = [
         price: '0.00'
     },
     {
-        name: 'Budweiser',
-        type: '330ml',
-        description: '',
-        brewery: 'Budweiser',
-        country: 'United States of America',
-        image: 'glasses/img/Usa/Budweiser_Glass.webp',
-        thumbnail: 'glasses/img/Usa/thumbnail/Budweiser_Glass.webp',
-        price: '1.00'
-    },
-    {
         name: 'Flying Dog Brewery',
         type: '300ml',
         description: '',

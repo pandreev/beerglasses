@@ -198,4 +198,16 @@ const spainEstrellaGalicia = [
         box: 'P003',
         price: '1.00'
     },
+    {
+        name: "Estrella Galicia",
+        type: 'Vaso 0,2l',
+        description: '',
+        brewery: "Estrella Galicia",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Vaso_02l.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Vaso_02l.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Vaso_02l.webp',
+        box: '010',
+        price: '1.00'
+    },
 ];

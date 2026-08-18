@@ -167,6 +167,17 @@ const spainSanMiguel = [
         box: '009',
         price: '0.50'
     },
+    {
+        name: 'San Miguel Especial Pilsner',
+        type: 'Vaso 250ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Especial_Pilsner_250ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Especial_Pilsner_250ml.webp',
+        box: '010',
+        price: '0.00'
+    },
     //
     {
         name: 'Cerveza San Miguel Premium Quality',

@@ -280,4 +280,15 @@ const belgiumOthers = [
         box: 'P005',
         price: '1.00'
     },
+    {
+        name: "Blanche de Namur",
+        type: '0,25l',
+        description: '',
+        brewery: "Blanche de Namur",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/BlancheDeNamur/Blanche_De_Namur_25cl_M11.webp',
+        thumbnail: 'glasses/img/Belgium/BlancheDeNamur/thumbnail/Blanche_De_Namur_25cl_M11.webp',
+        box: '010',
+        price: '1.00'
+    },
 ];

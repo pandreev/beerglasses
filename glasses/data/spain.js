@@ -50,16 +50,7 @@ const glassesSpain = [
         thumbnail: 'glasses/img/Spain/thumbnail/Four_Lions.webp',
         price: '1.00'
     },
-    {
-        name: "Estrella Galicia",
-        type: 'Vaso 0,2l',
-        description: '',
-        brewery: "Estrella Galicia",
-        country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia_Vaso_02l.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Estrella_Galicia_Vaso_02l.webp',
-        price: '1.00'
-    },
+
     {
         name: "Mahou Cervezas",
         type: 'Jarra 200ml',

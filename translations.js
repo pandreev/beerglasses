@@ -5,10 +5,12 @@ const translations = {
     backToCountries: "← Back to countries",
     backToBreweries: "← Back to breweries",
     countries: {
+      Argentina: "Argentina",
       Austria: "Austria",
       Australia: "Australia",
       Belgium: "Belgium",
       Bulgaria: "Bulgaria",
+      China: "China",
       Czechia: "Czechia",
       Denmark: "Denmark",
       England: "England",
