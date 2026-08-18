@@ -56,4 +56,15 @@ const franceOthers = [
         box: 'P005',
         price: '1.00'
     },
+    {
+        name: 'Vézelise Lorraine',
+        type: '25cl',
+        description: 'La Bière de Luxe',
+        brewery: 'Brasserie de Vézelise',
+        country: 'France',
+        image: 'glasses/img/France/Vezelise/Vezelise_25cl.webp',
+        thumbnail: 'glasses/img/France/Vezelise/thumbnail/Vezelise_25cl.webp',
+        box: '010',
+        price: '1.00'
+    },
 ];

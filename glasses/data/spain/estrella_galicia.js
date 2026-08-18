@@ -156,6 +156,17 @@ const spainEstrellaGalicia = [
     },
     {
         name: 'Estrella Galicia',
+        type: 'Caña 300ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_300ml.webp',
+        box: '011',
+        price: '0.00'
+    },
+    {
+        name: 'Estrella Galicia',
         type: 'Copa 30cl',
         description: 'Xacobeo 2021',
         brewery: 'Estrella Galicia',
@@ -175,16 +186,6 @@ const spainEstrellaGalicia = [
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Jarra_400ml.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Jarra_400ml.webp',
         price: '2.00'
-    },
-    {
-        name: 'Estrella Galicia',
-        type: 'Caña 300ml',
-        description: '',
-        brewery: 'Estrella Galicia',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_300ml.webp',
-        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_300ml.webp',
-        price: '0.00'
     },
     {
         name: 'Estrella Galicia 0,0',
@@ -208,6 +209,17 @@ const spainEstrellaGalicia = [
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Vaso_02l.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Vaso_02l.webp',
         box: '010',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia Cerveza De Bodega',
+        type: 'Vaso 300ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Bodega_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Bodega_300ml.webp',
+        box: '011',
         price: '1.00'
     },
 ];

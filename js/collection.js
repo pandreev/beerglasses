@@ -27,6 +27,7 @@ const beerGlasses = [
     ...denmarkTuborg,
     ...denmarkMikkeller,
     ...greeceMythos,
+    ...greeceFix,
     ...englandOthers,
     ...indiaKingfisher,
     ...italyNastroAzzurro,
@@ -55,7 +56,6 @@ const beerGlasses = [
     ...netherlandsBuckler,
     ...netherlandsHeineken,
     ...netherlandsLaTrappe,
-    ...glassesNetherlands,
     ...portugalSuperBock,
     ...scotlandBrewdog,
     ...scotlandSkol,
@@ -77,7 +77,7 @@ const beerGlasses = [
     ...swedenSpendrup,
     ...glassesScotland,
     ...usaBudweiser,
-    ...glassesUsa,
+    ...usaFlyingDog,
 ];
 
 // Map country to flag emoji

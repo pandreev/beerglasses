@@ -143,6 +143,17 @@ const spainMahou = [
         price: '1.00'
     },
     {
+        name: "Mahou Cervezas",
+        type: 'Jarra 200ml',
+        description: '',
+        brewery: "Mahou",
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Cervezas_Jarra_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Cervezas_Jarra_200ml.webp',
+        box: '011',
+        price: '1.00'
+    },
+    {
         name: 'Mahou',
         type: 'Jarra 300ml',
         description: 'Cruzadas año 1190',

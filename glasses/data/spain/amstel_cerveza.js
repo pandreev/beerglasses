@@ -32,4 +32,15 @@ const spainAmstelCerveza = [
         box: 'P004',
         price: '2.00'
     },
+    {
+        name: 'Amstel Cerveza',
+        type: 'Vaso 200ml',
+        description: 'Premium Quality',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/AmstelCerveza/Amstel_Cerveza_200ml.webp',
+        thumbnail: 'glasses/img/Spain/AmstelCerveza/thumbnail/Amstel_Cerveza_200ml.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];

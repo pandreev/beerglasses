@@ -7,6 +7,7 @@ const spainOthers = [
         country: 'Spain',
         image: 'glasses/img/Spain/3Monos/3Monos.webp',
         thumbnail: 'glasses/img/Spain/3Monos/thumbnail/3Monos.webp',
+        box: '011',
         price: '0.00'
     },
     {
@@ -130,6 +131,28 @@ const spainOthers = [
         thumbnail: 'glasses/img/Spain/FabricaMaravillas/thumbnail/Fabrica_Maravillas_200ml.webp',
         extraImage: 'glasses/img/Spain/FabricaMaravillas/extra/Fabrica_Maravillas_200ml.webp',
         box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'Cervecería Valles del Lúpulo',
+        type: 'Vaso 250ml',
+        description: 'Hand painted',
+        brewery: 'Cervecería Valles del Lúpulo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/VallesDelLupulo/Valles_Del_Lupulo_250ml.webp',
+        thumbnail: 'glasses/img/Spain/VallesDelLupulo/thumbnail/Valles_Del_Lupulo_250ml.webp',
+        box: '010',
+        price: '0.00'
+    },
+    {
+        name: 'Four Lions',
+        type: 'Vaso 250ml',
+        description: '',
+        brewery: 'Four Lions Brewery',
+        country: 'Spain',
+        image: 'glasses/img/Spain/FourLions/Four_Lions_250ml.webp',
+        thumbnail: 'glasses/img/Spain/FourLions/thumbnail/Four_Lions_250ml.webp',
+        box: '011',
         price: '1.00'
     },
 ];
