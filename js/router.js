@@ -10,6 +10,8 @@ function updateURL(country, brewery = null) {
 }
 
 function handleURLChange() {
+    globalSearchInput.value = '';
+
     const hash = window.location.hash.slice(1); // Remove #
     if (hash === 'duplicates') {
         renderDuplicates();
@@ -48,3 +50,4 @@ globalSearchInput.addEventListener('input', (e) => {
 // --- BOOTSTRAP ---
 window.addEventListener('DOMContentLoaded', updateTranslations);
 window.addEventListener('DOMContentLoaded', handleURLChange);
+window.addEventListener('hashchange', handleURLChange);

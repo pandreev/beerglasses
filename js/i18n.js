@@ -34,13 +34,12 @@ function updateIntroText() {
         .replace('{countries}', Object.keys(grouped).length)
         + '<br>' + translations[currentLang].infoLink
         + ' | ' + translations[currentLang].duplicatesLink;
-    // Add click handler for the duplicates link to trigger handleURLChange
+    // Add click handler for the duplicates link (hashchange listener renders the view)
     const dupLink = introP.querySelector('a[href="#duplicates"]');
     if (dupLink) {
         dupLink.addEventListener('click', function(e) {
             e.preventDefault();
             window.location.hash = '#duplicates';
-            handleURLChange();
         });
     }
     // Log total price of beer glasses on initial load

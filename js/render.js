@@ -49,7 +49,6 @@ function renderGlassList(container, glasses, options = {}) {
 }
 
 function renderCountries() {
-    updateURL();
     setIntroVisible(true);
     collectionDiv.innerHTML = '';
 
@@ -71,7 +70,7 @@ function renderCountries() {
             btn.className = 'country-btn';
             const countryName = translations[currentLang].countries[country] + " (" + grouped[country].length + ")";
             btn.innerHTML = `<span class="flag">${countryFlags[country] || ''}</span> <span class="country-name">${countryName}</span>`;
-            btn.onclick = () => renderGlasses(country);
+            btn.onclick = () => updateURL(country);
             section.appendChild(btn);
         });
         collectionDiv.appendChild(section);
@@ -79,10 +78,9 @@ function renderCountries() {
 }
 
 function renderGlasses(country) {
-    updateURL(country);
     setIntroVisible(false);
     collectionDiv.innerHTML = '';
-    collectionDiv.appendChild(createBackButton('backToCountries', () => renderCountries()));
+    collectionDiv.appendChild(createBackButton('backToCountries', () => updateURL()));
 
     const section = document.createElement('div');
     section.className = 'country-section';
@@ -108,7 +106,7 @@ function renderGlasses(country) {
             <img class="brewery-photo" src="${breweryImage}" alt="${brewery}" />
             <div class="brewery-name">${breweryName}</div>
         `;
-        breweryCard.onclick = () => renderBreweryGlasses(country, brewery);
+        breweryCard.onclick = () => updateURL(country, brewery);
         breweryList.appendChild(breweryCard);
     });
     section.appendChild(breweryList);
@@ -116,10 +114,9 @@ function renderGlasses(country) {
 }
 
 function renderBreweryGlasses(country, brewery) {
-    updateURL(country, brewery);
     setIntroVisible(false);
     collectionDiv.innerHTML = '';
-    collectionDiv.appendChild(createBackButton('backToBreweries', () => renderGlasses(country)));
+    collectionDiv.appendChild(createBackButton('backToBreweries', () => updateURL(country)));
 
     const section = document.createElement('div');
     section.className = 'country-section';
@@ -151,10 +148,7 @@ function renderBreweryGlasses(country, brewery) {
 function renderSearchResults(query) {
     setIntroVisible(false);
     collectionDiv.innerHTML = '';
-    collectionDiv.appendChild(createBackButton('backToCountries', () => {
-        document.getElementById('global-search').value = '';
-        handleURLChange();
-    }));
+    collectionDiv.appendChild(createBackButton('backToCountries', () => handleURLChange()));
 
     const results = searchGlasses(beerGlasses, query).sort((a, b) => a.name.localeCompare(b.name));
 
@@ -172,10 +166,9 @@ function renderSearchResults(query) {
 
 // --- RENDER DUPLICATES ---
 function renderDuplicates() {
-    updateURL('duplicates');
     setIntroVisible(false);
     collectionDiv.innerHTML = '';
-    collectionDiv.appendChild(createBackButton('backToCountries', () => renderCountries()));
+    collectionDiv.appendChild(createBackButton('backToCountries', () => updateURL()));
 
     const section = document.createElement('div');
     section.className = 'country-section';
