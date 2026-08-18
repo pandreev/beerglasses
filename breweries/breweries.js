@@ -6,6 +6,7 @@ const breweries = {
     "Abbaye d'Aulne": "breweries/img/Belgium/Abbaye_dAulne.webp",
     "Affligem": "breweries/img/Belgium/Affligem.webp",
     "Belle-Vue": "breweries/img/Belgium/Belle_Vue.webp",
+    "Blanche de Namur": "breweries/img/Belgium/Blanche_de_Namur.webp",
     "Brasserie d'Achouffe": "breweries/img/Belgium/Achouffe.webp",
     "Brouwerij The Musketeers": "breweries/img/Belgium/Brouwerij-the-Musketeers.webp",
     "Brugse Zot": "breweries/img/Belgium/Brugse_zot.webp",
@@ -59,6 +60,7 @@ const breweries = {
     "Newcastle Brown Ale": "breweries/img/England/Newcastle_Brown_Ale.webp",
     // endregion
     // region France
+    "Brasserie de Vézelise": "breweries/img/France/Brasserie_Vezelise.webp",
     "Brasserie Meteor": "breweries/img/France/Brasserie_Meteor.webp",
     "Brasserie Phénix": "breweries/img/France/Brasserie_Phenix.webp",
     "Kronenbourg": "breweries/img/France/Kronenbourg.webp",
@@ -102,10 +104,12 @@ const breweries = {
     "Schöfferhofer": "breweries/img/Germany/Schoefferhofer.webp",
     "Thurn und Taxis": "breweries/img/Germany/Thurn_und_Taxis.webp",
     "Veltins": "breweries/img/Germany/Veltins.webp",
+    "Warsteiner": "breweries/img/Germany/Warsteiner.webp",
     "Weihenstephan": "breweries/img/Germany/Weihenstephan.webp",
     // endregion
     // region Greece
     "Mythos": "breweries/img/Greece/Mythos.webp",
+    "Fix": "breweries/img/Greece/Fix.webp",
     // endregion
     // region India
     "Kingfisher": "breweries/img/India/Kingfisher.webp",
@@ -144,6 +148,7 @@ const breweries = {
     "Ambar": "breweries/img/Spain/Ambar.webp",
     "Amstel Cerveza": "breweries/img/Spain/Amstel_Cerveza.webp",
     "Arriaca": "breweries/img/Spain/Arriaca.webp",
+    "Cervecería Valles del Lúpulo": "breweries/img/Spain/Valles_del_Lupulo.webp",
     "Damm": "breweries/img/Spain/Damm.webp",
     "Dorada": "breweries/img/Spain/Dorada.webp",
     "Estrella Galicia": "breweries/img/Spain/Estrella_Galicia.webp",
@@ -170,9 +175,15 @@ const breweries = {
     "Budweiser": "breweries/img/Usa/Budweiser.webp",
     "Flying Dog Brewery": "breweries/img/Usa/Flying_Dog_Brewery.webp",
     //endregion
+    // region China
+    "Tsingtao": "breweries/img/China/Tsingtao.webp",
+    // endregion
     // region Japan
     "Kirin": "breweries/img/Japan/Kirin.webp",
     "Sapporo": "breweries/img/Japan/Sapporo.webp",
+    // endregion
+    // region Argentina
+    "Quilmes": "breweries/img/Argentina/Quilmes.webp",
     // endregion
     // region Australia
     "Foster's": "breweries/img/Australia/Fosters.webp",
