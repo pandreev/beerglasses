@@ -1,8 +1,8 @@
 const belgiumOthers = [
     {
         name: "Pauwel Kwak",
-        type: '0,25l CE M14 0112 RITZENHOFF',
-        description: '',
+        type: '0,25l',
+        description: 'CE M14 0112 RITZENHOFF',
         brewery: "Pauwel Kwak",
         country: 'Belgium',
         image: 'glasses/img/Belgium/PauwelKwak/Pauwel_Kwak.webp',

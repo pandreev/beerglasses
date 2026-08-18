@@ -1,6 +1,6 @@
 const franceOthers = [
     {
-        name: 'la Goudale',
+        name: 'La Goudale',
         type: '25cl',
         description: '',
         brewery: 'La Goudale',
