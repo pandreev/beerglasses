@@ -182,6 +182,8 @@ function renderDuplicates() {
     collectionDiv.appendChild(section);
 }
 
+let modalOpen = false;
+
 function showGlassModal(glass) {
     // Modal logic
     const modal = document.getElementById('glass-modal');
@@ -221,10 +223,27 @@ function showGlassModal(glass) {
     modalDescription.textContent = glass.description;
     modal.style.display = 'flex';
 
-    closeBtn.onclick = () => {
-        modal.style.display = 'none';
-    };
+    // Push a history entry so the browser back button closes the modal
+    // instead of navigating away from the underlying view.
+    modalOpen = true;
+    history.pushState({ modal: true }, '');
+
+    closeBtn.onclick = closeGlassModal;
     modal.onclick = (e) => {
-        if (e.target === modal) modal.style.display = 'none';
+        if (e.target === modal) closeGlassModal();
     };
 }
+
+function closeGlassModal() {
+    if (!modalOpen) return;
+    modalOpen = false;
+    document.getElementById('glass-modal').style.display = 'none';
+    history.back();
+}
+
+window.addEventListener('popstate', () => {
+    if (modalOpen) {
+        modalOpen = false;
+        document.getElementById('glass-modal').style.display = 'none';
+    }
+});
