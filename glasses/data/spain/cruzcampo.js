@@ -57,7 +57,18 @@ const spainCruzcampo = [
     {
         name: 'Cruzcampo',
         type: '200ml',
-        description: '',
+        description: 'Fat man',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_200ml.webp',
+        box: '011',
+        price: '1.00'
+    },
+    {
+        name: 'Cruzcampo',
+        type: '200ml',
+        description: 'Slim man',
         brewery: 'Cruzcampo',
         country: 'Spain',
         image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_200ml_2.webp',

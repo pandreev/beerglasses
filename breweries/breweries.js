@@ -63,6 +63,7 @@ const breweries = {
     "Brasserie de Vézelise": "breweries/img/France/Brasserie_Vezelise.webp",
     "Brasserie Meteor": "breweries/img/France/Brasserie_Meteor.webp",
     "Brasserie Phénix": "breweries/img/France/Brasserie_Phenix.webp",
+    "E.S.B.M.N.": "breweries/img/France/Esbmn.webp",
     "Kronenbourg": "breweries/img/France/Kronenbourg.webp",
     "La Goudale": "breweries/img/France/La_Goudale.webp",
     "Mützig": "breweries/img/France/Mutzig.webp",

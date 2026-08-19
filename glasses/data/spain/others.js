@@ -155,4 +155,15 @@ const spainOthers = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: 'Euro Pils',
+        type: 'Caña 200ml',
+        description: '',
+        brewery: 'Euro Pils',
+        country: 'Spain',
+        image: 'glasses/img/Spain/EuroPils/EuroPils_200ml.webp',
+        thumbnail: 'glasses/img/Spain/EuroPils/thumbnail/EuroPils_200ml.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];

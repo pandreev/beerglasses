@@ -80,69 +80,6 @@ const spainMahou = [
         price: '1.00'
     },
     {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'Centenario 1890 - 1990',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Centenario.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Centenario.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'Egypto 1570 a.C.',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1570.webp',
-        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1570.webp',
-        box: '002',
-        price: '1.00'
-    },
-    {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'China 190 a.C.',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_190.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_190.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'Mayas año 790',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_790.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_790.webp',
-        price: '0.00'
-    },
-    {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'Vikingos año 1050',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1050.webp',
-        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1050.webp',
-        box: '002',
-        price: '1.00'
-    },
-    {
-        name: 'Mahou',
-        type: 'Jarra 300ml',
-        description: 'Abadios año 1170',
-        brewery: 'Mahou',
-        country: 'Spain',
-        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1170.webp',
-        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1170.webp',
-        box: '002',
-        price: '1.00'
-    },
-    {
         name: "Mahou Cervezas",
         type: 'Jarra 200ml',
         description: '',
@@ -156,15 +93,115 @@ const spainMahou = [
     {
         name: 'Mahou',
         type: 'Jarra 300ml',
+        description: 'Centenario 1890 - 1990',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Centenario.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Centenario.webp',
+        box: '012',
+        price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Egypto 1570 a.C.',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1570.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1570.webp',
+        box: '002',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Babilonia 609 a.C.',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_609.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_609.webp',
+        box: '012',
+        price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'China 190 a.C.',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_190.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_190.webp',
+        box: '012',
+        price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Roma año 289',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_289.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_289.webp',
+        box: '012',
+        price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Mayas año 790',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_790.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_790.webp',
+        box: '012',
+        price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'India año 850',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_850.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_850.webp',
+        box: '012',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Vikingos año 1050',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1050.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1050.webp',
+        box: '002',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Abadios año 1170',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1170.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1170.webp',
+        box: '002',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
         description: 'Cruzadas año 1190',
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1190.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1190.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1190.webp',
+        box: '012',
         price: '0.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Azul',
         type: 'Jarra 300ml',
         description: 'Medievo año 1260',
         brewery: 'Mahou',
@@ -175,17 +212,29 @@ const spainMahou = [
         price: '1.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Azul',
         type: 'Jarra 300ml',
         description: 'El Descubrimiento año 1392',
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1392.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1392.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1392.webp',
+        box: '012',
         price: '0.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Mosqueteros año 1626',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1626.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1626.webp',
+        box: '012',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
         type: 'Jarra 300ml',
         description: 'Rusia año 1654',
         brewery: 'Mahou',
@@ -196,7 +245,7 @@ const spainMahou = [
         price: '1.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Azul',
         type: 'Jarra 300ml',
         description: 'Ferrocarril año 1830',
         brewery: 'Mahou',
@@ -207,23 +256,36 @@ const spainMahou = [
         price: '1.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Azul',
         type: 'Jarra 300ml',
         description: 'Automóvil año 1885',
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1885.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_1885.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1885.webp',
+        box: '012',
         price: '0.00'
     },
     {
-        name: 'Mahou',
+        name: 'Mahou Historia de la Cerveza Rojo',
+        type: 'Jarra 300ml',
+        description: 'Visidoqos año 573',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_573.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_573.webp',
+        box: '012',
+        price: '1.00'
+    },
+    {
+        name: 'Mahou Serie Elaboración Cerveza',
         type: 'Jarra 300ml',
         description: 'El Reparto',
         brewery: 'Mahou',
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_Reparto.webp',
-        thumbnail: 'glasses/img/Spain/thumbnail/Mahou/Mahou_Jarra_Historia_Reparto.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_Reparto.webp',
+        box: '012',
         price: '0.00'
     },
 ];

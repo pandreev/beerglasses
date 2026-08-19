@@ -178,15 +178,15 @@ const spainSanMiguel = [
         box: '010',
         price: '0.00'
     },
-    //
     {
-        name: 'Cerveza San Miguel Premium Quality',
-        type: 'Caña 200ml',
-        description: 'duotank la caña genuina / Matahambre taberna',
+        name: 'San Miguel Especial Pilsner Cristal',
+        type: 'Cańa 200ml',
+        description: '',
         brewery: 'San Miguel',
         country: 'Spain',
-        image: 'glasses/img/Spain/San_Miguel_Matahambre.png',
-        thumbnail: 'glasses/img/Spain/thumbnail/San_Miguel_Matahambre.png',
-        price: '0.00'
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Especial_PilsnerCristal_200ml.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Especial_PilsnerCristal_200ml.webp',
+        box: '011',
+        price: '1.00'
     },
 ];

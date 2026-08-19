@@ -67,4 +67,15 @@ const franceOthers = [
         box: '010',
         price: '1.00'
     },
+    {
+        name: 'E.S.B.M.N.',
+        type: '200ml',
+        description: 'École Supérieure de Brasserie et de Malterie Nancy, 60s',
+        brewery: 'E.S.B.M.N.',
+        country: 'France',
+        image: 'glasses/img/France/Esbmn/Esbmn_200ml.webp',
+        thumbnail: 'glasses/img/France/Esbmn/thumbnail/Esbmn_200ml.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];
