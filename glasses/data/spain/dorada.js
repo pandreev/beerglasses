@@ -21,6 +21,7 @@ const spainDorada = [
         thumbnail: 'glasses/img/Spain/Dorada/thumbnail/Dorada_25cl.webp',
         extraImage: 'glasses/img/Spain/Dorada/extra/Dorada_25cl.webp',
         box: '011',
+        top: true,
         price: '1.00'
     },
 ];

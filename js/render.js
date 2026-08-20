@@ -22,8 +22,12 @@ function createGlassCard(glass, { showBreweryCountry = false, showDescription = 
     const descriptionLine = showDescription && glass.description
         ? `<div class="glass-description">${glass.description}</div>`
         : '';
+    const topBadge = glass.top ? `<img src="top.webp" class="top-badge" alt="Top rated">` : '';
     card.innerHTML = `
-        <img src="${glass.thumbnail}" alt="${glass.name}">
+        <div class="glass-thumb">
+            <img src="${glass.thumbnail}" alt="${glass.name}">
+            ${topBadge}
+        </div>
         <div class="glass-name">${glass.name}</div>
         <div class="description">${glass.type}</div>
         ${descriptionLine}

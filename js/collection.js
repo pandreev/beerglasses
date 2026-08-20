@@ -165,7 +165,7 @@ function getGlassesByBrewery(country, brewery) {
 
 // --- SEARCH HELPERS ---
 function getSearchableText(glass) {
-    return [glass.name, glass.brewery, glass.country, glass.type, glass.description]
+    return [glass.name, glass.brewery, glass.country, glass.type, glass.description, glass.top ? 'top' : '']
         .filter(Boolean)
         .join(' ')
         .toLowerCase();
