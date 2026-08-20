@@ -23,6 +23,7 @@ const translations = {
       India: "India",
       Ireland: "Ireland",
       Lithuania: "Lithuania",
+      Morocco: "Morocco",
       Italy: "Italy",
       Netherlands: "Netherlands",
       Poland: "Poland",

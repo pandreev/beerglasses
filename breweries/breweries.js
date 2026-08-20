@@ -189,4 +189,7 @@ const breweries = {
     // region Australia
     "Foster's": "breweries/img/Australia/Fosters.webp",
     // endregion
+    // region Morocco
+    "Brasseries du Maroc": "breweries/img/Morocco/BrasseriesDuMaroc.webp",
+    // endregion
 };
