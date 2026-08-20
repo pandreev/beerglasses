@@ -385,4 +385,28 @@ const germanyOthers = [
         box: '009',
         price: '0.50'
     },
+    {
+        name: 'Gereons Kölsch',
+        type: 'Glas 0,3l',
+        description: '125 Jahre Hubertus Brauerei',
+        brewery: 'Gereons Kölsch',
+        country: 'Germany',
+        image: 'glasses/img/Germany/GereonsKoelsch/Gereons_Koelsch_03l.webp',
+        thumbnail: 'glasses/img/Germany/GereonsKoelsch/thumbnail/Gereons_Koelsch_03l.webp',
+        extraImage: 'glasses/img/Germany/GereonsKoelsch/extra/Gereons_Koelsch_03l.webp',
+        box: '011',
+        price: '0.50'
+    },
+    {
+        name: 'Dortmunder Urtyp',
+        type: 'Glas 0,25l',
+        description: '',
+        brewery: 'Dortmunder Union',
+        country: 'Germany',
+        image: 'glasses/img/Germany/DortmunderUnion/Dortmunder_Urtyp_025l.webp',
+        thumbnail: 'glasses/img/Germany/DortmunderUnion/thumbnail/Dortmunder_Urtyp_025l.webp',
+        extraImage: 'glasses/img/Germany/DortmunderUnion/extra/Dortmunder_Urtyp_025l.webp',
+        box: '011',
+        price: '0.50'
+    },
 ];

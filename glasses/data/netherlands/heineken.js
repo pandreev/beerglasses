@@ -104,4 +104,16 @@ const netherlandsHeineken = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: 'Heineken Silver',
+        type: '0,25l',
+        description: 'ARC CE M22 0071',
+        brewery: 'Heineken',
+        country: 'Netherlands',
+        image: 'glasses/img/Netherlands/Heineken/Heineken_025l_Silver.webp',
+        thumbnail: 'glasses/img/Netherlands/Heineken/thumbnail/Heineken_025l_Silver.webp',
+        extraImage: 'glasses/img/Netherlands/Heineken/extra/Heineken_025l_Silver.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];

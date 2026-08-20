@@ -222,4 +222,16 @@ const spainEstrellaGalicia = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: 'Estrella Galicia Cerveza De Bodega',
+        type: 'Vaso 25cl',
+        description: 'Cerveza Sin Pasteurizar Recien Elaborada CE M22 0122 RITZENHOFF',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Bodega_25cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Bodega_25cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Bodega_25cl.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];

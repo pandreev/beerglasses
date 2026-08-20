@@ -30,16 +30,6 @@ const glassesGermany = [
         price: '0.00'
     },
     {
-        name: 'Gereons Kölsch',
-        type: 'Glas 300ml',
-        description: '125 Jahre Hubertus Brauerei',
-        brewery: 'Gereons Kölsch',
-        country: 'Germany',
-        image: 'glasses/img/Germany/Gereons_Koelsch_200ml.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Gereons_Koelsch_200ml.webp',
-        price: '0.50'
-    },
-    {
         name: "Ayinger",
         type: 'Maßkrug 1l',
         description: '',

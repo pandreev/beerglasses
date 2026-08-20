@@ -78,4 +78,27 @@ const franceOthers = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: '33 Super Pils',
+        type: '200ml',
+        description: '',
+        brewery: 'Bière 33',
+        country: 'France',
+        image: 'glasses/img/France/Biere33/33_Super_Pils.webp',
+        thumbnail: 'glasses/img/France/Biere33/thumbnail/33_Super_Pils.webp',
+        box: '011',
+        price: '1.00'
+    },
+    {
+        name: 'Record',
+        type: '25cls',
+        description: 'Bière de Qualite`',
+        brewery: 'Brasserie des Moulineaux',
+        country: 'France',
+        image: 'glasses/img/France/BrasserieDesMoulineaux/Record_Grutli_25cls.webp',
+        thumbnail: 'glasses/img/France/BrasserieDesMoulineaux/thumbnail/Record_Grutli_25cls.webp',
+        extraImage: 'glasses/img/France/BrasserieDesMoulineaux/extra/Record_Grutli_25cls.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];

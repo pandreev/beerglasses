@@ -246,6 +246,18 @@ const belgiumOthers = [
         price: '1.00'
     },
     {
+        name: "Belle-Vue Gueuze",
+        type: '25cl',
+        description: 'CE M15 0112 RITZENHOFF',
+        brewery: "Belle-Vue",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/BelleVue/Belle_Vue_Gueuze.webp',
+        thumbnail: 'glasses/img/Belgium/BelleVue/thumbnail/Belle_Vue_Gueuze.webp',
+        extraImage: 'glasses/img/Belgium/BelleVue/extra/Belle_Vue_Gueuze.webp',
+        box: '011',
+        price: '1.00'
+    },
+    {
         name: "Vedett Extra",
         type: '33cl',
         description: 'CE M18 0846',

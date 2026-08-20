@@ -9,4 +9,15 @@ const scotlandSkol = [
         thumbnail: 'glasses/img/Scotland/Skol/thumbnail/Skol_300ml.webp',
         price: '5.00'
     },
+    {
+        name: "Skol",
+        type: '250ml',
+        description: '',
+        brewery: "Skol",
+        country: 'Scotland',
+        image: 'glasses/img/Scotland/Skol/Skol_250ml.webp',
+        thumbnail: 'glasses/img/Scotland/Skol/thumbnail/Skol_250ml.webp',
+        box: '011',
+        price: '1.00'
+    },
 ];
