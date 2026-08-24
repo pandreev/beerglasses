@@ -40,9 +40,9 @@ const germanyErdinger = [
         description: 'SaHm',
         brewery: 'Erdinger',
         country: 'Germany',
-        image: 'glasses/img/Germany/Erdinger_Weiss_05l.webp',
-        thumbnail: 'glasses/img/Germany/thumbnail/Erdinger_Weiss_05l.webp',
-        extraImage: 'glasses/img/Germany/extra/Erdinger_Weiss_05l.webp',
+        image: 'glasses/img/Germany/Erdinger/Erdinger_Weiss_05l.webp',
+        thumbnail: 'glasses/img/Germany/Erdinger/thumbnail/Erdinger_Weiss_05l.webp',
+        extraImage: 'glasses/img/Germany/Erdinger/extra/Erdinger_Weiss_05l.webp',
         box: 'P001',
         price: '2.00'
     },
