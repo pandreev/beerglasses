@@ -34,6 +34,7 @@ function createGlassCard(glass, { showBreweryCountry = false, showDescription = 
         ${breweryCountryLine}
     `;
     if (clickable) {
+        card.classList.add('clickable');
         card.onclick = () => showGlassModal(glass);
     }
     return card;
