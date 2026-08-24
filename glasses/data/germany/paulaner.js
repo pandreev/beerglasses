@@ -80,4 +80,34 @@ const germanyPaulaner = [
         box: 'P004',
         price: '5.00'
     },
+    {
+        name: 'Paulaner Helles',
+        type: 'Maßkrug 1l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_1l.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_1l.webp',
+        price: '0.00'
+    },
+    {
+        name: 'Paulaner Oktoberfest Bier',
+        type: 'Maßkrug 1l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_1_1l.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_1_1l.webp',
+        price: '5.00'
+    },
+    {
+        name: 'Paulaner Oktoberfest Bier',
+        type: 'Maßkrug 1l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_2_1l.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_2_1l.webp',
+        price: '0.00'
+    },
 ];

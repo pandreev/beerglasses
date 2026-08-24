@@ -11,5 +11,14 @@ const germanyAyinger = [
         box: 'P003',
         price: '0.00'
     },
-
+    {
+        name: "Ayinger",
+        type: 'Maßkrug 1l',
+        description: '',
+        brewery: "Ayinger",
+        country: 'Germany',
+        image: 'glasses/img/Germany/Ayinger/Ayinger_1l.webp',
+        thumbnail: 'glasses/img/Germany/Ayinger/thumbnail/Ayinger_1l.webp',
+        price: '1.00'
+    },
 ];

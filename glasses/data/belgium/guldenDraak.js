@@ -22,4 +22,14 @@ const belgiumGuldenDraak = [
         box: '008',
         price: '1.00'
     },
+    {
+        name: 'Gulden Draak',
+        type: '3l',
+        description: '',
+        brewery: 'Gulden Draak',
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/GuldenDraak/Gulden_Draak_3l.webp',
+        thumbnail: 'glasses/img/Belgium/GuldenDraak/thumbnail/Gulden_Draak_3l.webp',
+        price: '0.00'
+    },
 ];
