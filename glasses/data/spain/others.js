@@ -142,6 +142,7 @@ const spainOthers = [
         image: 'glasses/img/Spain/VallesDelLupulo/Valles_Del_Lupulo_250ml.webp',
         thumbnail: 'glasses/img/Spain/VallesDelLupulo/thumbnail/Valles_Del_Lupulo_250ml.webp',
         box: '010',
+        top: true,
         price: '0.00'
     },
     {

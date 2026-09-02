@@ -19,6 +19,7 @@ const bulgariaZagorka = [
         image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Pivo_300ml.webp',
         thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Pivo_300ml.webp',
         box: 'P005',
+        top: true,
         price: '0.00'
     },
     {
@@ -64,6 +65,7 @@ const bulgariaZagorka = [
         image: 'glasses/img/Bulgaria/Zagorka/Zagorka_Pivo_Mug_250ml.webp',
         thumbnail: 'glasses/img/Bulgaria/Zagorka/thumbnail/Zagorka_Pivo_Mug_250ml.webp',
         box: '008',
+        top: true,
         price: '0.00'
     },
     {

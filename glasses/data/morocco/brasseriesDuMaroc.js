@@ -8,6 +8,7 @@ const moroccoBrasseriesDuMaroc = [
         image: 'glasses/img/Morocco/BrasseriesDuMaroc/Tingis_Pils.webp',
         thumbnail: 'glasses/img/Morocco/BrasseriesDuMaroc/thumbnail/Tingis_Pils.webp',
         box: '011',
+        top: true,
         price: '1.00'
     },
 ];

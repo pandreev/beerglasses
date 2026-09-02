@@ -55,6 +55,7 @@ const spainVictoria = [
         image: 'glasses/img/Spain/Victoria/Victoria_Malaga_Seleccion_Esp_400ml.webp',
         thumbnail: 'glasses/img/Spain/Victoria/thumbnail/Victoria_Malaga_Seleccion_Esp_400ml.webp',
         box: 'P005',
+        top: true,
         price: '2.00'
     },
     {

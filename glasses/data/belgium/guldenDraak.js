@@ -30,6 +30,7 @@ const belgiumGuldenDraak = [
         country: 'Belgium',
         image: 'glasses/img/Belgium/GuldenDraak/Gulden_Draak_3l.webp',
         thumbnail: 'glasses/img/Belgium/GuldenDraak/thumbnail/Gulden_Draak_3l.webp',
-        price: '0.00'
+        price: '0.00',
+        top: true
     },
 ];

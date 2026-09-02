@@ -8,6 +8,7 @@ const italyIchnusa = [
         image: 'glasses/img/Italy/Ichnusa/Ichnusa_02l.webp',
         thumbnail: 'glasses/img/Italy/Ichnusa/thumbnail/Ichnusa_02l.webp',
         box: '007',
+        top: true,
         price: '1.00'
     },
 ];

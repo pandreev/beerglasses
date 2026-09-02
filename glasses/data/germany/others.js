@@ -81,6 +81,7 @@ const germanyOthers = [
         extraImage: 'glasses/img/Germany/Kuchlbauer/extra/Kuchlbauer_Turm.webp',
         extraImage2: 'glasses/img/Germany/Kuchlbauer/extra/Kuchlbauer_Turm_extra_2.webp',
         box: 'P001',
+        top: true,
         price: '1.00'
     },
     {
@@ -302,6 +303,7 @@ const germanyOthers = [
         thumbnail: 'glasses/img/Germany/Camba/thumbnail/Camba_330ml.webp',
         extraImage: 'glasses/img/Germany/Camba/extra/Camba_330ml.webp',
         box: '005',
+        top: true,
         price: '0.00'
     },
     {

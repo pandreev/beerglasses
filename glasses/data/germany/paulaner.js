@@ -98,6 +98,7 @@ const germanyPaulaner = [
         country: 'Germany',
         image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_1_1l.webp',
         thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_1_1l.webp',
+        top: true,
         price: '5.00'
     },
     {
@@ -108,6 +109,7 @@ const germanyPaulaner = [
         country: 'Germany',
         image: 'glasses/img/Germany/Paulaner/Paulaner_Oktoberfest_2_1l.webp',
         thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_Oktoberfest_2_1l.webp',
+        top: true,
         price: '0.00'
     },
 ];

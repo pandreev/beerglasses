@@ -32,6 +32,7 @@ const usaBudweiser = [
         image: 'glasses/img/Usa/Budweiser/Budweiser_Anheuser_Busch.webp',
         thumbnail: 'glasses/img/Usa/Budweiser/thumbnail/Budweiser_Anheuser_Busch.webp',
         box: '009',
+        top: true,
         price: '0.00'
     },
     {
@@ -54,6 +55,7 @@ const usaBudweiser = [
         image: 'glasses/img/Usa/Budweiser/Budweiser_Clydesdales.webp',
         thumbnail: 'glasses/img/Usa/Budweiser/thumbnail/Budweiser_Clydesdales.webp',
         box: '011',
+        top: true,
         price: '0.00'
     },
 ];

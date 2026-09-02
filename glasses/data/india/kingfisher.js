@@ -9,6 +9,7 @@ const indiaKingfisher = [
         thumbnail: 'glasses/img/India/Kingfisher/thumbnail/Kingfisher_Half_Pint.webp',
         extraImage: 'glasses/img/India/Kingfisher/extra/Kingfisher_Half_Pint.webp',
         box: '009',
+        top: true,
         price: '1.00'
     },
 ];
