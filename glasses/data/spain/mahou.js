@@ -43,7 +43,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_300.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_300.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -54,7 +54,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Cinco_Estrellas_Jarra_300.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Cinco_Estrellas_Jarra_300.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -109,7 +109,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1570.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1570.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -122,6 +122,17 @@ const spainMahou = [
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_609.webp',
         box: '012',
         price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Persia 539 a.C.',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_539.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_539.webp',
+        box: 'P006',
+        price: '2.00'
     },
     {
         name: 'Mahou Historia de la Cerveza Azul',
@@ -175,7 +186,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1050.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1050.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -186,7 +197,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1170.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1170.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -208,7 +219,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1260.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1260.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -221,6 +232,28 @@ const spainMahou = [
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1392.webp',
         box: '012',
         price: '0.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Imprenta año 1452',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1452.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1452.webp',
+        box: 'P006',
+        price: '2.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Renacimiento año 1519',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1519.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1519.webp',
+        box: 'P006',
+        price: '2.00'
     },
     {
         name: 'Mahou Historia de la Cerveza Azul',
@@ -241,8 +274,19 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1654.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1654.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
+    },
+    {
+        name: 'Mahou Historia de la Cerveza Azul',
+        type: 'Jarra 300ml',
+        description: 'Ilustracion año 1798',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1798.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1798.webp',
+        box: 'P006',
+        price: '2.00'
     },
     {
         name: 'Mahou Historia de la Cerveza Azul',
@@ -252,7 +296,7 @@ const spainMahou = [
         country: 'Spain',
         image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_1830.webp',
         thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_1830.webp',
-        box: '002',
+        box: 'P006',
         price: '1.00'
     },
     {

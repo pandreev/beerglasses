@@ -290,7 +290,7 @@ const germanyOthers = [
         image: 'glasses/img/Germany/Haake_Beck/Haake_Beck_Pils_300ml.webp',
         thumbnail: 'glasses/img/Germany/Haake_Beck/thumbnail/Haake_Beck_Pils_300ml.webp',
         extraImage: 'glasses/img/Germany/Haake_Beck/extra/Haake_Beck_Pils_300ml.webp',
-        box: '002',
+        box: 'P006',
         price: '0.50'
     },
     {

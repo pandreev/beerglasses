@@ -41,7 +41,7 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Copa_250ml.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Copa_250ml.webp',
         extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_Copa_250ml.webp',
-        box: '002',
+        box: 'P006',
         price: '0.50'
     },
     {
@@ -52,7 +52,7 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_200.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_200.webp',
-        box: '002',
+        box: 'P006',
         price: '0.50'
     },
     {
@@ -63,7 +63,7 @@ const spainSanMiguel = [
         country: 'Spain',
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_Malaga.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_Malaga.webp',
-        box: '002',
+        box: 'P006',
         price: '2.00'
     },
     {

@@ -86,13 +86,49 @@ const spainEstrellaGalicia = [
     {
         name: 'Estrella Galicia',
         type: 'Caña 200ml',
-        description: '',
+        description: 'CE M19 0866 Crisal',
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_2_200ml.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_2_200ml.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_2_200ml.webp',
         box: 'P005',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Caña 200ml',
+        description: 'CE M22 0866 Crisal',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_M22_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_M22_200ml.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_M22_200ml.webp',
+        box: 'P006',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Caña 200ml',
+        description: 'CE M24 0866 Crisal',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_M23_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_M23_200ml.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_M23_200ml.webp',
+        box: 'P006',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Caña 200ml',
+        description: 'CE M24 0866 Crisal',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_M24_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_M24_200ml.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_M24_200ml.webp',
+        box: 'P006',
         price: '1.00'
     },
     {
@@ -116,7 +152,7 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_200ml.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_200ml.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_200ml.webp',
-        box: '002',
+        box: 'P006',
         price: '0.50'
     },
     {
@@ -130,6 +166,17 @@ const spainEstrellaGalicia = [
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/1906_Red_Vintage_330ml.webp',
         box: '005',
         price: '1.00'
+    },
+    {
+        name: '1906 Red Vintage',
+        type: 'Copa 330ml',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/1906_Red_Vintage_330ml_2.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/1906_Red_Vintage_330ml_2.webp',
+        box: 'P006',
+        price: '0.00'
     },
     {
         name: 'Estrella Galicia',
@@ -168,13 +215,61 @@ const spainEstrellaGalicia = [
     {
         name: 'Estrella Galicia',
         type: 'Copa 30cl',
-        description: 'Xacobeo 2021',
+        description: 'CE M21 0300 Xacobeo 2021',
         brewery: 'Estrella Galicia',
         country: 'Spain',
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_copa_30cl.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_copa_30cl.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_copa_30cl.webp',
         price: '0.00'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Copa 30cl',
+        description: 'CE M24 0300',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_copa_M24_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_copa_M24_30cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_copa_M24_30cl.webp',
+        box: 'P006',
+        price: '2.00'
+    },
+    {
+        name: 'Estrella Galicia 0.0 Tostada',
+        type: 'Copa 30cl',
+        description: 'CE M24 0300',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Tostada_M24_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Tostada_M24_30cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Tostada_M24_30cl.webp',
+        box: 'P006',
+        price: '2.00'
+    },
+    {
+        name: 'Estrella Galicia 0.0',
+        type: 'Copa 30cl',
+        description: 'CE M22 Crisal 0866 Xacobeo 21-22',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_00_M22_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_00_M22_30cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_00_M22_30cl.webp',
+        box: 'P006',
+        price: '2.00'
+    },
+    {
+        name: 'Estrella Galicia 0.0',
+        type: 'Copa 30cl',
+        description: '',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_00_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_00_30cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_00_30cl.webp',
+        box: 'P006',
+        price: '2.00'
     },
     {
         name: 'Estrella Galicia',
