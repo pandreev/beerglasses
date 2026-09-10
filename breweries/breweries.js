@@ -139,6 +139,16 @@ const breweries = {
     "Heineken": "breweries/img/Netherlands/Heineken.webp",
     "La Trappe": "breweries/img/Netherlands/La_Trappe.webp",
     // endregion
+    // region Norway
+    "Ringnes": "breweries/img/Norway/Ringnes.webp",
+    "Mack": "breweries/img/Norway/Mack.webp",
+    "Aass": "breweries/img/Norway/Aass.webp",
+    "Nøgne": "breweries/img/Norway/Nogne.webp",
+    "Hansa": "breweries/img/Norway/Hansa.webp",
+    "Schouskjelleren": "breweries/img/Norway/Schouskjelleren.webp",
+    "Frydenlund": "breweries/img/Norway/Frydenlund.webp",
+    "Arendals Bryggeri": "breweries/img/Norway/Arendals_Bryggeri.webp",
+    // endregion
     // region Portugal
     "Super Bock": "breweries/img/Portugal/SuperBock.webp",
     // endregion
@@ -161,6 +171,7 @@ const breweries = {
     "Cerveses La Pirata": "breweries/img/Spain/Cerveses_La_Pirata.webp",
     "Cruzcampo": "breweries/img/Spain/Cruzcampo.webp",
     "Edge Brewing": "breweries/img/Spain/Edge_Brewing.webp",
+    "El Alcázar": "breweries/img/Spain/El_Alcazar.webp",
     "El Aguila": "breweries/img/Spain/ElAguila.webp",
     "Euro Pils": "breweries/img/Spain/EuroPils.webp",
     "Fábrica Maravillas": "breweries/img/Spain/Fabrica_Maravillas.webp",
@@ -171,6 +182,7 @@ const breweries = {
     "Mahou": "breweries/img/Spain/Mahou.webp",
     "San Miguel": "breweries/img/Spain/San_Miguel.webp",
     "Transgressive Beers": "breweries/img/Spain/Transgressive_Beers.webp",
+    "Turia": "breweries/img/Spain/Turia.webp",
     "Victoria Malaga": "breweries/img/Spain/Victoria.webp",
     // endregion
     // region Sweden

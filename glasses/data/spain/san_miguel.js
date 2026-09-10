@@ -41,7 +41,7 @@ const spainSanMiguel = [
         image: 'glasses/img/Spain/San_Miguel/San_Miguel_Copa_250ml.webp',
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Copa_250ml.webp',
         extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_Copa_250ml.webp',
-        box: 'P006',
+        box: 'P007',
         price: '0.50'
     },
     {
@@ -188,5 +188,29 @@ const spainSanMiguel = [
         thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Especial_PilsnerCristal_200ml.webp',
         box: '011',
         price: '1.00'
+    },
+    {
+        name: 'Cervezas San Miguel since 1890',
+        type: '0,4l',
+        description: '0,4l rastal CE M24 0113',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_M24_Norway.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_M24_Norway.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_M24_Norway.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: 'San Miguel Exploring the World since 1890',
+        type: '0,4l',
+        description: '0,4l rastal CE M23 0113',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_M23_Norway.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_M23_Norway.webp',
+        extraImage: 'glasses/img/Spain/San_Miguel/extra/San_Miguel_M23_Norway.webp',
+        box: 'P007',
+        price: '6.00'
     },
 ];

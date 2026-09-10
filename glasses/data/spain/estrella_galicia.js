@@ -244,7 +244,7 @@ const spainEstrellaGalicia = [
         image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Tostada_M24_30cl.webp',
         thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Tostada_M24_30cl.webp',
         extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Tostada_M24_30cl.webp',
-        box: 'P006',
+        box: 'P007',
         price: '2.00'
     },
     {

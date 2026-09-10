@@ -26,6 +26,7 @@ const translations = {
       Morocco: "Morocco",
       Italy: "Italy",
       Netherlands: "Netherlands",
+      Norway: "Norway",
       Poland: "Poland",
       Portugal: "Portugal",
       Romania: "Romania",

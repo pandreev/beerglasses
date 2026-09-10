@@ -32,4 +32,85 @@ const spainDamm = [
         box: 'P005',
         price: '0.00'
     },
+    {
+        name: 'Voll Damm Doble Malta',
+        type: 'Copa 30cl',
+        description: 'CE M20 0112 RITZENHOFF',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Voll_Damm_Doble_Malta_M20.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Voll_Damm_Doble_Malta_M20.webp',
+        extraImage: 'glasses/img/Spain/Damm/extra/Voll_Damm_Doble_Malta_M20.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Voll Damm Doble Malta',
+        type: '0,5l',
+        description: 'Oktoberfest Ritzenhoff',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Voll_Damm_Doble_Malta_Oktoberfest.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Voll_Damm_Doble_Malta_Oktoberfest.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Damm Girona',
+        type: 'Copa 20cl',
+        description: 'CE M25 0112 RITZENHOFF',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_Girona_20cl_M25.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_Girona_20cl_M25.webp',
+        extraImage: 'glasses/img/Spain/Damm/extra/Estrella_Damm_Girona_20cl_M25.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Damm Girona',
+        type: 'Copa 33cl',
+        description: 'CE M26 0112 RITZENHOFF',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_Girona_33cl_M26.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_Girona_33cl_M26.webp',
+        extraImage: 'glasses/img/Spain/Damm/extra/Estrella_Damm_Girona_33cl_M26.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Damm',
+        type: 'Copa 33cl',
+        description: '33cl RITZENHOFF',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_33cl.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_33cl.webp',
+        extraImage: 'glasses/img/Spain/Damm/extra/Estrella_Damm_33cl.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Estrella Damm Dorada',
+        type: 'Vaso 200ml',
+        description: 'Cerveza Especial',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_Dorada_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_Dorada_200ml.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Damm-Bier',
+        type: 'Vaso 300ml',
+        description: 'Premium Quality',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Damm_Bier_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Damm_Bier_300ml.webp',
+        box: 'P007',
+        price: '1.00'
+    },
 ];

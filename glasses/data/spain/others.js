@@ -167,4 +167,27 @@ const spainOthers = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: 'Turia',
+        type: 'Copa 33cl',
+        description: 'CE M25 0122 RITZENHOFF',
+        brewery: 'Turia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Turia/Turia_33cl_M25.webp',
+        thumbnail: 'glasses/img/Spain/Turia/thumbnail/Turia_33cl_M25.webp',
+        extraImage: 'glasses/img/Spain/Turia/extra/Turia_33cl_M25.webp',
+        box: 'P007',
+        price: '1.00'
+    },
+    {
+        name: 'Alcázar Premium',
+        type: 'Vaso 300ml',
+        description: '',
+        brewery: 'El Alcázar',
+        country: 'Spain',
+        image: 'glasses/img/Spain/ElAlcazar/Alcazar_300ml.webp',
+        thumbnail: 'glasses/img/Spain/ElAlcazar/thumbnail/Alcazar_300ml.webp',
+        box: 'P007',
+        price: '0.00'
+    },
 ];

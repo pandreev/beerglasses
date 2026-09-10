@@ -1,0 +1,86 @@
+const norwayOthers = [
+    {
+        name: "Mack",
+        type: '0,6l',
+        description: '',
+        brewery: "Mack",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Mack/Mack_06l.webp',
+        thumbnail: 'glasses/img/Norway/Mack/thumbnail/Mack_06l.webp',
+        extraImage: 'glasses/img/Norway/Mack/extra/Mack_06l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Aass",
+        type: '0,4l',
+        description: 'SaHm 0,4l CE M24 0113 C 01',
+        brewery: "Aass",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Aass/Aass_04l.webp',
+        thumbnail: 'glasses/img/Norway/Aass/thumbnail/Aass_04l.webp',
+        extraImage: 'glasses/img/Norway/Aass/extra/Aass_04l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Nøgne",
+        type: '0,4l',
+        description: 'rastal',
+        brewery: "Nøgne",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Nogne/Nogne_04l.webp',
+        thumbnail: 'glasses/img/Norway/Nogne/thumbnail/Nogne_04l.webp',
+        extraImage: 'glasses/img/Norway/Nogne/extra/Nogne_04l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Hansa",
+        type: '0,4l',
+        description: 'rastal',
+        brewery: "Hansa",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Hansa/Hansa_04l.webp',
+        thumbnail: 'glasses/img/Norway/Hansa/thumbnail/Hansa_04l.webp',
+        extraImage: 'glasses/img/Norway/Hansa/extra/Hansa_04l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Schouskjelleren",
+        type: '0.35l',
+        description: 'rastal',
+        brewery: "Schouskjelleren",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Schouskjelleren/Schouskjelleren_035l.webp',
+        thumbnail: 'glasses/img/Norway/Schouskjelleren/thumbnail/Schouskjelleren_035l.webp',
+        extraImage: 'glasses/img/Norway/Schouskjelleren/extra/Schouskjelleren_035l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Frydenlund",
+        type: '0,6L',
+        description: 'rastal',
+        brewery: "Frydenlund",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Frydenlund/Frydenlund_06l.webp',
+        thumbnail: 'glasses/img/Norway/Frydenlund/thumbnail/Frydenlund_06l.webp',
+        extraImage: 'glasses/img/Norway/Frydenlund/extra/Frydenlund_06l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+    {
+        name: "Arendals",
+        type: '0,5l',
+        description: 'rastal',
+        brewery: "Arendals Bryggeri",
+        country: 'Norway',
+        image: 'glasses/img/Norway/Arendals/Arendals_05l.webp',
+        thumbnail: 'glasses/img/Norway/Arendals/thumbnail/Arendals_05l.webp',
+        extraImage: 'glasses/img/Norway/Arendals/extra/Arendals_05l.webp',
+        box: 'P007',
+        price: '6.00'
+    },
+];
