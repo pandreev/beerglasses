@@ -9,20 +9,39 @@
 <body style="background:#e9e3de;">
     <div style="padding:2em;max-width:600px;margin:auto;">
         <h1 id="info-title">Info & Contact</h1>
-        <p id="info-text">
-            If you want to get in touch, please email me at <a href="mailto:petar.andreev@gmail.com">petar.andreev@gmail.com</a>.<br>
-            You can also find me on <a href="https://www.facebook.com/Pesho/" target="_blank">Facebook</a>.
-        </p>
+        <h2 id="cf-title" style="margin-top:2em;">Send me a message</h2>
+        <form id="contact-form">
+            <div style="margin-bottom:1em;">
+                <label id="cf-name-label" for="cf-name">Name</label><br>
+                <input type="text" id="cf-name" name="from_name" required style="width:100%;padding:0.5em;box-sizing:border-box;">
+            </div>
+            <div style="margin-bottom:1em;">
+                <label id="cf-email-label" for="cf-email">Your email</label><br>
+                <input type="email" id="cf-email" name="reply_to" required style="width:100%;padding:0.5em;box-sizing:border-box;">
+            </div>
+            <div style="margin-bottom:1em;">
+                <label id="cf-message-label" for="cf-message">Message</label><br>
+                <textarea id="cf-message" name="message" rows="5" required style="width:100%;padding:0.5em;box-sizing:border-box;"></textarea>
+            </div>
+            <button type="submit" id="cf-submit">Send</button>
+            <p id="cf-status" style="margin-top:1em;"></p>
+        </form>
         <a href="index.html" style="display:inline-block;margin-top:2em;">← Back to main page</a>
     </div>
     <script src="translations.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
     <script>
     // Multi-language support for info page
     let currentLang = localStorage.getItem('lang') || 'en';
     function updateInfoTranslations() {
-        document.getElementById('info-title').textContent = translations[currentLang].infoTitle;
-        document.getElementById('info-text').innerHTML = translations[currentLang].infoText;
-        document.querySelector('a[href="index.html"]').textContent = translations[currentLang].infoBack;
+        const t = translations[currentLang];
+        document.getElementById('info-title').textContent = t.infoTitle;
+        document.querySelector('a[href="index.html"]').textContent = t.infoBack;
+        document.getElementById('cf-title').textContent = t.cfTitle;
+        document.getElementById('cf-name-label').textContent = t.cfName;
+        document.getElementById('cf-email-label').textContent = t.cfEmail;
+        document.getElementById('cf-message-label').textContent = t.cfMessage;
+        document.getElementById('cf-submit').textContent = t.cfSend;
     }
     document.addEventListener('DOMContentLoaded', updateInfoTranslations);
     // Optional: allow language change from main page
@@ -31,6 +50,39 @@
             currentLang = e.newValue;
             updateInfoTranslations();
         }
+    });
+
+    // EmailJS contact form
+    // 1. Create a free account at https://www.emailjs.com/
+    // 2. Add an Email Service (e.g. connect your Gmail) -> copy its Service ID
+    // 3. Create an Email Template with variables {{from_name}}, {{reply_to}}, {{message}} -> copy its Template ID
+    // 4. Copy your Public Key from Account > General
+    // 5. Replace the three placeholders below
+    const EMAILJS_PUBLIC_KEY = '5YnBp-bslDjwCJhF7';
+    const EMAILJS_SERVICE_ID = 'service_7u2jtst';
+    const EMAILJS_TEMPLATE_ID = 'template_jl1gg9b';
+
+    emailjs.init(EMAILJS_PUBLIC_KEY);
+
+    document.getElementById('contact-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const submitBtn = document.getElementById('cf-submit');
+        const status = document.getElementById('cf-status');
+        submitBtn.disabled = true;
+        status.textContent = translations[currentLang].cfSending;
+
+        emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, this)
+            .then(function() {
+                status.textContent = translations[currentLang].cfSuccess;
+                document.getElementById('contact-form').reset();
+            })
+            .catch(function(err) {
+                status.textContent = translations[currentLang].cfError;
+                console.error('EmailJS error:', err);
+            })
+            .finally(function() {
+                submitBtn.disabled = false;
+            });
     });
     </script>
 </body>
