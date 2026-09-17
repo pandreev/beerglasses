@@ -34,4 +34,16 @@ const spainAmbar = [
         box: '005',
         price: '0.00'
     },
+    {
+        name: 'Ambar 1900',
+        type: 'Copa 0.3l',
+        description: 'RC',
+        brewery: 'Ambar',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Ambar/Ambar_1900_03l.webp',
+        thumbnail: 'glasses/img/Spain/Ambar/thumbnail/Ambar_1900_03l.webp',
+        extraImage: 'glasses/img/Spain/Ambar/extra/Ambar_1900_03l.webp',
+        box: 'P007',
+        price: '2.00'
+    },
 ];

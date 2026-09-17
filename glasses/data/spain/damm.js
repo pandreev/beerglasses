@@ -82,14 +82,26 @@ const spainDamm = [
     {
         name: 'Estrella Damm',
         type: 'Copa 33cl',
-        description: '33cl RITZENHOFF',
+        description: '33cl RITZENHOFF CE M25 0122',
         brewery: 'Damm',
         country: 'Spain',
         image: 'glasses/img/Spain/Damm/Estrella_Damm_33cl.webp',
         thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_33cl.webp',
         extraImage: 'glasses/img/Spain/Damm/extra/Estrella_Damm_33cl.webp',
+        extraImage2: 'glasses/img/Spain/Damm/extra/Estrella_Damm_33cl_2.webp',
         box: 'P007',
         price: '1.00'
+    },
+    {
+        name: 'Estrella Damm',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'Damm',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Damm/Estrella_Damm_500ml.webp',
+        thumbnail: 'glasses/img/Spain/Damm/thumbnail/Estrella_Damm_500ml.webp',
+        box: 'P007',
+        price: '2.00'
     },
     {
         name: 'Estrella Damm Dorada',

@@ -10,6 +10,7 @@ const breweries = {
     "Brasserie d'Achouffe": "breweries/img/Belgium/Achouffe.webp",
     "Brouwerij The Musketeers": "breweries/img/Belgium/Brouwerij-the-Musketeers.webp",
     "Brugse Zot": "breweries/img/Belgium/Brugse_zot.webp",
+    "Cuvée des Trolls": "breweries/img/Belgium/Cuvee_des_Trolls.webp",
     "Delirium": "breweries/img/Belgium/Delirium.webp",
     "Maredsous": "breweries/img/Belgium/Maredsous.webp",
     "Martin's Pale Ale": "breweries/img/Belgium/Martins_Pale_Ale.webp",
@@ -116,6 +117,9 @@ const breweries = {
     "Mythos": "breweries/img/Greece/Mythos.webp",
     "Fix": "breweries/img/Greece/Fix.webp",
     // endregion
+    // region Malta
+    "Cisk": "breweries/img/Malta/Cisk.webp",
+    // endregion
     // region India
     "Kingfisher": "breweries/img/India/Kingfisher.webp",
     // endregion
@@ -199,11 +203,26 @@ const breweries = {
     "Kirin": "breweries/img/Japan/Kirin.webp",
     "Sapporo": "breweries/img/Japan/Sapporo.webp",
     // endregion
+    // region Thailand
+    "Singha": "breweries/img/Thailand/Singha.webp",
+    // endregion
+    // region Costa Rica
+    "Imperial": "breweries/img/CostaRica/Imperial.webp",
+    // endregion
     // region Argentina
     "Quilmes": "breweries/img/Argentina/Quilmes.webp",
     // endregion
+    // region Uruguay
+    "Cabesas Bier": "breweries/img/Uruguay/CabesasBier.webp",
+    // endregion
+    // region Venezuela
+    "Polar": "breweries/img/Venezuela/Polar.webp",
+    // endregion
     // region Australia
     "Foster's": "breweries/img/Australia/Fosters.webp",
+    // endregion
+    // region Tahiti
+    "Hinano": "breweries/img/Tahiti/Hinano.webp",
     // endregion
     // region Morocco
     "Brasseries du Maroc": "breweries/img/Morocco/BrasseriesDuMaroc.webp",

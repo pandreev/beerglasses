@@ -24,4 +24,15 @@ const spainDorada = [
         top: true,
         price: '1.00'
     },
+    {
+        name: 'Dorada',
+        type: 'Caña 200ml',
+        description: '',
+        brewery: 'Dorada',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Dorada/Dorada_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Dorada/thumbnail/Dorada_200ml.webp',
+        box: 'P007',
+        price: '2.00'
+    },
 ];

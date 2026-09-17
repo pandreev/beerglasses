@@ -303,4 +303,16 @@ const belgiumOthers = [
         box: '010',
         price: '1.00'
     },
+    {
+        name: "Cuvée des Trolls",
+        type: '25cl',
+        description: 'CE M13 0122 D',
+        brewery: "Cuvée des Trolls",
+        country: 'Belgium',
+        image: 'glasses/img/Belgium/CuveeDesTrolls/Cuvee_Des_Trolls_25cl_M13.webp',
+        thumbnail: 'glasses/img/Belgium/CuveeDesTrolls/thumbnail/Cuvee_Des_Trolls_25cl_M13.webp',
+        extraImage: 'glasses/img/Belgium/CuveeDesTrolls/extra/Cuvee_Des_Trolls_25cl_M13.webp',
+        box: 'P007',
+        price: '1.00'
+    },
 ];

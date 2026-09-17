@@ -11,6 +11,28 @@ const spainSanMiguel = [
         price: '0.50'
     },
     {
+        name: 'San Miguel Premium',
+        type: 'Copa 300ml',
+        description: '1516',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Premium_1516.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Premium_1516.webp',
+        box: 'P007',
+        price: '2.00'
+    },
+    {
+        name: 'San Miguel Sistema Duotank',
+        type: 'Jarra 0,2ll',
+        description: 'El sabor de la cerveza recien elaborada',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Duotank_02l.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Duotank_02l.webp',
+        box: 'P007',
+        price: '2.00'
+    },
+    {
         name: 'San Miguel',
         type: 'Chupito 100ml',
         description: 'Con TÈ sabor limon',

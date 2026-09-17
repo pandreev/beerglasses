@@ -58,4 +58,15 @@ const usaBudweiser = [
         top: true,
         price: '0.00'
     },
+    {
+        name: 'Budweiser',
+        type: '200ml',
+        description: '',
+        brewery: 'Budweiser',
+        country: 'United States of America',
+        image: 'glasses/img/Usa/Budweiser/Budweiser_200ml.webp',
+        thumbnail: 'glasses/img/Usa/Budweiser/thumbnail/Budweiser_200ml.webp',
+        box: 'P007',
+        price: '2.00'
+    },
 ];

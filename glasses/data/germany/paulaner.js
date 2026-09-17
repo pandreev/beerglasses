@@ -82,6 +82,17 @@ const germanyPaulaner = [
     },
     {
         name: 'Paulaner Helles',
+        type: 'Glass 0,3l',
+        description: '',
+        brewery: 'Paulaner',
+        country: 'Germany',
+        image: 'glasses/img/Germany/Paulaner/Paulaner_helles_03l.webp',
+        thumbnail: 'glasses/img/Germany/Paulaner/thumbnail/Paulaner_helles_03l.webp',
+        box: 'P007',
+        price: '2.00'
+    },
+    {
+        name: 'Paulaner Helles',
         type: 'Maßkrug 1l',
         description: '',
         brewery: 'Paulaner',
