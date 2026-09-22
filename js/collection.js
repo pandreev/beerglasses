@@ -119,7 +119,7 @@ const countryFlags = {
     'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
     'Spain': '🇪🇸',
     'Sweden': '🇸🇪',
-    'Tahiti': '🇵🇫',
+    'French Polynesia': '🇵🇫',
     'Thailand': '🇹🇭',
     'Ukraine': '🇺🇦',
     'Uruguay': '🇺🇾',
@@ -159,7 +159,7 @@ const countryContinents = {
     "China": "Asia",
     "Thailand": "Asia",
     "Australia": "Oceania",
-    "Tahiti": "Oceania",
+    "French Polynesia": "Oceania",
 };
 
 const continentOrder = ["Europe", "North America", "Asia", "South America", "Africa", "Oceania"];

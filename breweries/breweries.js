@@ -221,7 +221,7 @@ const breweries = {
     // region Australia
     "Foster's": "breweries/img/Australia/Fosters.webp",
     // endregion
-    // region Tahiti
+    // region French Polynesia
     "Hinano": "breweries/img/Tahiti/Hinano.webp",
     // endregion
     // region Morocco
