@@ -56,7 +56,9 @@ const breweries = {
     "Tuborg": "breweries/img/Denmark/Tuborg.webp",
     // endregion
     // region England
+    "Bass Brewery": "breweries/img/England/BassBrewery.webp",
     "Carling": "breweries/img/England/Carling.webp",
+    "Cobra Beer": "breweries/img/England/Cobra.webp",
     "John Smith's": "breweries/img/England/John_Smiths.webp",
     "Newcastle Brown Ale": "breweries/img/England/Newcastle_Brown_Ale.webp",
     // endregion
@@ -154,6 +156,7 @@ const breweries = {
     "Arendals Bryggeri": "breweries/img/Norway/Arendals_Bryggeri.webp",
     // endregion
     // region Portugal
+    "Sagres": "breweries/img/Portugal/Sagres.webp",
     "Super Bock": "breweries/img/Portugal/SuperBock.webp",
     // endregion
     // region Scotland
@@ -194,6 +197,7 @@ const breweries = {
     // endregion
     // region Usa
     "Budweiser": "breweries/img/Usa/Budweiser.webp",
+    "Goose Island": "breweries/img/Usa/GooseIsland.webp",
     "Flying Dog Brewery": "breweries/img/Usa/Flying_Dog_Brewery.webp",
     //endregion
     // region China
