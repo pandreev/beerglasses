@@ -127,6 +127,15 @@ function renderBreweryGlasses(country, brewery) {
     section.className = 'country-section';
     section.innerHTML = `<div class="country-title">${countryFlags[country] || ''} ${translations[currentLang].countries[country] || country} - <span class="brewery-name">${brewery}</span></div>`;
 
+    const breweryDescription = translations[currentLang].breweryDescription?.[brewery]
+        || translations.en.breweryDescription?.[brewery];
+    if (breweryDescription) {
+        const descriptionP = document.createElement('p');
+        descriptionP.className = 'brewery-description';
+        descriptionP.textContent = breweryDescription;
+        section.appendChild(descriptionP);
+    }
+
     const searchContainer = document.createElement('div');
     searchContainer.className = 'brewery-search-container';
     const searchInput = document.createElement('input');

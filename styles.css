@@ -29,6 +29,12 @@ h1 {
     margin-bottom: 10px;
     color: #333;
 }
+.brewery-description {
+    max-width: 800px;
+    margin: 0 0 16px;
+    color: #555;
+    line-height: 1.5;
+}
 .glass-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(140px, 220px));
