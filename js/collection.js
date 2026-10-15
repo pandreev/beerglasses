@@ -28,6 +28,7 @@ const beerGlasses = [
     ...denmarkMikkeller,
     ...greeceMythos,
     ...greeceFix,
+    ...englandCobra,
     ...englandOthers,
     ...indiaKingfisher,
     ...italyNastroAzzurro,
@@ -60,6 +61,7 @@ const beerGlasses = [
     ...netherlandsLaTrappe,
     ...norwayRingnes,
     ...norwayOthers,
+    ...portugalSagres,
     ...portugalSuperBock,
     ...scotlandBrewdog,
     ...scotlandSkol,
@@ -83,6 +85,7 @@ const beerGlasses = [
     ...venezuelaPolar,
     ...uruguayCabesasBier,
     ...usaBudweiser,
+    ...usaGooseIsland,
     ...usaFlyingDog,
 ];
 

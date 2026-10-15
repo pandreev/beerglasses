@@ -122,4 +122,15 @@ const spainAlhambra = [
         box: 'P005',
         price: '1.00'
     },
+    {
+        name: 'Alhambra',
+        type: 'Vaso 200ml',
+        description: '',
+        brewery: 'Alhambra',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Alhambra/Alhambra_Vaso_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Alhambra/thumbnail/Alhambra_Vaso_200ml.webp',
+        box: 'P008',
+        price: '0.50'
+    },
 ];

@@ -2,7 +2,7 @@ const portugalSuperBock = [
     {
         name: 'Super Bock',
         type: '30cl',
-        description: '',
+        description: 'ACR 03)',
         brewery: 'Super Bock',
         country: 'Portugal',
         image: 'glasses/img/Portugal/Super_Bock/Super_Bock_30cl.webp',
@@ -10,5 +10,76 @@ const portugalSuperBock = [
         extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_30cl.webp',
         box: '005',
         price: '0.00'
+    },
+    {
+        name: 'Super Bock',
+        type: '20cl',
+        description: 'Crisal 01)',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_20cl_01.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_20cl_01.webp',
+        extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_20cl_01.webp',
+        box: 'P008',
+        price: '1.00'
+    },
+    {
+        name: 'Super Bock Stout',
+        type: '25cl',
+        description: 'CE M19 Crisal 0866',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_Stout_25cl_M19.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_Stout_25cl_M19.webp',
+        extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_Stout_25cl_M19.webp',
+        box: 'P008',
+        price: '1.00'
+    },
+    {
+        name: 'Super Bock',
+        type: '30cl',
+        description: 'VCA',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_30cl_VCA.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_30cl_VCA.webp',
+        extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_30cl_VCA.webp',
+        box: 'P008',
+        price: '1.00'
+    },
+    {
+        name: 'Super Bock',
+        type: '20cl',
+        description: 'Crisal 99)',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_20cl_99.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_20cl_99.webp',
+        extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_20cl_99.webp',
+        box: 'P008',
+        price: '1.00'
+    },
+    {
+        name: 'Super Bock',
+        type: '25cl',
+        description: 'Crisal 03)',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_25cl_03.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_25cl_03.webp',
+        extraImage: 'glasses/img/Portugal/Super_Bock/extra/Super_Bock_25cl_03.webp',
+        box: 'P008',
+        price: '1.00'
+    },
+    {
+        name: 'Super Bock',
+        type: '20cl',
+        description: '',
+        brewery: 'Super Bock',
+        country: 'Portugal',
+        image: 'glasses/img/Portugal/Super_Bock/Super_Bock_20cl_2.webp',
+        thumbnail: 'glasses/img/Portugal/Super_Bock/thumbnail/Super_Bock_20cl_2.webp',
+        box: 'P008',
+        price: '1.00'
     },
 ];

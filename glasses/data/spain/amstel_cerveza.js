@@ -43,4 +43,26 @@ const spainAmstelCerveza = [
         box: '011',
         price: '1.00'
     },
+    {
+        name: 'Amstel Cerveza',
+        type: 'Vaso 200ml',
+        description: '100% Malta',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/AmstelCerveza/Amstel_Cerveza_Malta_200ml.webp',
+        thumbnail: 'glasses/img/Spain/AmstelCerveza/thumbnail/Amstel_Cerveza_Malta_200ml.webp',
+        box: 'P008',
+        price: '0.50'
+    },
+    {
+        name: 'Amstel Cerveza',
+        type: 'Jarra 500ml',
+        description: '100% Malta',
+        brewery: 'Amstel Cerveza',
+        country: 'Spain',
+        image: 'glasses/img/Spain/AmstelCerveza/Amstel_Cerveza_Malta_500ml.webp',
+        thumbnail: 'glasses/img/Spain/AmstelCerveza/thumbnail/Amstel_Cerveza_Malta_500ml.webp',
+        box: 'P008',
+        price: '0.50'
+    },
 ];

@@ -209,6 +209,17 @@ const spainCruzcampo = [
         price: '0.00'
     },
     {
+        name: 'Cruzcampo Especial',
+        type: 'Caña 200ml',
+        description: 'Cerveza de Barril sin Pasteurizar',
+        brewery: 'Cruzcampo',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Cruzcampo/Cruzcampo_Especial_200ml.webp',
+        thumbnail: 'glasses/img/Spain/Cruzcampo/thumbnail/Cruzcampo_Especial_200ml.webp',
+        box: 'P008',
+        price: '0.50'
+    },
+    {
         name: 'Extra Braun',
         type: 'Caña 200ml',
         description: '',

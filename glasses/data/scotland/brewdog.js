@@ -11,4 +11,15 @@ const scotlandBrewdog = [
         box: '006',
         price: '1.00'
     },
+    {
+        name: "Brewdog",
+        type: 'Pint',
+        description: 'Craft beer for the people',
+        brewery: "Brewdog",
+        country: 'Scotland',
+        image: 'glasses/img/Scotland/Brewdog/Brewdog_Pint.webp',
+        thumbnail: 'glasses/img/Scotland/Brewdog/thumbnail/Brewdog_Pint.webp',
+        box: 'P008',
+        price: '1.00'
+    },
 ];

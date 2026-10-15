@@ -333,6 +333,50 @@ const spainMahou = [
         price: '0.00'
     },
     {
+        name: 'Mahou Serie Elaboración Cerveza',
+        type: 'Jarra 300ml',
+        description: 'La Cervecerria',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_Cervecerria.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_Cervecerria.webp',
+        box: 'P008',
+        price: '3.00'
+    },
+    {
+        name: 'Mahou Serie Elaboración Cerveza',
+        type: 'Jarra 300ml',
+        description: 'El Vendedor de Barilles',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_El_Vendedor_de_Barilles.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_El_Vendedor_de_Barilles.webp',
+        box: 'P008',
+        price: '3.00'
+    },
+    {
+        name: 'Mahou Serie Elaboración Cerveza',
+        type: 'Jarra 300ml',
+        description: 'La Recoleccion del Lupulo',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Jarra_Historia_Lupulo.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Jarra_Historia_Lupulo.webp',
+        box: 'P008',
+        price: '3.00'
+    },
+    {
+        name: 'Mahou',
+        type: 'Copa 300ml',
+        description: '',
+        brewery: 'Mahou',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Mahou/Mahou_Copa_300ml.webp',
+        thumbnail: 'glasses/img/Spain/Mahou/thumbnail/Mahou_Copa_300ml.webp',
+        box: 'P008',
+        price: '2.00'
+    },
+    {
         name: 'Mahou Sin',
         type: 'Vaso 200ml',
         description: '',

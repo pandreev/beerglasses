@@ -45,4 +45,15 @@ const denmarkCarlsberg = [
         box: 'P004',
         price: '1.00'
     },
+    {
+        name: 'Carlsberg',
+        type: '330ml',
+        description: 'UEFA EURO 2012 Poland-Ukraine',
+        brewery: 'Carlsberg',
+        country: 'Denmark',
+        image: 'glasses/img/Denmark/Carlsberg/Carlsberg_330ml_Euro_2012.webp',
+        thumbnail: 'glasses/img/Denmark/Carlsberg/thumbnail/Carlsberg_330ml_Euro_2012.webp',
+        box: 'P008',
+        price: '2.00'
+    },
 ];

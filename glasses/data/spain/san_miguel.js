@@ -235,4 +235,15 @@ const spainSanMiguel = [
         box: 'P007',
         price: '6.00'
     },
+    {
+        name: 'San Miguel',
+        type: 'Jarra 500ml',
+        description: '',
+        brewery: 'San Miguel',
+        country: 'Spain',
+        image: 'glasses/img/Spain/San_Miguel/San_Miguel_Jarra_500.webp',
+        thumbnail: 'glasses/img/Spain/San_Miguel/thumbnail/San_Miguel_Jarra_500.webp',
+        box: 'P008',
+        price: '0.50'
+    },
 ];

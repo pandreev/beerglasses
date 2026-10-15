@@ -226,6 +226,18 @@ const spainEstrellaGalicia = [
     {
         name: 'Estrella Galicia',
         type: 'Copa 30cl',
+        description: 'CE M20 0300 Xacobeo 2021',
+        brewery: 'Estrella Galicia',
+        country: 'Spain',
+        image: 'glasses/img/Spain/Estrella_Galicia/Estrella_Galicia_Copa_M20_30cl.webp',
+        thumbnail: 'glasses/img/Spain/Estrella_Galicia/thumbnail/Estrella_Galicia_Copa_M20_30cl.webp',
+        extraImage: 'glasses/img/Spain/Estrella_Galicia/extra/Estrella_Galicia_Copa_M20_30cl.webp',
+        box: 'P008',
+        price: '0.50'
+    },
+    {
+        name: 'Estrella Galicia',
+        type: 'Copa 30cl',
         description: 'CE M24 0300',
         brewery: 'Estrella Galicia',
         country: 'Spain',

@@ -34,4 +34,15 @@ const englandOthers = [
         box: 'P002',
         price: '1.00'
     },
+    {
+        name: "Bass & Cos Pale Ale",
+        type: 'Pint',
+        description: '',
+        brewery: "Bass Brewery",
+        country: 'England',
+        image: 'glasses/img/England/BassBrewery/Bass_Pale_Ale_Pint.webp',
+        thumbnail: 'glasses/img/England/BassBrewery/thumbnail/Bass_Pale_Ale_Pint.webp',
+        box: 'P008',
+        price: '2.00'
+    },
 ];
