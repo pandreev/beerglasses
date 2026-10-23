@@ -235,6 +235,9 @@ function showGlassModal(glass) {
     modalName.textContent = glass.name;
     modalType.textContent = glass.type;
     modalDescription.textContent = glass.description;
+    const modalYear = document.getElementById('modal-year');
+    modalYear.textContent = glass.year ? `${translations[currentLang].year}: ${glass.year}` : '';
+    modalYear.style.display = glass.year ? '' : 'none';
     modal.style.display = 'flex';
 
     // Push a history entry so the browser back button closes the modal

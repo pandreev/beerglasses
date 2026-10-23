@@ -3,6 +3,7 @@ const indiaKingfisher = [
         name: 'Kingfisher',
         type: '1/2 Pint',
         description: 'CE M06 0126',
+        year: '2006',
         brewery: 'Kingfisher',
         country: 'India',
         image: 'glasses/img/India/Kingfisher/Kingfisher_Half_Pint.webp',

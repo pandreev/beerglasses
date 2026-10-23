@@ -3,6 +3,7 @@ const belgiumLeffe = [
         name: "Leffe",
         type: '0.33L',
         description: '',
+        year: '',
         brewery: "Leffe",
         country: 'Belgium',
         image: 'glasses/img/Belgium/Leffe/Leffe_330ml.webp',

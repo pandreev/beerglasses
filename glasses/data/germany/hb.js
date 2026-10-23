@@ -3,6 +3,7 @@ const germanyHb = [
         name: 'Hofbräuhaus',
         type: 'Maßkrug 1l',
         description: '',
+        year: '',
         brewery: 'Hofbräuhaus',
         country: 'Germany',
         image: 'glasses/img/Germany/HB/HB_1l.webp',

@@ -3,6 +3,7 @@ const germanyLoewenbraeu = [
         name: 'Löwenbräu',
         type: 'Mug 0,5l',
         description: 'Oktoberfest 2015',
+        year: '',
         brewery: 'Löwenbräu',
         country: 'Germany',
         image: 'glasses/img/Germany/Loewenbraeu/Lowenbrau_Oktoberfest_2015.webp',

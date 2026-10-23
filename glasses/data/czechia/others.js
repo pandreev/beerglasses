@@ -3,6 +3,7 @@ const czechiaOthers = [
         name: 'Birell',
         type: '0,3l',
         description: 'Rastal CE M18 0113',
+        year: '2018',
         brewery: 'Birell',
         country: 'Czechia',
         image: 'glasses/img/Czechia/Birell/Birell_300ml.webp',

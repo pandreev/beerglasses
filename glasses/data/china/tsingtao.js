@@ -3,6 +3,7 @@ const chinaTsingtao = [
         name: "Tsingtao",
         type: '250ml',
         description: '',
+        year: '',
         brewery: "Tsingtao",
         country: 'China',
         image: 'glasses/img/China/Tsingtao/Tsingtao_250ml.webp',

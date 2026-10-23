@@ -3,6 +3,7 @@ const venezuelaPolar = [
         name: "Polar",
         type: '200ml',
         description: '',
+        year: '',
         brewery: "Polar",
         country: 'Venezuela',
         image: 'glasses/img/Venezuela/Polar/Polar_200ml.webp',

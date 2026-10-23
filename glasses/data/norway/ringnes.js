@@ -3,6 +3,7 @@ const norwayRingnes = [
         name: "Ringnes",
         type: '0,4l',
         description: 'rastal Født i Oslo',
+        year: '',
         brewery: "Ringnes",
         country: 'Norway',
         image: 'glasses/img/Norway/Ringnes/Ringnes_04l.webp',

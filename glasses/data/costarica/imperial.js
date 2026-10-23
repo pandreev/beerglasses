@@ -3,6 +3,7 @@ const costaRicaImperial = [
         name: "Imperial",
         type: '300ml',
         description: '',
+        year: '',
         brewery: "Imperial",
         country: 'Costa Rica',
         image: 'glasses/img/CostaRica/Imperial/Imperial_300ml.webp',

@@ -71,6 +71,7 @@ const translations = {
     searchResultsTitle: "Search results for",
     noResults: "No glasses found.",
     brewerySearchPlaceholder: "🔍 Search in this brewery...",
+    year: "Year",
     breweryDescription: {
       "Quilmes": "Quilmes is Argentina's best-known beer, first brewed in 1890 at the brewery founded by German immigrant Otto Bemberg in the city of Quilmes near Buenos Aires. Now owned by AB InBev, its light lager with the blue-and-white label is considered a national symbol.",
       "Foster's": "Foster's Lager was first brewed in Melbourne in 1888 by the American-born brothers William and Ralph Foster. Long marketed abroad as the quintessential Australian beer, it is now owned by Asahi in Australia and brewed under licence by Heineken in the UK, where it is especially popular.",
@@ -316,6 +317,7 @@ const translations = {
     searchResultsTitle: "Resultados de búsqueda para",
     noResults: "No se encontraron copas.",
     brewerySearchPlaceholder: "🔍 Buscar en esta cervecería...",
+    year: "Año",
     breweryDescription: {
       "Quilmes": "Quilmes es la cerveza más conocida de Argentina, elaborada por primera vez en 1890 en la cervecería fundada por el inmigrante alemán Otto Bemberg en la ciudad de Quilmes, cerca de Buenos Aires. Hoy pertenece a AB InBev y su lager ligera de etiqueta celeste y blanca se considera un símbolo nacional.",
       "Foster's": "Foster's Lager fue elaborada por primera vez en Melbourne en 1888 por los hermanos estadounidenses William y Ralph Foster. Promocionada durante décadas en el extranjero como la cerveza australiana por excelencia, hoy pertenece a Asahi en Australia y se elabora bajo licencia por Heineken en el Reino Unido, donde es especialmente popular.",
@@ -561,6 +563,7 @@ const translations = {
     searchResultsTitle: "Suchergebnisse für",
     noResults: "Keine Gläser gefunden.",
     brewerySearchPlaceholder: "🔍 In dieser Brauerei suchen...",
+    year: "Jahr",
     breweryDescription: {
       "Quilmes": "Quilmes ist Argentiniens bekanntestes Bier, erstmals 1890 in der Brauerei gebraut, die der deutsche Einwanderer Otto Bemberg in der Stadt Quilmes bei Buenos Aires gründete. Heute gehört die Marke zu AB InBev; ihr helles Lager mit dem blau-weißen Etikett gilt als nationales Symbol.",
       "Foster's": "Foster's Lager wurde 1888 in Melbourne erstmals von den in Amerika geborenen Brüdern William und Ralph Foster gebraut. Im Ausland lange als das australische Bier schlechthin vermarktet, gehört die Marke in Australien heute zu Asahi und wird in Großbritannien, wo sie besonders beliebt ist, von Heineken in Lizenz gebraut.",
@@ -806,6 +809,7 @@ const translations = {
     searchResultsTitle: "Résultats de recherche pour",
     noResults: "Aucun verre trouvé.",
     brewerySearchPlaceholder: "🔍 Rechercher dans cette brasserie...",
+    year: "Année",
     breweryDescription: {
       "Quilmes": "Quilmes est la bière la plus connue d'Argentine, brassée pour la première fois en 1890 dans la brasserie fondée par l'immigrant allemand Otto Bemberg dans la ville de Quilmes, près de Buenos Aires. Appartenant aujourd'hui à AB InBev, sa lager légère à l'étiquette bleu et blanc est considérée comme un symbole national.",
       "Foster's": "La Foster's Lager a été brassée pour la première fois à Melbourne en 1888 par les frères d'origine américaine William et Ralph Foster. Longtemps présentée à l'étranger comme la bière australienne par excellence, elle appartient aujourd'hui à Asahi en Australie et est brassée sous licence par Heineken au Royaume-Uni, où elle est particulièrement populaire.",
@@ -1051,6 +1055,7 @@ const translations = {
     searchResultsTitle: "Резултати от търсенето за",
     noResults: "Не са намерени чаши.",
     brewerySearchPlaceholder: "🔍 Търсене в тази пивоварна...",
+    year: "Година",
     breweryDescription: {
       "Quilmes": "Quilmes е най-известната бира в Аржентина, сварена за първи път през 1890 г. в пивоварната, основана от германския имигрант Ото Бемберг в град Килмес край Буенос Айрес. Днес марката е собственост на AB InBev, а нейният лек лагер със синьо-бял етикет се смята за национален символ.",
       "Foster's": "Foster's Lager е сварена за първи път в Мелбърн през 1888 г. от родените в Америка братя Уилям и Ралф Фостър. Дълго време рекламирана в чужбина като типичната австралийска бира, днес марката принадлежи на Asahi в Австралия, а във Великобритания, където е особено популярна, се произвежда по лиценз от Heineken.",
@@ -1296,6 +1301,7 @@ const translations = {
     searchResultsTitle: "Zoekresultaten voor",
     noResults: "Geen glazen gevonden.",
     brewerySearchPlaceholder: "🔍 Zoeken in deze brouwerij...",
+    year: "Jaar",
     breweryDescription: {
       "Quilmes": "Quilmes is het bekendste bier van Argentinië, voor het eerst gebrouwen in 1890 in de brouwerij die de Duitse immigrant Otto Bemberg oprichtte in de stad Quilmes bij Buenos Aires. Het merk is nu eigendom van AB InBev en de lichte lager met het blauw-witte etiket geldt als nationaal symbool.",
       "Foster's": "Foster's Lager werd in 1888 voor het eerst in Melbourne gebrouwen door de in Amerika geboren broers William en Ralph Foster. Het bier werd in het buitenland lang gepromoot als hét Australische bier; in Australië is het nu eigendom van Asahi en in het Verenigd Koninkrijk, waar het bijzonder populair is, wordt het onder licentie gebrouwen door Heineken.",
@@ -1541,6 +1547,7 @@ const translations = {
     searchResultsTitle: "Wyniki wyszukiwania dla",
     noResults: "Nie znaleziono szklanek.",
     brewerySearchPlaceholder: "🔍 Szukaj w tym browarze...",
+    year: "Rok",
     breweryDescription: {
       "Quilmes": "Quilmes to najbardziej znane piwo Argentyny, warzone po raz pierwszy w 1890 roku w browarze założonym przez niemieckiego imigranta Otto Bemberga w mieście Quilmes pod Buenos Aires. Obecnie należy do AB InBev, a jego lekki lager z biało-niebieską etykietą uchodzi za symbol narodowy.",
       "Foster's": "Foster's Lager został po raz pierwszy uwarzony w Melbourne w 1888 roku przez urodzonych w Ameryce braci Williama i Ralpha Fosterów. Przez lata promowany za granicą jako typowo australijskie piwo, w Australii należy dziś do Asahi, a w Wielkiej Brytanii, gdzie jest szczególnie popularny, warzy go na licencji Heineken.",
@@ -1786,6 +1793,7 @@ const translations = {
     searchResultsTitle: "Резултати претраге за",
     noResults: "Нису пронађене чаше.",
     brewerySearchPlaceholder: "🔍 Претражи у овој пивари...",
+    year: "Година",
     breweryDescription: {
       "Quilmes": "Quilmes је најпознатије пиво Аргентине, први пут скувано 1890. године у пивари коју је основао немачки имигрант Ото Бемберг у граду Килмесу код Буенос Ајреса. Данас је у власништву компаније AB InBev, а његов лагани лагер са плаво-белом етикетом сматра се националним симболом.",
       "Foster's": "Foster's Lager је први пут скуван у Мелбурну 1888. године, а скували су га браћа Вилијам и Ралф Фостер, рођени у Америци. Дуго рекламиран у иностранству као типично аустралијско пиво, данас је у Аустралији у власништву компаније Asahi, док га у Великој Британији, где је посебно популаран, по лиценци производи Heineken.",

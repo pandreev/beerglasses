@@ -3,6 +3,7 @@ const argentinaQuilmes = [
         name: "Quilmes",
         type: '250ml',
         description: '',
+        year: '',
         brewery: "Quilmes",
         country: 'Argentina',
         image: 'glasses/img/Argentina/Quilmes/Quilmes_250ml.webp',

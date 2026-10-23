@@ -3,6 +3,7 @@ const tahitiHinano = [
         name: "Hinano",
         type: '300ml',
         description: '',
+        year: '',
         brewery: "Hinano",
         country: 'French Polynesia',
         image: 'glasses/img/Tahiti/Hinano/Hinano_300ml.webp',

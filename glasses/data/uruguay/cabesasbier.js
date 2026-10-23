@@ -3,6 +3,7 @@ const uruguayCabesasBier = [
         name: "Cabesas Bier",
         type: '200ml',
         description: '',
+        year: '',
         brewery: "Cabesas Bier",
         country: 'Uruguay',
         image: 'glasses/img/Uruguay/CabesasBier/CabesasBier_250ml.webp',

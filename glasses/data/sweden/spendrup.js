@@ -3,6 +3,7 @@ const swedenSpendrup = [
         name: "Spendrup's",
         type: '0.3l',
         description: 'RC',
+        year: '',
         brewery: "Spendrup's",
         country: 'Sweden',
         image: 'glasses/img/Sweden/Spendrup/Spendrup_300ml.webp',

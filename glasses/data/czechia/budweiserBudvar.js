@@ -3,6 +3,7 @@ const czechiaBudweiserBudvar = [
         name: 'Budějovický Budvar',
         type: '0,3l',
         description: 'SaHm',
+        year: '',
         brewery: 'Budweiser Budvar',
         country: 'Czechia',
         image: 'glasses/img/Czechia/BudweiserBudvar/Budejovicky_Budvar_300ml.webp',

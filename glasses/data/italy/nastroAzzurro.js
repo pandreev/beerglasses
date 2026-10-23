@@ -3,6 +3,7 @@ const italyNastroAzzurro = [
         name: "Nastro Azzurro",
         type: '0.2L',
         description: '',
+        year: '',
         brewery: "Nastro Azzurro",
         country: 'Italy',
         image: 'glasses/img/Italy/NastroAzzurro/Nastro_Azzurro_02l.webp',

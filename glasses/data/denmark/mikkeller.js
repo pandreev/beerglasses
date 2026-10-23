@@ -3,6 +3,7 @@ const denmarkMikkeller = [
         name: 'Mikkeller',
         type: '40cl',
         description: 'CE M19 0476',
+        year: '2019',
         brewery: 'Mikkeller',
         country: 'Denmark',
         image: 'glasses/img/Denmark/Mikkeller/Mikkeller_40cl_M19.webp',

@@ -3,6 +3,7 @@ const austriaGoesser = [
         name: 'Gösser',
         type: '1/4l',
         description: '',
+        year: '',
         brewery: 'Gösser',
         country: 'Austria',
         image: 'glasses/img/Austria/Goesser/Goesser_14l.webp',

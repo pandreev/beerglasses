@@ -3,6 +3,7 @@ const englandCobra = [
         name: "Cobra",
         type: 'Pint',
         description: 'CE M17 0126 ARC',
+        year: '2017',
         brewery: "Cobra Beer",
         country: 'England',
         image: 'glasses/img/England/CobraBeer/Cobra_M17.webp',

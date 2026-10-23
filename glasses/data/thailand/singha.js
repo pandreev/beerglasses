@@ -3,6 +3,7 @@ const thailandSingha = [
         name: "Singha Beer",
         type: '300ml',
         description: '',
+        year: '',
         brewery: "Singha",
         country: 'Thailand',
         image: 'glasses/img/Thailand/Singha/Singha_300ml.webp',

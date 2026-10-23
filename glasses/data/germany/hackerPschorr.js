@@ -3,6 +3,7 @@ const germanyHackerPschorr = [
         name: 'Hacker-Pschorr',
         type: 'Maßkrug 1l',
         description: '',
+        year: '',
         brewery: 'Hacker-Pschorr',
         country: 'Germany',
         image: 'glasses/img/Germany/Hacker_Pschorr/Hacker_Pschorr_1l.webp',

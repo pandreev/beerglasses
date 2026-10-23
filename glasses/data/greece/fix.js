@@ -3,6 +3,7 @@ const greeceFix = [
         name: 'Fix Hellas',
         type: '250ml',
         description: '',
+        year: '',
         brewery: 'Fix',
         country: 'Greece',
         image: 'glasses/img/Greece/Fix/Fix_Hellas_250ml.webp',

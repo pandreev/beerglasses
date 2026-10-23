@@ -3,6 +3,7 @@ const czechiaStarobrno = [
         name: 'Starobrno',
         type: '0,3l',
         description: 'SaHm CE M15 1383',
+        year: '2015',
         brewery: 'Starobrno',
         country: 'Czechia',
         image: 'glasses/img/Czechia/Starobrno/Starobrno_03l_M15.webp',

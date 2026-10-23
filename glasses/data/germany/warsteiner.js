@@ -3,6 +3,7 @@ const germanyWarsteiner = [
         name: 'Warsteiner Brewers Cold',
         type: '0,3l',
         description: 'SaHm 0,3l CE M20 0113 C04',
+        year: '2020',
         brewery: 'Warsteiner',
         country: 'Germany',
         image: 'glasses/img/Germany/Warsteiner/Warsteiner_M20_03l.webp',

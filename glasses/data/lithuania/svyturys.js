@@ -3,6 +3,7 @@ const lithuaniaSvyturys = [
         name: "Švyturys",
         type: '0.5L',
         description: '',
+        year: '',
         brewery: "Švyturys",
         country: 'Lithuania',
         image: 'glasses/img/Lithuania/Svyturys/Svyturys_500ml.webp',

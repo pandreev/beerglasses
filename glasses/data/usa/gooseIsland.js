@@ -3,6 +3,7 @@ const usaGooseIsland = [
         name: 'Goose Island',
         type: '300ml',
         description: 'CE 0126 M19 ARC',
+        year: '2019',
         brewery: 'Goose Island',
         country: 'United States of America',
         image: 'glasses/img/Usa/GooseIsland/Goose_Island_Pint.webp',

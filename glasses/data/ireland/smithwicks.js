@@ -4,6 +4,7 @@ const irelandSmithwicks = [
         name: "Smithwick's",
         type: 'Pint',
         description: '06/05',
+        year: '',
         brewery: "Smithwick's",
         country: 'Ireland',
         image: 'glasses/img/Ireland/Smithwicks/Smithwicks_Pint.webp',

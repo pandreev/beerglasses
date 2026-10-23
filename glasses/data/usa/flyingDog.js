@@ -3,6 +3,7 @@ const usaFlyingDog = [
         name: 'Flying Dog Brewery',
         type: '300ml',
         description: '',
+        year: '',
         brewery: 'Flying Dog Brewery',
         country: 'United States of America',
         image: 'glasses/img/Usa/FlyingDog/Flying_Dog_300ml.webp',

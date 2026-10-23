@@ -3,6 +3,7 @@ const maltaCisk = [
         name: "Cisk",
         type: '1/2 Pint',
         description: 'VP 1/2 Pint',
+        year: '',
         brewery: "Cisk",
         country: 'Malta',
         image: 'glasses/img/Malta/Cisk/Cisk_Half_pint.webp',

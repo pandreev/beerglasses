@@ -3,6 +3,7 @@ const moroccoBrasseriesDuMaroc = [
         name: "Tingis Pils",
         type: '0.3L',
         description: '',
+        year: '',
         brewery: "Brasseries du Maroc",
         country: 'Morocco',
         image: 'glasses/img/Morocco/BrasseriesDuMaroc/Tingis_Pils.webp',

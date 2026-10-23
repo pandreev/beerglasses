@@ -3,6 +3,7 @@ const japanSapporo = [
         name: "Sapporo Premium Beer",
         type: '250ml',
         description: '',
+        year: '',
         brewery: "Sapporo",
         country: 'Japan',
         image: 'glasses/img/Japan/Sapporo/Sapporo_250ml.webp',

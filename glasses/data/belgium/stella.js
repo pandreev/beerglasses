@@ -3,6 +3,7 @@ const belgiumStella = [
         name: "Stella Artois",
         type: '0,25l',
         description: 'RC 25cl',
+        year: '',
         brewery: "Stella Artois",
         country: 'Belgium',
         image: 'glasses/img/Belgium/StellaArtois/Stella_Artois_25cl.webp',

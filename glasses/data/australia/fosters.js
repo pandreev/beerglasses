@@ -3,6 +3,7 @@ const australiaFosters = [
         name: "Foster's",
         type: '25cl',
         description: '',
+        year: '',
         brewery: "Foster's",
         country: 'Australia',
         image: 'glasses/img/Australia/Fosters/Fosters_25cl.webp',

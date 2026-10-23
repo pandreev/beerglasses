@@ -3,6 +3,7 @@ const netherlandsBuckler = [
         name: "Buckler",
         type: '300ml',
         description: '',
+        year: '',
         brewery: "Buckler",
         country: 'Netherlands',
         image: 'glasses/img/Netherlands/Buckler/Buckler.webp',

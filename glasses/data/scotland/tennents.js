@@ -3,6 +3,7 @@ const scotlandTennents = [
         name: "Tennent's",
         type: '0.25l',
         description: 'Brewed with passion in Scotland since 1885',
+        year: '',
         brewery: "Tennent's",
         country: 'Scotland',
         image: 'glasses/img/Scotland/Tennents/Tennents_025l.webp',

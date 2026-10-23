@@ -3,6 +3,7 @@ const italyIchnusa = [
         name: "Ichnusa",
         type: '0.2L',
         description: '',
+        year: '',
         brewery: "Ichnusa",
         country: 'Italy',
         image: 'glasses/img/Italy/Ichnusa/Ichnusa_02l.webp',
